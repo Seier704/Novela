@@ -1,0 +1,149 @@
+# -*- coding: utf-8 -*-
+import os
+import sys
+
+# Ruta base del proyecto de novela
+NOVELA_DIR = r"C:\Users\fsilv\OneDrive\Documentos\GitHub\Novela"
+sys.path.insert(0, NOVELA_DIR)
+
+from generar_libro import create_novel_document
+
+CAPITULO_2 = {
+    "header": "Capítulo 2",
+    "title": "Prueba de Fuego y Tierra",
+    "paragraphs": [
+        "El sol de la mañana bañaba los patios de la Gran Academia Militar y Mágica de Solaria con una luz dorada y limpia.",
+        "Cientos de aspirantes abarrotaban la explanada de adoquines, divididos en grupos según sus distritos de procedencia. Había herederos de familias ducales con armaduras relucientes como espejos, damas de alta cuna con túnicas bordadas en hilo de maná y un puñado selecto de plebeyos que habían obtenido cartas de patrocinio militar o gremial.",
+        "Yo llevaba en el bolsillo interior de mi abrigo el pergamino firmado por el Rey. Tenía el derecho irrevocable de cruzar esas puertas sin mover un solo dedo, un privilegio ganado con la sangre de mis padres.",
+        "Pero no pensaba usarlo como un escudo de cobarde.",
+        "Si iba a entrar en este nido de víboras aristocráticas, lo haría midiendo mis propias fuerzas con los demás. Quería saber de qué estaban hechos los supuestos prodigios del reino y, sobre todo, quería que supieran que la Casa Silva no necesitaba limosnas para sostenerse en pie.",
+        "* * *",
+        "La primera fase de la mañana fue la prueba de aptitud física.",
+        "Los instructores de la academia, veteranos de barba canosa y miradas endurecidas por la guerra, nos condujeron hacia el circuito de entrenamiento militar: un terreno escarpado de foso de grava, carreras de resistencia con chalecos de plomo, levantamiento de troncos de roble y pruebas de fuerza de choque sobre pilares de impacto.",
+        "Para mí, fue como volver a casa.",
+        "Tras diez años levantando piedras en las canteras de la frontera y corriendo por los desfiladeros rocosos del sur, el circuito me pareció casi un calentamiento. Me quité el abrigo y me quedé solo con mi camisa de lino gris. A medida que avanzaba la prueba, el sudor empapó la tela, pegándose por completo a mi torso.",
+        "Con un metro setenta y cinco de estatura y noventa kilos de músculo macizo, mi figura no tenía nada que ver con la esbeltez refinada de los nobles de salón. Mis hombros anchos, mi cuello grueso y los cortes densos de mi espalda y brazos llamaban la atención de cualquiera que estuviera cerca.",
+        "A mi alrededor, el contraste era grotesco.",
+        "Varios plebeyos robustos y muchachos provenientes de familias de herreros o guardias fronterizos aguantaban el ritmo con el rostro apretado y dignidad. En cambio, más de la mitad de los nobles jóvenes estaban al borde del colapso: muchachos pálidos apoyados en sus rodillas, vomitando el desayuno sobre la hierba o quejándose de ampollas en las manos mientras sus sirvientes intentaban abanicarles con pañuelos de seda.",
+        "Completé cada estación sin aminorar la marcha. En la prueba de impacto, descargué un puñetazo directo de Jeet Kune Do contra el pilar de madera acolchada. La estructura crujió con un eco seco que hizo que el instructor a cargo levantara la vista de su tablilla, arqueando las cejas con un asentimiento mudo.",
+        "Al terminar, me sequé el sudor de la frente con el antebrazo. Al girarme hacia las gradas laterales donde los alumnos de cursos superiores observaban las pruebas, alcancé a ver una cabellera plateada inconfundible.",
+        "Elysea de Vane estaba de pie junto a la barandilla de mármol. Sus ojos azul zafiro recorrían con detenimiento la línea de aspirantes, pero se detuvieron un instante de más en mi figura húmeda por el esfuerzo. Por una fracción de segundo, noté cómo sus pupilas se dilataban con una curiosidad involuntaria antes de que frunciera el ceño con disgusto fingido y apartara la vista con frialdad.",
+        "Sonreí para mis adentros mientras volvía a ponerme el abrigo.",
+        "* * *",
+        "La segunda etapa fue la evaluación de resonancia mágica.",
+        "Nos congregaron en el pabellón abovedado de la torre este. En el centro del estrado reposaba un pedestal de obsidiana sobre el que flotaba una esfera de cristal translúcido del tamaño de una cabeza humana: el Orbe de Resonancia Primordial.",
+        "—El procedimiento es simple —explicó con voz solemne el Archimaestre de la prueba, un anciano de túnica púrpura con anteojos de plata—. Cada aspirante colocará ambas palmas sobre el orbe y canalizará su flujo vital. El cristal revelará su afinidad elemental y la pureza de su núcleo.",
+        "Uno tras otro, los jóvenes pasaron al frente.",
+        "La inmensa mayoría mostraba un único color: azul para el agua, blanco para el viento o amarillo para el rayo. De cuando en cuando, algún noble talentoso lograba hacer parpadear dos tonos tenues, recibiendo aplausos comedidos de sus familiares en los palcos.",
+        "—Aspirante número ochenta y cuatro: Seier Silva —llamó el escriba.",
+        "Subí los escalones de piedra con mi paso pesado. Los murmullos no tardaron en surgir.",
+        "—¿Silva? ¿De los barones arruinados de la frontera?",
+        "—Miren su porte... parece más un herrero de pueblo que un noble.",
+        "Ignoré las voces. Me paré frente al orbe y apoyé mis dos palmas callosas sobre la superficie fría de cristal.",
+        "Cerré los ojos y liberé la presión que solía mantener contenida en mi pecho.",
+        "El cristal emitió un zumbido profundo, casi un rugido sordo. De inmediato, una luz cegadora brotó del centro de la esfera:",
+        "La mitad derecha se encendió en un carmesí volcánico, furioso como brasas al rojo vivo. La mitad izquierda resplandeció en un verde esmeralda denso y telúrico, pesado como las raíces de una montaña.",
+        "Fuego y Tierra.",
+        "Ambos colores no se repelían; se entrelazaban en espirales densas que hacían temblar la base de obsidiana.",
+        "El Archimaestre dio un paso al frente, ajustándose los anteojos con el ceño fruncido de asombro.",
+        "—Doble afinidad elemental primaria... —murmuró el anciano—. Fuego y Tierra en perfecta proporción. Una combinación poco común, con enorme potencial de densidad y combustión.",
+        "Tener dos elementos no era el prodigio cuádruple de los mitos élficos ni la magia divina de la realeza, pero era algo claramente fuera de lo común. El murmullo burlón de las gradas se apagó en seco.",
+        "Sin embargo, el examen no terminaba allí.",
+        "—Bien, joven Silva —prosiguió el evaluador, señalando un muñeco de entrenamiento reforzado con placas de hierro al fondo de la sala—. Ahora demuestre su aplicación práctica. Proyecte un proyectil de llama o una estaca de roca utilizando un cántico rúnico elemental de primer orden.",
+        "Aquí es donde todo se torció.",
+        "En mi vida en la frontera, jamás tuve tutores mágicos ni manuales de encantamiento. Todo lo que sabía sobre el maná era cómo empujarlo dentro de mis huesos, ligamentos y músculos para convertirme en una maza andante.",
+        "Alcé la palma derecha hacia el muñeco. Intenté recordar lo poco que había visto en libros viejos sobre círculos de invocación. Forcé el flujo de maná hacia el exterior de mi piel y balbuceé una frase que sonó a cualquier cosa menos a latín arcano.",
+        "—Arde... y rompe —gruñí.",
+        "Una chispa solitaria brotó de mi dedo índice. Hizo un ruido similar a una palomita de maíz reventando y explotó en mi propia uña, soltando una bocanada de humo negro y pestilente que me tiznó la manga. En el suelo, un pequeño guijarro del tamaño de una nuez rodó cinco centímetros y se quedó quieto.",
+        "Silencio.",
+        "Y luego, una carcajada generalizada que retumbó en la bóveda.",
+        "—¡Por los dioses, miren a ese salvaje!",
+        "—¡Tiene doble elemento y ni siquiera sabe encender una vela!",
+        "—¡Puro músculo y nada en la cabeza!",
+        "El Archimaestre suspiró con evidente decepción, mojó su pluma en tinta roja y escribió un cero redondo en el apartado de conjuración técnica. Yo me limité a sacudir el hollín de mi muñeca con tranquilidad, bajé del estrado y me coloqué al final de la fila. La opinión de un puñado de petulantes me traía sin cuidado.",
+        "* * *",
+        "La tarde cayó sobre la academia, y con ella llegó el evento principal: los duelos de asignación en el Gran Coliseo.",
+        "Aquí las notas teóricas se ponían a prueba en combate real uno contra uno. Caminé hacia el gigantesco tablero mágico donde los nombres de los emparejamientos brillaban en letras luminosas.",
+        "Mientras buscaba mi nombre, una fragancia conocida a lirios de nieve y menta se coló en mi espacio personal.",
+        "—Vaya, vaya... el doble elemento que no sabe encender una fogata.",
+        "Me giré despacio. Elysea de Vane estaba a apenas medio paso de mí. Llevaba su uniforme de combate perfectamente ajustado: la casaca blanca marcaba sus curvas pronunciadas y su fino talle, mientras que el estoque enjoyado que colgaba de su cadera desprendía un brillo gélido.",
+        "Cruzó los brazos sobre su pecho, sosteniéndome la mirada con esos ojos zafiro que destilaban arrogancia y un desafío eléctrico.",
+        "—Miré el tablero —dijo con una sonrisa ladeada, alzando una de sus orejas plateadas—. Parece que la fortuna estuvo de tu lado hoy, Seier. Tuviste suerte de que no te tocara enfrentarte a mí en la primera ronda. Te habría congelado las piernas antes de que pudieras dar tu primer pisotón de oso.",
+        "La miré fijamente, recorriendo sin prisa su rostro altivo y la curva tensa de su cuello.",
+        "—El hielo se quiebra cuando le metes suficiente peso encima, elfa —respondí con mi voz áspera y baja, sin dar un solo paso atrás—. Quizás la que tuvo suerte fuiste tú. Mis rodillas no suelen ser amables con la porcelana fina.",
+        "Un rubor fugaz de indignación subió por las mejillas pálidas de Elysea. Abrió la boca para replicar, pero el tablero mágico tintineó con un destello escarlata anunciando mi combate:",
+        "**PISTA 4: SEIER SILVA VS. LORD PERCIVAL DE BEAUMONT**",
+        "—Ah —soltó Elysea, recuperando su compostura gélida con una ceja alzada—. Percival. Hijo mimado del Conde de Beaumont. Es un cretino insoportable, pero lleva tres años entrenando con los mejores esgrimistas de la capital. Ya veremos si tu fuerza de cantero te alcanza para esquivar su magia de vendaval.",
+        "—Observa y aprende —le dije, dándome la vuelta sin esperar su respuesta.",
+        "* * *",
+        "Entré en la arena circular de la Pista 4. La arena dorada crujía bajo mis botas.",
+        "Del otro lado aguardaba mi oponente. Percival de Beaumont vestía una coraza ligera de placas pulidas con adornos de oro y una capa de seda violeta que ondeaba teatralmente con la brisa. Sostenía un báculo corto rematado con una gema esmeralda.",
+        "Al verme llegar con mis ropas gastadas y sin más armas que mis propios puños vendados con tiras de tela tosca, torció la boca en un gesto de asco indisimulado.",
+        "—¿Esta es la basura que me asignan para mi debut? —dijo Percival hacia los jueces en las gradas—. Un campesino con olor a sudor y establo. Es una falta de respeto hacia el ilustre linaje Beaumont hacerme ensuciar la túnica con un don nadie.",
+        "Me coloqué en mi postura básica: pies firmes, rodillas ligeramente flexionadas, peso equilibrado y la barbilla protegida detrás de mis hombros.",
+        "—Hablas demasiado para alguien que tiene la guardia tan abierta —dije con calma.",
+        "—¡Silencio, escoria provinciana! ¡Te pondré de rodillas antes del primer pestañeo!",
+        "El árbitro alzó la bandera blanca:",
+        "—¡Duelo de asignación! ¡Sin golpes letales! ¡COMIENCEN!",
+        "Percival dio un paso atrás, alzó su báculo enjoyado con movimientos ceremoniosos y comenzó a entonar a viva voz:",
+        "—¡Vientos cortantes de las llanuras boreales, acudan a mi llamado y destrocen a mi ene—!",
+        "No le permití pronunciar la siguiente palabra.",
+        "En un combate real, quien espera a que el enemigo termine de hablar ya está muerto.",
+        "Exploté hacia adelante con el paso de intercepción de Jeet Kune Do. No hubo luces mágicas ni acrobacias vistosas: solo una aceleración brutal alimentada por la compresión de maná en mis pantorrillas y caderas. Crucé los diez metros de distancia en una fracción de segundo.",
+        "Percival abrió los ojos desmesuradamente cuando mi silueta eclipsó la luz del sol.",
+        "—¿Qué—?",
+        "Con un manotazo seco de mi antebrazo izquierdo, desvié la punta de su báculo hacia el suelo, cortando el flujo de su conjuro de raíz.",
+        "Al mismo tiempo, entré de lleno en su espacio ciego.",
+        "Metí un golpe recto de derecha al mentón, corto y explosivo, con todo el peso de mis noventa kilos detrás del giro de mi cadera. El impacto fue seco y resonó en toda la arena como un martillazo sobre un yunque.",
+        "Antes de que su cuerpo cayera, barrí su pierna de apoyo con la tibia endurecida de mi pierna izquierda.",
+        "*¡CRASH!*",
+        "Percival giró en el aire y se estampó de espaldas contra la arena dorada. Su báculo de oro rodó por el suelo mientras él quedaba completamente inconsciente, con los ojos en blanco y la boca abierta en un rictus de estupor.",
+        "El combate había durado exactamente dos segundos y medio.",
+        "Un silencio sepulcral se apoderó de las gradas de la Pista 4. El árbitro se quedó con la bandera a medio levantar, parpadeando estupefacto.",
+        "—V... Victoria para Seier Silva por nocaut técnico —balbuceó finalmente el juez.",
+        "Sacudí el polvo de mis nudillos.",
+        "No celebré. No alcé los brazos ni miré al público con soberbia. Simplemente di media vuelta y caminé hacia la salida del túnel con mi paso pausado y firme.",
+        "Al pasar junto a la barandilla de los observadores, alcé la vista un instante.",
+        "Elysea de Vane estaba allí, con las manos apoyadas en el mármol, la boca ligeramente entreabierta y los ojos zafiro fijos en mí, incapaz de ocultar la conmoción ante la brutalidad quirúrgica con la que había despachado a un noble de alta cuna en un parpadeo.",
+        "Le sostuve la mirada durante dos segundos, le dediqué una inclinación apenas perceptible de cabeza y me perdí en la penumbra del pasillo.",
+        "* * *",
+        "Al atardecer, el gran Muro de Cristal en la plaza principal de la academia proyectó las listas oficiales de admisión.",
+        "Decenas de aspirantes y familias se agolpaban con nerviosismo para leer los resultados grabados en letras de maná dorado.",
+        "Busqué mi nombre.",
+        "Allí estaba:",
+        "**SEIER SILVA — ADMITIDO.**",
+        "Pese a mi rotundo cero en la prueba de conjuración técnica, la puntuación perfecta en aptitud física, la singularidad de mi doble afinidad elemental y la victoria fulminante en el duelo me habían colocado con una nota general ligeramente superior a la media de la promoción.",
+        "Había entrado por mi propio peso, no por el favor de un rey ni por la memoria de mis padres.",
+        "Apreté el medallón de bronce de la Casa Silva que colgaba bajo mi camisa y respiré el aire fresco de la tarde.",
+        "Las puertas de la Academia estaban abiertas.",
+        "Y el verdadero juego de poder, sangre y deseo apenas comenzaba."
+    ]
+}
+
+def actualizar_novela_con_capitulo_2():
+    from compilar_novela import PROLOGO, CAPITULO_1
+    
+    titulo = "El camino del reencarnado"
+    subtitulo = "Crónicas de Sangre, Acero y Deseo"
+    autor = "Seier Silva"
+    capitulos = [PROLOGO, CAPITULO_1, CAPITULO_2]
+    
+    # 1. Guardar archivo de texto del Capítulo 2
+    cap2_txt = os.path.join(NOVELA_DIR, "capitulos", "02_Capitulo_2.txt")
+    with open(cap2_txt, "w", encoding="utf-8") as f:
+        f.write(f"=== {CAPITULO_2['header'].upper()}: {CAPITULO_2['title'].upper()} ===\n\n")
+        f.write("\n\n".join(CAPITULO_2['paragraphs']))
+    print(f"[OK] Archivo de texto guardado: {cap2_txt}")
+    
+    # 2. Guardar documento Word exclusivo del Capítulo 2
+    cap2_docx = os.path.join(NOVELA_DIR, "capitulos", "02_Capitulo_2.docx")
+    create_novel_document(titulo, f"Capítulo 2: {CAPITULO_2['title']}", autor, [CAPITULO_2], cap2_docx)
+    print(f"[OK] Word Capítulo 2 guardado: {cap2_docx}")
+    
+    # 3. Guardar documento Word maestro completo (Prólogo + Cap 1 + Cap 2)
+    master_docx = os.path.join(NOVELA_DIR, "compilado", "El_Camino_del_Reencarnado.docx")
+    create_novel_document(titulo, subtitulo, autor, capitulos, master_docx)
+    print(f"[OK] Word Maestro actualizado: {master_docx}")
+
+if __name__ == "__main__":
+    actualizar_novela_con_capitulo_2()

@@ -1,0 +1,194 @@
+# -*- coding: utf-8 -*-
+import os
+import sys
+
+NOVELA_DIR = r"C:\Users\fsilv\OneDrive\Documentos\GitHub\Novela"
+PROYECTO_DIR = r"C:\Users\fsilv\OneDrive\Documentos\GitHub\Proyecto-Minecraft\Novela"
+
+sys.path.insert(0, NOVELA_DIR)
+if os.path.exists(PROYECTO_DIR):
+    sys.path.insert(0, PROYECTO_DIR)
+
+from generar_libro import create_novel_document, create_single_chapter_document
+from docx import Document
+from docx.shared import Inches, Pt, RGBColor
+from docx.enum.text import WD_ALIGN_PARAGRAPH
+
+CAPITULO_30 = {
+    "header": "Capítulo 30",
+    "title": "El Último en Pie",
+    "paragraphs": [
+        "El cielo sobre la capital imperial de Solaria amaneció cubierto por un manto plomizo y denso, como si los propios dioses contuvieran la respiración ante lo que estaba a punto de suceder.",
+        "Cincuenta mil espectadores abarrotaban hasta el último rincón del Gran Coliseo Central. En el palco de honor, los emisarios del rey, los grandes mariscales del imperio y los archimagos de la corte presidían la contienda con expresiones de absoluta solemnidad. No era un combate más; era la Gran Final del Torneo Interclases en la modalidad suprema de escuadrón completo de cuatro contra cuatro.",
+        "Por un lado, la aristocracia más pura y disciplinada: la Clase A-2, liderada por la invicta prodigio de hielo, Elysea de Vane.",
+        "Por el otro, los marginados que habían desafiado las leyes del reino a puño limpio: nuestra Clase F-2.",
+        "* * *",
+        "Cuando las gigantescas compuertas de hierro crujieron al abrirse, el clamor que nos recibió fue una ola ensordecedora de truenos.",
+        "Por el túnel norte emergió la formación imperial de la Clase A-2:",
+        "Al frente caminaba Elysea de Vane, deslumbrante en su túnica azul marino con ribetes de armiño, sosteniendo su estoque *Escarcha Silenciosa*. A su lado avanzaba Sir Leon de Valois, un paladín colosal con una armadura dorada y un mandoble imbuido en maná solar; en el flanco derecho, Selene, una duelista elfa de cuchillas glaciales de alta frecuencia; y en la retaguardia, Morpheus, un arcanista de viento y niebla ilusoria.",
+        "Y por el túnel sur, avanzamos nosotros cuatro:",
+        "Yo caminaba en vanguardia con mis vendajes de hierro listos; a mi derecha, Erza Scarlet con su armadura de batalla plateada y la espada en guardia; a mi izquierda, Lighter con su camiseta de tirantes, sus gafas oscuras y los nudillos vendados; y cerrando filas, Ken, con su bandana roja ondeando al viento y los ojos encendidos con el espíritu del fénix.",
+        "Elysea desenvainó su espada fina con un movimiento de muñeca aristocrático. Una brisa gélida se esparció por el foso.",
+        "—Silva... Erza... muchachos de la F-2 —dijo Elysea con una voz cristalina y serena, mirándome directamente a los ojos—. Han llegado más lejos que cualquier plebeyo en la historia de esta academia. Pero el trono de Solaria no se entrega por milagros. Hoy verán lo que significa el verdadero dominio de la guerra.",
+        "—No vinimos por un milagro, Elysea —respondí con mi tono grave y firme—. Vinimos a reclamar lo que es nuestro.",
+        "—¡COMIENCEN! —bramó el árbitro principal con la bandera en alto.",
+        "* * *",
+        "Por primera vez en todo el torneo, la Clase F-2 se vio completamente superada.",
+        "La Clase A-2 no atacó con arrogancia ciega como la A-1; atacaron con una sinergia militar aterradora y quirúrgica.",
+        "Elysea clavó la punta de su estoque en el centro de la arena, liberando una marea colosal de maná elemental:",
+        "—¡DOMINIO MÁGICO: TUNDRA IMPERIAL!",
+        "La temperatura del coliseo cayó en picado a veinte grados bajo cero en un segundo. Una tormenta de escarcha y ventisca blanca devoró la arena, congelando el suelo en una pista de hielo resbaladiza y cubriendo el aire con una niebla densa que anulaba la visión. El frío extremo era tan voraz que mis músculos comenzaron a entumecerse, el aliento se me congelaba en la garganta y las articulaciones de mis piernas pesaban como plomo.",
+        "Aprovechando la niebla, Morpheus proyectó decenas de siluetas ilusorias que distorsionaban el sonido de sus pasos, mientras Selene patinaba sobre el hielo a una velocidad inhumana, cortando los flancos de Lighter y Ken con cuchillas de hielo afiladas como navajas.",
+        "¡CLANG! ¡SWOOSH! ¡SLASH!",
+        "La sangre brotó de los brazos de Ken y del torso de Lighter. Erza intentó formar una barrera, pero Leon descargó su mandoble solar con una violencia devastadora, haciendo astillas su escudo y empujándola hacia atrás sobre el suelo congelado.",
+        "Estábamos acorralados, ciegos y congelados.",
+        "En las gradas, los murmullos de desesperanza comenzaron a crecer:",
+        "—¡Es el fin! ¡La A-2 los está desmantelando!",
+        "—Nadie puede pelear dentro de la Tundra de Lady Elysea...",
+        "* * *",
+        "Pero la Clase F-2 no sabía lo que era rendirse.",
+        "Entre la ventisca y la sangre, cuatro miradas se cruzaron. No necesitábamos palabras; sabíamos que este era el momento de dejar el alma entera en la arena.",
+        "—¡SI NO PODEMOS VERLOS... LOS SENTIREMOS! —rugió Lighter.",
+        "El boxeador cerró los ojos por completo en mitad de la niebla. Dejó de buscar las ilusiones con la vista y confió únicamente en sus reflejos de supervivencia forjados en Calydon: el cambio de presión del aire, el crujido del hielo bajo las botas enemigas. Cuando Selene se abalanzó sobre su espalda con dos dagas glaciales para el golpe de gracia, Lighter no retrocedió: rotó el hombro, recibió una herida profunda en el deltoide para atrapar el brazo de la elfa y descargó un contragolpe de derecha brutal a su mandíbula:",
+        "¡¡¡BOOOOM!!!",
+        "Selene salió despedida por el aire, completamente noqueada antes de tocar el suelo. Pero el esfuerzo y la pérdida de sangre pasaron factura: las piernas de Lighter temblaron y el boxeador cayó de rodillas sobre el hielo, exhausto y con la respiración entrecortada.",
+        "Al mismo tiempo, Erza Scarlet desató el límite absoluto de su poder mágico.",
+        "—¡REQUIP: ARMADURA DEL HADA!",
+        "Una coraza mística de color rosa metálico y alas de energía resplandeció en su cuerpo, empuñando dos espadas sagradas gemelas. Ignorando el frío que le desgarraba la piel, Erza cargó de frente contra el colosal Leon de Valois, interceptando su mandoble solar con un tajo cruzado de poder infinito:",
+        "—¡CORTE DE LA ESPADA SAGRADA!",
+        "¡¡¡KRAAA-SHHHH!!!",
+        "El mandoble de Leon se partió en dos y el impacto mágico mandó al paladín a estrellarse contra el muro perimetral, inconsciente. Sin embargo, el costo de maná fue devastador: la armadura de Erza se desvaneció en chispas de luz y la comandante se desplomó sobre la nieve, completamente agotada.",
+        "* * *",
+        "Quedábamos dos contra dos: Elysea y Morpheus contra Ken y yo.",
+        "Elysea me miró a través de la tormenta de nieve con los ojos celestes brillando con una determinación implacable.",
+        "—Silva... este es mi ataque final —dijo ella, elevando su estoque hacia el cielo cubierto de nubes—. ¡ARTE PROHIBIDA: CERO ABSOLUTO!",
+        "Un glaciar colosal, un meteorito gigantesco de hielo sólido de más de treinta metros de longitud, se materializó en el cielo del coliseo, descendiendo en picado con un peso de cientos de toneladas directo sobre nuestras cabezas para congelar la arena entera de forma definitiva.",
+        "Morpheus canalizó todo su viento para acelerar la caída del glaciar, mientras Ken saltaba hacia él con los últimos restos de su fuego.",
+        "—¡SILVA, ROMPE EL HIELO! ¡YO ME ENCARGO DEL MAGO! —bramó Ken con la voz desgarrada.",
+        "Ken se arrojó contra Morpheus en un choque aéreo suicida, recibiendo una ráfaga de viento cortante en el pecho pero conectando una patada meteórica con el talón en llamas directo en el cráneo del arcanista. Ambos se estrellaron contra el suelo: Morpheus cayó inerte en la nieve, pero Ken recibió el impacto con su cuerpo herido, tambaleándose como un zombi en pie.",
+        "Y arriba, el glaciar caía sobre mí.",
+        "Cerré los ojos.",
+        "Sentí la memoria de mi padre, los diez años de entrenamiento en la soledad de los bosques, las manos tibias de Kaoruko atándome la cinta de seda en la muñeca y la promesa que le hice a mi clase.",
+        "Canalicé todo mi maná de **Tierra** para anclar mis talones en el núcleo mismo del coliseo, y encendí cada gota de mi maná de **Fuego**, quemando mi propia energía vital en una pira volcánica.",
+        "Mi cuerpo entero se envolvió en una llamarada carmesí y dorada tan intensa que el hielo bajo mis pies se evaporó al instante.",
+        "Exploté hacia las alturas con un salto de Muay Thai descomunal.",
+        "—¡¡¡PUÑO DRAGÓN DE PENETRACIÓN SÍSMICA!!! —bramé con toda la fuerza de mis pulmones.",
+        "Conecté mi puño derecho vendado en el centro exacto del glaciar.",
+        "¡¡¡¡¡KRAAAAAAAAAAAAAAAAA-BOOOOOOOOOOOOOOOOOM!!!!!",
+        "La onda de choque fue una supernova de calor y vibración interna. El glaciar de treinta metros no se partió: se pulverizó en millones de cristales de hielo diminutos que brillaron como una lluvia de diamantes bajo el sol del mediodía.",
+        "Descendí del cielo cruzando la nube de vapor y penetré en la guardia de Elysea.",
+        "La elfa de hielo me miró con una sonrisa dulce y cansada, sabiendo lo que venía. Conecté una descarga de *Fa Jin* con la palma abierta contra su peto, disipando su barrera y enviándola hacia atrás con suavidad antes de que su cuerpo cayera inconsciente sobre la nieve derretida.",
+        "Había ganado el choque de líderes.",
+        "Pero la temperatura sub-cero, el colapso de mis órganos por la sobrecarga mágica y el agotamiento absoluto me pasaron factura en ese mismo segundo.",
+        "Mi visión se tornó negra.",
+        "Mis piernas de noventa kilos cedieron y caí de espaldas sobre la arena tibia, perdiendo el conocimiento con una sonrisa en los labios.",
+        "* * *",
+        "El silencio que cayó sobre el Gran Coliseo Central fue sepulcral.",
+        "La densa niebla de vapor y nieve se disipó por completo bajo la brisa.",
+        "El panorama en la arena era desgarrador:",
+        "Los cuatro campeones de la Clase A-2 yacían inconscientes en el suelo: Elysea, Leon, Selene y Morpheus estaban fuera de combate.",
+        "Y en la Clase F-2, tres de sus guerreros estaban derribados: Lighter inmóvil junto al foso, Erza desplomada sobre su capa plateada y yo tendido inconsciente mirando al cielo.",
+        "Siete de los ocho guerreros habían caído.",
+        "Y en el centro exacto del cráter humeante, rodeado de tierra calcinada y fragmentos de hielo derretido...",
+        "Solo quedaba uno.",
+        "Ken.",
+        "* * *",
+        "El muchacho estaba allí, de pie.",
+        "Sus piernas temblaban como ramas azotadas por el huracán, cubiertas de cortes y quemaduras. Su bandana roja colgaba hecha jirones sobre su frente ensangrentada. Tenía los ojos cerrados, la mandíbula apretada y el puño derecho alzado hacia el frente en una guardia marcial perfecta e inamovible.",
+        "No respiraba con fuerza. No se movía.",
+        "El árbitro principal bajó a la arena con pasos temblorosos, acompañado por los médicos de la guardia real.",
+        "Se acercó a Ken, le tomó el pulso en el cuello y abrió con cuidado uno de sus párpados.",
+        "Ken estaba profundamente inconsciente. Había perdido el conocimiento durante el impacto final contra Morpheus. Pero el instinto primario de su cuerpo, la terquedad visceral de su alma y el espíritu del fénix que habitaba en sus entrañas se habían negado a permitir que sus rodillas tocaran el suelo.",
+        "Estaba noqueado, pero seguía de pie como un pilar de hierro.",
+        "El árbitro tragó saliva, contemplando a aquel chico descalzo con una reverencia que jamás había sentido por ningún noble de sangre azul.",
+        "Se giró hacia el palco de los jueces, respiró hondo y alzó los dos brazos hacia la figura solitaria e inmóvil del muchacho:",
+        "—¡POR EL REGLAMENTO IMPERIAL DE LA ARENA... UN GUERRERO QUE PERMANECE DE PIE JAMÁS ES DERROTADO!",
+        "El oficial clavó su mirada en las gradas y rugió con toda la voz que le quedaba en los pulmones:",
+        "—¡¡¡GANADORES DE LA GRAN FINAL... Y CAMPEONES SUPREMOS DEL TORNEO INTERCLASES... LA CLASE F-2!!!",
+        "* * *",
+        "Lo que siguió fue la explosión de júbilo más gigantesca que Solaria jamás había presenciado.",
+        "Cincuenta mil personas se pusieron de pie al unísono, haciendo retumbar las montañas con un clamor que hizo temblar la capital entera.",
+        "Desde nuestro palco, el protocolo se rompió en pedazos: Kaoruko, Burnice, Subaru Hoshina, Caesar King, Yami, Natsuki, Lucy, Piper, Akame, Rukia y Renji saltaron las barandillas de mármol y corrieron desesperados por la arena hacia nosotros con lágrimas en los ojos.",
+        "En el centro del foso, justo cuando el cuerpo inconsciente de Ken comenzaba a inclinarse hacia adelante al ceder la última brizna de tensión en sus músculos, Burnice y Kaoruko llegaron a tiempo para atraparlo en sus brazos, llorando y riendo al mismo tiempo mientras lo sostenían con devoción.",
+        "Kaoruko aplicó su magia sanadora sobre su pecho con manos temblorosas de alegría, mientras Caesar y Natsuki nos levantaban a Lighter, a Erza y a mí para asegurarnos que todos estábamos a salvo.",
+        "La Clase F-2, losmarginados, los 'desechos' de los que todo el imperio se burlaba al inicio del semestre, habían conquistado la cima absoluta de la academia.",
+        "Y mientras el coliseo entero coreaba nuestros nombres bajo una lluvia de confeti dorado, supimos que a partir de este día, la historia de Solaria jamás volvería a escribirse sin nosotros."
+    ]
+}
+
+def compilar_capitulo_30():
+    print("==================================================")
+    print("         COMPILACIÓN DEL CAPÍTULO 30              ")
+    print("==================================================")
+    
+    from compilar_novela import PROLOGO, CAPITULO_1
+    from agregar_capitulo_2 import CAPITULO_2
+    from agregar_capitulo_3 import CAPITULO_3
+    from agregar_capitulo_4 import CAPITULO_4
+    from agregar_capitulo_5 import CAPITULO_5
+    from agregar_capitulo_6 import CAPITULO_6
+    from agregar_capitulo_7 import CAPITULO_7
+    from agregar_capitulo_8 import CAPITULO_8
+    from agregar_capitulo_9 import CAPITULO_9
+    from agregar_capitulo_10 import CAPITULO_10
+    from agregar_capitulo_11 import CAPITULO_11
+    from agregar_capitulo_12 import CAPITULO_12
+    from agregar_capitulo_13 import CAPITULO_13
+    from agregar_capitulo_14 import CAPITULO_14
+    from agregar_capitulo_15 import CAPITULO_15
+    from agregar_capitulo_16 import CAPITULO_16
+    from agregar_capitulo_17 import CAPITULO_17
+    from agregar_capitulo_18 import CAPITULO_18
+    from agregar_capitulo_19 import CAPITULO_19
+    from agregar_capitulo_20 import CAPITULO_20
+    from agregar_capitulo_21 import CAPITULO_21
+    from agregar_capitulo_22 import CAPITULO_22
+    from agregar_capitulo_23 import CAPITULO_23
+    from agregar_capitulo_24 import CAPITULO_24
+    from agregar_capitulo_25 import CAPITULO_25
+    from agregar_capitulo_26 import CAPITULO_26
+    from agregar_capitulo_27 import CAPITULO_27
+    from agregar_capitulo_28 import CAPITULO_28
+    from agregar_capitulo_29 import CAPITULO_29
+    
+    titulo = "El camino del reencarnado"
+    subtitulo = "Crónicas de Sangre, Acero y Deseo"
+    autor = "Seier Silva"
+    capitulos = [
+        PROLOGO, CAPITULO_1, CAPITULO_2, CAPITULO_3, CAPITULO_4,
+        CAPITULO_5, CAPITULO_6, CAPITULO_7, CAPITULO_8, CAPITULO_9,
+        CAPITULO_10, CAPITULO_11, CAPITULO_12, CAPITULO_13, CAPITULO_14,
+        CAPITULO_15, CAPITULO_16, CAPITULO_17, CAPITULO_18, CAPITULO_19,
+        CAPITULO_20, CAPITULO_21, CAPITULO_22, CAPITULO_23, CAPITULO_24,
+        CAPITULO_25, CAPITULO_26, CAPITULO_27, CAPITULO_28, CAPITULO_29,
+        CAPITULO_30
+    ]
+    
+    capitulos_dir = os.path.join(NOVELA_DIR, "capitulos")
+    os.makedirs(capitulos_dir, exist_ok=True)
+    
+    # 1. Guardar texto plano del Capítulo 30
+    txt_cap30 = os.path.join(capitulos_dir, "30_Capitulo_30.txt")
+    with open(txt_cap30, "w", encoding="utf-8") as f:
+        f.write(f"=== {CAPITULO_30['header'].upper()}: {CAPITULO_30['title'].upper()} ===\n\n")
+        f.write("\n\n".join(CAPITULO_30['paragraphs']))
+    print(f"[OK] Texto plano Capítulo 30 guardado en:\n  {txt_cap30}")
+    
+    # 2. Guardar Word (.docx) individual del Capítulo 30
+    docx_cap30 = os.path.join(capitulos_dir, "30_Capitulo_30.docx")
+    create_single_chapter_document(CAPITULO_30, docx_cap30, novel_title=titulo, author=autor)
+    print(f"[OK] Word individual Capítulo 30 guardado en:\n  {docx_cap30}")
+    
+    # 3. Guardar Libro Maestro Completo (Prólogo + Cap 1 a 30)
+    master_docx = os.path.join(NOVELA_DIR, "compilado", "El_Camino_del_Reencarnado.docx")
+    try:
+        create_novel_document(titulo, subtitulo, autor, capitulos, master_docx)
+        print(f"[OK] Libro Maestro actualizado en:\n  {master_docx}")
+    except PermissionError:
+        print(f"[AVISO] '{master_docx}' está abierto en Microsoft Word.")
+        backup_master = os.path.join(NOVELA_DIR, "compilado", "El_Camino_del_Reencarnado_temp.docx")
+        create_novel_document(titulo, subtitulo, autor, capitulos, backup_master)
+        print(f"[OK] Guardado en copia auxiliar:\n  {backup_master}")
+
+if __name__ == "__main__":
+    compilar_capitulo_30()
