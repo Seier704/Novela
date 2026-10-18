@@ -457,3 +457,38 @@
 | **Erza Scarlet** | Patio de armas / terraza de la villa | Limpiando sus implementos tras la competencia de castillos de arena. |
 | **Akame & Pulchra** | Cocinas de la villa | Preparando el festín de mariscos y pescados frescos para la cena nocturna. |
 | **Yami Sukehiro** | Hamaca bajo las palmeras | Fumando y dormitando plácidamente con la brisa marina. |
+
+---
+
+# Censo de Personajes: Capítulo 59
+**Capítulo:** *Mareas Doradas: Juegos, Sol y Ecos de Hermandad*  
+**Ubicación Principal:** Terraza de madera de la villa, cancha de arena de playa y mesas del porche en Costa Esmeralda.  
+**Contexto Operativo:** Cuarto día de vacaciones. Despertar en la terraza con Seier, Kaoruko, Lortelle y Elysea; torneo de voleibol de playa con maná organizado por Caesar y Erza; complicidad romántica de Natsuki y Lucy bajo la sombrilla; surf de Renji y Rukia; asado de Akame y Pulchra con Yami; almuerzo comunitario de la F-2.
+
+### 1. Personajes que APARECEN en Escena (Foco Principal: Terraza, Cancha de Voleibol y Banquete)
+
+| Personaje | Facción / Clase | Rol / Acción en el Capítulo | Estado al Cierre |
+| :--- | :--- | :--- | :--- |
+| **Seier Silva** | Clase F-2 (Líder) | Disfruta del amanecer con Kaoruko, Lortelle y Elysea; lidera su equipo en el voleibol anotando el punto de la victoria con un mate telúrico; preside el almuerzo comunitario con orgullo de hermano mayor. | Radiante, enérgico, pleno y profundamente feliz. |
+| **Kaoruko Waguri** | Clase F-2 | Comparte el inicio del día con Seier en la terraza luciendo sombrero de paja; realiza rescates acrobáticos en el partido de voleibol; cuida a Seier en el almuerzo. | Dulce, amada, divertida y radiante. |
+| **Lortelle Kecheln** | Clase C / Compañía Elte | Bromea sensualmente con Seier en la terraza con su pareo esmeralda; asiste al voleibol y roza la mano de Seier con complicidad bajo la mesa del banquete. | Elegante, pícara, enamorada y satisfecha. |
+| **Lady Elysea de Vane** | Clase C | Contempla las olas en su bikini azul hielo sin máscaras nobiliarias; brinda con Seier en el almuerzo con afecto puro y devoción. | Serena, aristocrática, liberada y plena. |
+| **Caesar King** | Clase F-2 (Líder Calydon) | Organiza el torneo de voleibol marcando la cancha con el silbato; defiende la red con bloqueos impenetrables; lidera los brindis del almuerzo. | Imponente, festiva y con orgullo de líder. |
+| **Erza Scarlet** | Clase F-2 | Ejerce como jueza implacable del partido de voleibol con seriedad marcial y pita la victoria del equipo de Seier. | Disciplinada, satisfecha y disfrutando el día. |
+| **Ken** | Clase F-2 | Realiza saques llameantes en el voleibol y festeja cargando a Burnice en hombros tras la victoria. | Fogoso, alegre y cariñoso. |
+| **Burnice White** | Clase F-2 (Hijos de Calydon) | Juega en el equipo de Seier celebrando con saltos y chispas de fuego sobre la espalda de Ken. | Chispeante, enérgica y risueña. |
+| **Lighter** | Clase F-2 (Hijos de Calydon) | Coloca el balón con precisión de boxeador y bromea con Seier tras la derrota en la arena. | Despreocupado, deportivo y carismático. |
+| **Vlad** | Aprendiz de Caballero | Remata balones con elevación acrobática y comparte sonrisas con Zemina al borde de la cancha. | Noble, atlético y en total serenidad. |
+| **Renji Abarai** | Clase F-2 | Juega en el equipo de Caesar y luego intenta surfear en la orilla para impresionar a Rukia, cayendo de bruces y siendo atendido con toallas. | Sonrojado, esforzado y felizmente atendido. |
+| **Rukia Kuchiki** | Clase F-2 | Observa el voleibol; rescata a Renji con una toalla en la orilla y le sacude la arena con ternura cristalina. | Serana, cariñosa y divertida. |
+| **Subaru Natsuki** | Clase F-2 | Descansa bajo la sombrilla junto a Lucy, preparándole té helado con menta y compartiendo bromas y caricias cómplices. | Enamorado, paciente, seguro y feliz. |
+| **Lucy** | Clase F-2 (Hijos de Calydon) | Bebe el té con menta de Natsuki; le propina codazos juguetones fingiendo fastidio pero rozando su hombro con profunda devoción. | Sonrojada, mimada, tierna y correspondida. |
+| **Akame** | Clase F-2 | Asa calamares gigantes, brochetas marinadas y piñas en la parrilla junto a la orilla; devora mariscos con pasión. | Insaciable, satisfecha y contenta. |
+| **Pulchra** | Clase F-2 (Hijos de Calydon) | Asiste a Akame en la cocina playera sazonando las brochetas con agilidad felina. | Eficiente, relajada y disfrutando los bocadillos. |
+| **Yami Sukehiro** | Clase F-2 | Despierta de su siesta bajo las palmeras para disfrutar una brocheta caliente directo de las brasas; brinda con los chicos. | Tranquilo, socarrón y satisfecho. |
+| **Hoshina** | Clase F-2 | Acompaña a Rukia animando a los jugadores con bebidas frías antes de reunirse con Lighter en el almuerzo. | Pacífica, sonriente y dulce. |
+| **Piper Wheel** | Clase F-2 (Hijos de Calydon) | Ríe y bromea con Caesar sobre el partido mientras disfruta de las brochetas de pescado. | Alegre, paternal y festiva. |
+| **Zemina** | Invitada | Acompaña a Vlad con una bebida fría celebrando sus jugadas. | Radiante y enamorada. |
+
+### 2. Personajes que NO APARECEN en Escena pero están en la Villa / Evento
+*(Todos los 20 personajes principales de la expedición y descanso de Costa Esmeralda participan en las distintas actividades diurnas descritas en este capítulo coral).*
