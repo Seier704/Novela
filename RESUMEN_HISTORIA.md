@@ -124,7 +124,11 @@ Diez años después, forjado en un condicionamiento físico y de maná telúrico
 
 ---
 
-## 4. Estado Actual de la Trama y del Mundo (Post-Capítulo 60)
+- **Capítulo 61: Humo, Sidra y Pícaros Cómplices: La Alianza de Caesar y Yami**: Durante la sobremesa nocturna en el gran salón de la villa, Natsuki y Lucy regresan juntos tras su paseo en el muelle. Intentando disimular su recién estrenada cercanía, son interceptados por la mirada implacable de Caesar King, quien comienza un divertido e inquisitivo interrogatorio sobre los labios hinchados y mejillas sonrojadas de Lucy. De forma inesperada, Yami Sukehiro se suma desde su diván con su sarcasmo pesado habitual, bromeando sobre los cerdos de fuego haciendo de porristas y felicitando con humor a Natsuki por atreverse a morder a la fiera del páramo. Caesar y Yami forjan una hilarante alianza de compadres de armas, brindando con sidra y humo. Abrumada por el pudor, Lucy se refugia tras la espalda de Natsuki; el joven da un paso al frente con madurez, entrelazando su mano con la de ella ante toda la clase y declarando con ternura que ya no necesitan excusas para estar juntos. Entre vítores de la F-2 y la complicidad cariñosa de Seier, Kaoruko, Lortelle y Elysea, la noche se consagra en una entrañable atmósfera de hermandad y alegría familiar.
+
+---
+
+## 4. Estado Actual de la Trama y del Mundo (Post-Capítulo 61)
 - **Escenario:** Costa Esmeralda, playa privada y carpas frente a la bahía turquesa al atardecer.
 - **Estatus Político y Militar:** Semestre concluido con condecoraciones de honor. Cohesión fraterna absoluta en la Clase F-2 y los Hijos de Calydon.
 - **Poder y Vínculos:** Lazos románticos y afectivos en su máxima plenitud:

@@ -519,3 +519,38 @@
 | **Erza Scarlet** | Salón táctico / terraza | Descansando tras supervisar el partido de voleibol. |
 | **Akame & Pulchra** | Cocinas de la villa | Guardando los implementos de parrilla y organizando la cena ligera. |
 | **Yami Sukehiro** | Hamaca bajo las palmeras | Durmiendo plácidamente con el murmullo de las olas. |
+
+---
+
+# Censo de Personajes: Capítulo 61
+**Capítulo:** *Humo, Sidra y Pícaros Cómplices: La Alianza de Caesar y Yami*  
+**Ubicación Principal:** Gran salón abierto y porche de la villa en Costa Esmeralda.  
+**Contexto Operativo:** Sobremesa nocturna del cuarto día de vacaciones. Retorno de Natsuki y Lucy, interrogatorio burlón de Caesar King y alianza cómica con Yami Sukehiro; respuesta valiente y cariñosa de Natsuki tomando la mano de Lucy; ovación comunitaria de la Clase F-2.
+
+### 1. Personajes que APARECEN en Escena (Foco Principal: Salón y Porche)
+
+| Personaje | Facción / Clase | Rol / Acción en el Capítulo | Estado al Cierre |
+| :--- | :--- | :--- | :--- |
+| **Caesar King** | Clase F-2 (Líder Calydon) | Lidera las burlas a Natsuki y Lucy desde la mesa baja de roble; forja una alianza cómica y compinche con Yami brindando con sidra helada. | Alegre, protectora, pícara y orgullosa. |
+| **Yami Sukehiro** | Clase F-2 | Fuma desde el diván y se une a Caesar para bromear pesadamente sobre los jabalíes y el beso de Natsuki, felicitándolo con orgullo rudo. | Divertido, socarrón y en total sintonía con Caesar. |
+| **Subaru Natsuki** | Clase F-2 | Afronta las burlas con vergüenza pero defiende a Lucy, toma su mano con firmeza frente a toda la clase y declara su vínculo con madurez. | Valiente, sonrojado, enamorado y respetado. |
+| **Lucy** | Clase F-2 (Hijos de Calydon) | Se sonroja intensamente ante las bromas; se refugia tímidamente tras la espalda de Natsuki y termina abrazándolo con ternura tras su defensa. | Conmovida, avergonzada, mimada y feliz. |
+| **Seier Silva** | Clase F-2 (Líder) | Observa la escena desde el ventanal de la terraza junto a Kaoruko, Lortelle y Elysea, disfrutando de la hermandad y el crecimiento de sus amigos. | Sereno, orgulloso, pleno y en paz. |
+| **Kaoruko Waguri** | Clase F-2 | Apoyada en el hombro de Seier riendo bajito de las ocurrencias de Caesar y Yami; celebra la ternura de la nueva pareja. | Dulce, amada y radiante. |
+| **Lortelle Kecheln** | Clase C / Compañía Elte | Bebe de su copa comentando con astucia y humor la demoledora alianza de Yami y Caesar. | Elegante, divertida y cómplice. |
+| **Lady Elysea de Vane** | Clase C | Contempla la dinámica festiva con una sonrisa aristocrática relajada y genuino afecto. | Noble, en paz y satisfecha. |
+| **Piper Wheel** | Clase F-2 (Hijos de Calydon) | Aplaude y festeja la valentía de Natsuki con una sonrisa de abuelita complacida. | Festiva, alegre y maternal. |
+| **Ken** | Clase F-2 | Choca las palmas celebrando el momento con Burnice entre risas. | Enérgico, ruidoso y contento. |
+| **Burnice White** | Clase F-2 (Hijos de Calydon) | Ríe a carcajadas por las bromas de Caesar y aplaude a la parejita. | Chispeante y divertida. |
+| **Lighter** | Clase F-2 (Hijos de Calydon) | Silba en aprobación reconociendo el valor de Natsuki. | Carismático y deportivo. |
+| **Vlad** | Aprendiz de Caballero | Sonríe con respeto marcial ante la caballerosidad de Natsuki. | Sereno y en paz. |
+| **Renji Abarai** | Clase F-2 | Comparte una sonrisa cómplice con Rukia al ver a Natsuki tomar la iniciativa. | Tranquilo y sonriente. |
+| **Rukia Kuchiki** | Clase F-2 | Disfruta del ambiente festivo con gracia serena. | Dulce y afectuosa. |
+
+### 2. Personajes que NO APARECEN en Escena pero están en la Villa / Evento
+| Personaje | Ubicación en el Evento | Acción en Segundo Plano |
+| :--- | :--- | :--- |
+| **Zemina** | Salón lateral de la villa | Conversando tranquilamente cerca de Vlad. |
+| **Erza Scarlet** | Salón de lectura / táctico | Disfrutando de una infusión caliente tras el banquete. |
+| **Akame & Pulchra** | Alacenas / cocina de la villa | Terminando de ordenar los postres y aperitivos nocturnos. |
+| **Hoshina** | Porche este de la villa | Descansando tranquilamente junto a Lighter. |
