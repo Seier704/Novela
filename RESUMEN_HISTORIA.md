@@ -120,7 +120,11 @@ Diez años después, forjado en un condicionamiento físico y de maná telúrico
 
 ---
 
-## 4. Estado Actual de la Trama y del Mundo (Post-Capítulo 59)
+- **Capítulo 60: El Compás de Dos Latidos: Natsuki y Lucy**: Avanzada la tarde del cuarto día de vacaciones en la Costa Esmeralda, Natsuki y Lucy se alejan hacia el muelle de madera frente a la marea mansa. Lejos del ruido y de las actitudes defensivas, Lucy muestra una personalidad mucho más dulce, pausada y honesta: elogia con franqueza el valor de Natsuki y su aura plateada en el asedio, reconociendo que no lo considera débil. Sentados sobre el muelle con las piernas al aire, Lucy comparte cómo en los Hijos de Calydon aprendió que el fuego también abriga a los amigos, confesando que junto a él su maná se siente en paz por primera vez. Natsuki canaliza su aura plateada y la entrelaza con las chispas cálidas de Lucy en una danza reconfortante de mutua seguridad. Al enfriar la brisa vespertina, Natsuki la cobija abrazándola por el hombro; Lucy apoya su cabeza en su pecho confesándole con timidez que le alegra que sea él quien la acompañe. Sin prisas ni juramentos grandilocuentes de amor, reconociendo que se gustan cada día más y deseando cuidar este vínculo naciente, sus labios se encuentran en un beso tierno, demorado y profundamente dulce bajo el resplandor dorado del ocaso marítimo, sellando el compás de sus corazones entrelazados.
+
+---
+
+## 4. Estado Actual de la Trama y del Mundo (Post-Capítulo 60)
 - **Escenario:** Costa Esmeralda, playa privada y carpas frente a la bahía turquesa al atardecer.
 - **Estatus Político y Militar:** Semestre concluido con condecoraciones de honor. Cohesión fraterna absoluta en la Clase F-2 y los Hijos de Calydon.
 - **Poder y Vínculos:** Lazos románticos y afectivos en su máxima plenitud:

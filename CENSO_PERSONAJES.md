@@ -492,3 +492,30 @@
 
 ### 2. Personajes que NO APARECEN en Escena pero están en la Villa / Evento
 *(Todos los 20 personajes principales de la expedición y descanso de Costa Esmeralda participan en las distintas actividades diurnas descritas en este capítulo coral).*
+
+---
+
+# Censo de Personajes: Capítulo 60
+**Capítulo:** *El Compás de Dos Latidos: Natsuki y Lucy*  
+**Ubicación Principal:** Pasarela de madera y muelle de observación de la bahía en Costa Esmeralda.  
+**Contexto Operativo:** Tarde y crepúsculo del cuarto día de vacaciones. Paseo tranquilo de Natsuki y Lucy, desmitificación del temperamento explosivo, entrelazado de energías (aura plateada y fuego cálido), confidencia afectiva y beso tierno al atardecer.
+
+### 1. Personajes que APARECEN en Escena (Foco Principal: Muelle de Observación)
+
+| Personaje | Facción / Clase | Rol / Acción en el Capítulo | Estado al Cierre |
+| :--- | :--- | :--- | :--- |
+| **Subaru Natsuki** | Clase F-2 | Camina con Lucy al muelle; escucha sus reflexiones sobre el fuego; canaliza su aura plateada entrelazándola con las chispas de ella; la cobija del viento y le corresponde con un beso tierno y dulce bajo el atardecer, avanzando con paciencia y respeto. | Enamorado, sereno, feliz y con el corazón colmado. |
+| **Lucy** | Clase F-2 (Hijos de Calydon) | Muestra una faceta dulce, reflexiva y tierna; reconoce el valor de Natsuki; moldea una figura de fuego en su mano explicando su cambio; apoya su cabeza en su hombro, confiesa lo mucho que le gusta estar con él y comparte un beso sincero. | Conmovida, tierna, sonrojada y en paz. |
+
+### 2. Personajes que NO APARECEN en Escena pero están en la Villa / Evento
+| Personaje | Ubicación en el Evento | Acción en Segundo Plano |
+| :--- | :--- | :--- |
+| **Seier Silva, Kaoruko, Lortelle & Elysea** | Terrazas y salones de la villa | Descansando tras el almuerzo comunitario y disfrutando de la brisa marina. |
+| **Caesar King & Piper Wheel** | Porche de la villa | Revisando implementos y disfrutando de la tarde tranquila. |
+| **Ken & Burnice White** | Jardines / sala común | Descansando tras la jornada de voleibol. |
+| **Lighter & Hoshina** | Sala de descanso este | Compartiendo una merienda ligera de frutas. |
+| **Renji Abarai & Rukia Kuchiki** | Pérgola de la villa | Conversando serenamente tras su tarde en la orilla. |
+| **Vlad & Zemina** | Pabellón balneario de la villa | Disfrutando del crepúsculo tras el torneo playero. |
+| **Erza Scarlet** | Salón táctico / terraza | Descansando tras supervisar el partido de voleibol. |
+| **Akame & Pulchra** | Cocinas de la villa | Guardando los implementos de parrilla y organizando la cena ligera. |
+| **Yami Sukehiro** | Hamaca bajo las palmeras | Durmiendo plácidamente con el murmullo de las olas. |
