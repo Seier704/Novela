@@ -17,8 +17,8 @@ from docx.enum.text import WD_ALIGN_PARAGRAPH
 CAPITULO_37 = {
     "header": "Capítulo 37",
     "title": "Caída en el Abismo",
-    "illustration": os.path.join(NOVELA_DIR, "imagenes", "lortelle_kecheln.png"),
-    "illustration_caption": "Ilustración: Lortelle Kecheln (Cadete de la Clase C)",
+    "illustration": os.path.join(NOVELA_DIR, "imagenes", "lortelle_kecheln_herida.png"),
+    "illustration_caption": "Ilustración: Lortelle Kecheln (Caída en el Abismo)",
     "paragraphs": [
         "El colapso de la galería subterránea parecía haber quedado atrás, pero las entrañas de la tierra rara vez perdonan la violencia de una explosión.",
         "Apenas habíamos comenzado a reorganizar las filas de los cadetes heridos en el corredor superior, cuando un crujido sordo, profundo y telúrico sacudió los cimientos de la montaña bajo nuestras botas. No fue un temblor ordinario de maná; la onda expansiva del puente detonado por mi impacto de tierra y las galerías carcomidas por los miles de túneles de los Skavens habían provocado una falla estructural masiva.",

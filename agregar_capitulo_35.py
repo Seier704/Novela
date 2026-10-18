@@ -40,7 +40,7 @@ CAPITULO_35 = {
         "Las criaturas aladas se movían entre las sombras del techo con una velocidad aterradora, atacando los flancos de la formación y desatando chillidos que aturdían la mente.",
         "—¡No puedo mantener la barrera sagrada! ¡El miasma está devorando mis oraciones! —gritaba el clérigo de dieciséis años, cayendo de rodillas con las manos temblando de pánico.",
         "Uno de los lanceros fue derribado por un coletazo del gólem y el segundo retrocedió arrastrando a su compañero herido, dejando la retaguardia completamente desprotegida.",
-        "Al frente, Yami Sukehiro mantenía la línea con su postura pesada habitual. A pesar de tener la misma edad que todos los presentes, el chico del Reino del Trébol irradiaba una presencia dominante y pesada. Con un cigarrillo apagado entre los labios y el torso cubierto únicamente por su camiseta blanca, desenvainó su katana negra con un silbido amenazante:",
+        "Al frente, Yami Sukehiro mantenía la línea con su postura pesada habitual, irradiando una presencia dominante. Con un cigarrillo apagado entre los labios y el torso cubierto únicamente por su camiseta blanca, desenvainó su katana negra con un silbido amenazante:",
         "—Vaya panda de escandalosos —gruñó Yami con su voz áspera—. Cierren la boca y no estorben.",
         "Una marea de maná de oscuridad densa envolvió la hoja de su espada. Yami saltó de frente hacia el gólem, bloqueando el puño de piedra de la bestia con un crujido sísmico y comenzando un intercambio brutal de tajos y estocadas.",
         "Pero la manada de gárgolas no atacó a Yami.",
