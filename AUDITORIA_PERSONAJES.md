@@ -285,3 +285,28 @@
 - **Físico / Rasgos:** Cabello rubio engominado, capa carmesí con broche de oro, complexión esbelta de duelista cortesano. 16 años.
 - **Armamento / Combate:** Estoque dorado de esgrima de precisión. Estilo lineal y rápido de salón noble.
 - **Dinámica con la Sección Uno:** Inició con soberbia aristocrática; fue humillado y sometido en dos segundos por Seier mediante barrido y clinch letal de Muay Thai. Tras el pánico inicial, aprendió a respetar la jerarquía del aula por pura supervivencia.
+
+
+---
+
+## 10. La Casa Condal de Morvath y Habitantes del Feudo (Segundo Semestre)
+
+### **Conde Raymond de Morvath**
+- **Rol:** Señor Feudal del Condado de Morvath.
+- **Físico / Rasgos:** Hombre gordo y rubicundo, de mejillas fofas, ojos acuosos e indolentes, manos enjoyadas y aliento pesado a vino dulce.
+- **Personalidad / Estado:** Decadente, negligente y corrupto; gasta los impuestos en banquetes rancios mientras sus caminos se desmoronan y los campesinos mueren de hambre. Desprecia a los cadetes considerándolos niños.
+
+### **Valerius de Morvath**
+- **Rol:** Primogénito y Heredero de la Casa Morvath.
+- **Físico / Rasgos:** Joven de unos 18 años, mirada altiva, labios finos, sonrisa desdeñosa, capa de armiño sobre terciopelo y espada de empuñadura dorada.
+- **Personalidad / Combate:** Arrogante, clasista y cobarde en el fondo; desprecia abiertamente a plebeyos, enanos y semihumanos. Provocó a Seier pero retrocedió al escuchar sobre el Señor de la Guerra Skaven.
+
+### **Julian de Morvath**
+- **Rol:** Segundo Hijo de la Casa Morvath.
+- **Físico / Rasgos:** Joven de 16-17 años, cota de cuero reforzada, botas de jinete embarradas, cabello castaño despeinado y ojeras profundas de insomnio y vigilia.
+- **Personalidad / Dinámica:** El único miembro sensato, honorable y despierto de la familia condal. Conoce la verdad de la podredumbre, los tributos sangrientos, las cosechas envenenadas y las desapariciones en los pueblos de Sauceda y Pedregal Alto. Ve en Seier y en la Sección Uno su única esperanza de salvación.
+
+### **Leo de Morvath**
+- **Rol:** Tercer Hijo (Menor) de la Casa Morvath.
+- **Físico / Rasgos:** Niño de unos 8 años, menudo, ojos oscuros asustadizos, ropas sencillas; se aferra con temor a la mano de su hermano Julian.
+- **Estado:** Inocente y desprotegido en medio de un feudo decadente y hostil.

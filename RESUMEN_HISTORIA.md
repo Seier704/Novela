@@ -1,7 +1,7 @@
 # RESUMEN HISTÓRICO Y REGISTRO DINÁMICO DE CAPÍTULOS
 ## *El Camino del Reencarnado: Crónicas de Sangre, Acero y Deseo*
 **Autor:** Seier Silva  
-**Última actualización:** Capítulo 65  
+**Última actualización:** Capítulo 66  
 
 ---
 
@@ -145,11 +145,14 @@ Diez años después, forjado en un condicionamiento físico y de maná telúrico
 - **Capítulo 65: Sangre Nueva en la Sección Uno: Acero, Garras y Rumbo al Horizonte**: Primer día lectivo dentro del pabellón de combate de la Sección Uno, donde coinciden Seier Silva, Vlad y Akame junto a una mezcla variopinta de cadetes de distintas razas: Borgar Yunque-Férreo (enano herrero testarudo con martillo de guerra), Faelar Vaelen (elfo silvano arquero), Kaelan Garra-Pardo (semihumano felino ágil y desconfiado) y Vance von Holst (noble menor arrogante de la antigua A-2). El Capitán Vaneck, instructor táctico cicatrizado, anuncia la directriz del semestre: cada sección mixta será enviada a **misiones de larga duración** en las fronteras exteriores del imperio (escoltas, patrullas y purga de nidos en zonas grises), advirtiendo que lo catalogado como rutina puede tornarse letal en cualquier momento. En la prueba de combate del foso de arena, Vance intenta desafiar a Seier y es neutralizado en dos segundos con un barrido y clinch de Muay Thai; Borgar reta a Vlad y es derribado por un contragolpe táctico de espada bastarda ganándose el respeto del enano; y Kaelan es contenido al vuelo por la saya de Akame antes de tocar el suelo. Asombrados por el poder de la vanguardia, los nuevos reclutas cierran filas bajo el liderazgo de Seier, forjando el pacto de la Sección Uno para sobrevivir y triunfar en su primera gran expedición exterior.
 
 ---
-## 4. Estado Actual de la Trama y del Mundo (Post-Capítulo 65)
-- **Escenario:** Pabellón de combate y foso de arena de la Sección Uno, Gran Academia de Astraea en Solaria.
-- **Estatus Político y Militar:** Inicio de los entrenamientos del Segundo Semestre. Anunciadas formalmente las **Misiones de Larga Duración en Territorio Exterior** para evaluar la supervivencia real de las secciones mixtas.
-- **Poder y Cohesión de la Sección Uno:**
-  - **Liderazgo Consolidado:** Seier Silva (Caballero Defensor, León de Oro), Vlad (mando táctico) y Akame (asesina letal) establecen su dominio absoluto y respeto unánime en el aula tras la prueba del foso.
-  - **Nuevos Integrantes Reclutados:** Borgar Yunque-Férreo (enano de martillo y forja), Faelar Vaelen (elfo arquero), Kaelan Garra-Pardo (semihumano explorador) y Vance von Holst (noble menor esgrimista sometido).
-  - **Otras Secciones:** Sección Dos (Erza, Lucy, Dante); Sección Tres (Rukia, Burnice, Hoshina, Pulchra); Sección Cuatro (Ken, Elysea, Piper); Sección Cinco (Caesar, Natsuki, Agnes Tachyon); Sección Seis (Yami, Kaoruko, Lighter); Sección Siete (Renji, Lortelle, Freya, Zemina).
-- **Periodo Activo:** Tarde del primer día de clases del **Segundo Semestre Académico**. Preparativos para el despliegue expedicionario en dos semanas.
+- **Capítulo 66: Caminos Grises y Sombras de Morvath: El Feudo del Olvido**: La Sección Uno emprende una dura travesía de diez jornadas hacia el extremo oriental de Solaria, adentrándose en el decadente y sombrío Condado de Morvath. El trayecto revela un ambiente oscuro y miserable (+18): caminos derruidos, puentes fracturados, un olor pestilente a fango y sangre rancia rastreado por Kaelan, y tres campesinos ahorcados con letreros de "Morosidad" en un sauce. Al llegar a la ciudad fortificada de Morvath, flanqueada por las miserables aldeas satélites de Sauceda y Pedregal Alto, Vlad frena en seco a los mercenarios de la puerta que intentaban extorsionar al convoy con peajes ilegales. En el castillo condal, Seier, Vlad y Akame son recibidos por el Conde Raymond (ebrio, decadente y negligente) y su primogénito Valerius (arrogante y clasista, a quien Seier pone en su lugar recordándole el destino del Señor de la Guerra Skaven). La tensión se quiebra con la intervención del segundo hijo, Julian de Morvath —el único con sentido común y honor, acompañado por su pequeño hermano Leo (8 años)—, quien les advierte con crudeza que han caído en una trampa de abandono: cosechas envenenadas, guardias desaparecidos y una oscura secta operando en las minas, dando inicio a una oscura y peligrosa trama de corrupción feudal.
+
+---
+## 4. Estado Actual de la Trama y del Mundo (Post-Capítulo 66)
+- **Escenario:** Castillo del Condado de Morvath, ciudad amurallada decadente y pueblos periféricos (Sauceda y Pedregal Alto), extremo oriental de Solaria.
+- **Estatus Político y Militar:** Despliegue de la Primera Misión de Larga Duración de la Sección Uno. Descubrimiento de corrupción feudal extrema, ejecuciones públicas por deudas, hambre campesina y abandono institucional bajo el mando del Conde Raymond.
+- **Situación en Morvath:**
+  - **Fuerzas Imperiales / Sección Uno:** Seier Silva, Vlad, Akame, Borgar, Faelar, Kaelan y Vance von Holst alojados en el feudo.
+  - **Casa Condal Morvath:** Conde Raymond (negligente y ciego a la crisis), Valerius (primogénito hostil y soberbio), Julian (segundo hijo aliado y sensato) y Leo (hijo menor vulnerable).
+  - **Amenaza Latente:** Rumores de cosechas envenenadas, guardias asesinados en luna llena y actividades de una secta oscura en las minas abandonadas de Pedregal Alto.
+- **Periodo Activo:** Anochecer de la primera jornada de llegada al **Condado de Morvath**.

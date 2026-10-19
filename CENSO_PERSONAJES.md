@@ -677,3 +677,35 @@
 | **Caesar King, Subaru Natsuki & Agnes Tachyon** | Pabellón de la Sección Cinco | En clase táctica con flexiones forzadas y experimentos de fósforo. |
 | **Yami Sukehiro, Kaoruko Waguri & Lighter** | Pabellón de la Sección Seis | Disfrutando de pasteles de manzana con Yami dormitando en el fondo. |
 | **Renji Abarai, Lortelle Kecheln, Freya Skuld & Zemina** | Pabellón de la Sección Siete | En análisis logístico y finanzas de suministros expedicionarios. |
+
+
+# Censo de Personajes: Capítulo 66
+**Capítulo:** *Caminos Grises y Sombras de Morvath: El Feudo del Olvido*  
+**Ubicación Principal:** Caminos orientales, rastrillo de entrada y gran salón del castillo condal de Morvath.  
+**Contexto Operativo:** Travesía de diez jornadas de la Sección Uno; descubrimiento del estado de abandono, hambruna y ahorcados por deudas; confrontación en las puertas de la ciudad de Morvath; audiencia tensa con el Conde Raymond y su primogénito Valerius; revelación de Julian de Morvath sobre los verdaderos horrores del feudo (Sauceda y Pedregal Alto).
+
+### 1. Personajes que APARECEN en Escena (Foco Principal: Sección Uno & Casa Morvath)
+
+| Personaje | Facción / Rol | Rol / Acción en el Capítulo | Estado al Cierre |
+| :--- | :--- | :--- | :--- |
+| **Seier Silva** | Sección Uno (Líder F-2) | Conduce el carromato de la vanguardia; analiza los ahorcados en el camino; frena la soberbia de Valerius con frialdad letal; escucha la advertencia de Julian. | Alerta, imponente, protector y listo para la acción. |
+| **Vlad** | Sección Uno (Aliado F-2) | Enseña su sello de la Orden del León intimidando a los guardias extorsionadores en el portón; respalda a Seier ante los nobles. | Firme, marcial, estricto y en guardia. |
+| **Akame** | Sección Uno (Clase F-2) | Examina los cadáveres calificados con cal viva; mantiene la mano en *Murasame* lista para desenvainar ante cualquier traición. | Silenciosa, perceptiva, letal e imperturbable. |
+| **Kaelan Garra-Pardo** | Sección Uno (Semihumano) | Rastrea olores a podrido, turba y sangre rancia desde el techo del carromato; gruñe ante las provocaciones nobles. | Alerta instintiva, garras listas y desconfiado. |
+| **Borgar Yunque-Férreo** | Sección Uno (Enano) | Critica la pésima ingeniería de los puentes podridos; casi embiste a Valerius con su martillo ante sus insultos clasistas. | Ruidoso, indignado y leal al grupo. |
+| **Faelar Vaelen** | Sección Uno (Elfo Silvano) | Descubre marcas rituales y trampas para fugitivos en las ramas de los bosques; cubre la retaguardia con su arco largo. | Analítico, sereno y vigilante. |
+| **Vance von Holst** | Sección Uno (Noble Menor) | Se horroriza y vomita ante los ahorcados en el camino; descubre con espanto la brutalidad de la vida feudal real. | Escarmentado, pálido y pegado a Vlad. |
+| **Conde Raymond de Morvath** | Señor de Morvath | Recibe a los cadetes ebrio en su trono con desdén y sorna, calificándolos de mocosos prescindibles. | Gordo, corrupto, indolente y decadente. |
+| **Valerius de Morvath** | Primogénito Morvath | Insulta a los cadetes llamándolos perros de zanja; retrocede humillado ante la mirada de Seier. | Arrogante, clasista, vicioso y cobarde. |
+| **Julian de Morvath** | Segundo Hijo Morvath | Interviene frenando a su hermano; vestido con cuero embarrado, advierte a Seier de la podredumbre, muertes y sectas del feudo. | Sensato, lúcido, honorable y desesperado por ayuda. |
+| **Leo de Morvath** | Hijo Menor Morvath | Niño de 8 años que se aferra con miedo a Julian ante la presencia de los soldados imperiales. | Inocente, asustado y vulnerable. |
+
+### 2. Personajes que NO APARECEN en Escena pero están en sus respectivas Misiones de Astraea
+| Personaje | Ubicación Operativa |
+| :--- | :--- |
+| **Erza Scarlet, Lucy & Dante Vance** | Misión de la Sección Dos en el norte. |
+| **Rukia Kuchiki, Burnice White, Hoshina & Pulchra** | Misión de la Sección Tres en los valles rúnicos. |
+| **Ken, Lady Elysea de Vane & Piper Wheel** | Misión de la Sección Cuatro en las cordilleras. |
+| **Caesar King, Subaru Natsuki & Agnes Tachyon** | Misión de la Sección Cinco en las fronteras mineras. |
+| **Yami Sukehiro, Kaoruko Waguri & Lighter** | Misión de la Sección Seis en el páramo central. |
+| **Renji Abarai, Lortelle Kecheln, Freya Skuld & Zemina** | Misión de la Sección Siete en las rutas comerciales. |
