@@ -615,30 +615,36 @@
 # Censo de Personajes: Capítulo 64
 **Capítulo:** *Nuevos Vientos en Astraea: Aulas Mixtas y la Hermandad Eterna*  
 **Ubicación Principal:** Gran Plaza de Armas y patio central frente al cristal rúnico en la Gran Academia de Astraea.  
-**Contexto Operativo:** Primer día del segundo semestre tras el retorno de las vacaciones. Anuncio del Instructor Jefe Gerald sobre la reforma anti-discriminatoria de aulas mixtas; asignación de los estudiantes a distintas secciones; reacciones ágiles, cómicas y fraternales de la F-2; y discurso de Seier Silva sellando el juramento de hermandad indestructible en el umbral de los 17 años.
+**Contexto Operativo:** Primer día del segundo semestre tras el retorno de las vacaciones en Costa Esmeralda. Anuncio oficial de Gerald sobre la abolición de las castas académicas y la creación de secciones mixtas; asignación estrictamente aleatoria separando a todas las parejas; inclusión activa de Erza Scarlet y Agnes Tachyon; Seier asignado a la Sección Uno junto a Vlad y Akame; diálogos ágiles, réplicas cómicas y juramento de hermandad de la F-2.
 
-### 1. Personajes que APARECEN en Escena (Foco Principal: Plaza de Armas)
+### 1. Personajes que APARECEN en Escena (Foco Principal: Plaza de Armas y Cristal Rúnico)
 
 | Personaje | Facción / Clase | Rol / Acción en el Capítulo | Estado al Cierre |
 | :--- | :--- | :--- | :--- |
-| **Seier Silva** | Clase F-2 (Líder) | Retorna a Astraea recibido con respeto; escucha el decreto de Gerald; asignado a la Sección Uno con Kaoruko; convoca a la manada y pronuncia un discurso unificador recordando que la F-2 es eterna. | Determinado, líder respetado, 17 años inminentes y en la cumbre de su vigor. |
-| **Gerald** | Instructor Jefe | Anuncia con voz de trueno la reforma obligatoria de aulas mixtas, aboliendo la segregación noble/plebeyo y advirtiendo a los nobles estirados. | Severo, marcial, orgulloso de la F-2 y con autoridad absoluta. |
-| **Caesar King** | Clase F-2 (Líder Calydon) | Desafía a los nobles que pretendan faltar el respeto; calma a Piper; asignada a la Sección Tres junto a Yami con burlas y complicidad. | Dominante, divertida, protectora y unida a Yami. |
-| **Yami Sukehiro** | Clase F-2 | Fuma su puro imperturbable; asignado a la Sección Tres con Caesar, bromeando sobre no ser despertado de la siesta. | Relajado, socarrón, letal y cómplice con Caesar. |
-| **Piper Wheel** | Clase F-2 (Hijos de Calydon) | Hace un cómico berrinche infantil al verse asignada a la Sección Seis con la ex-clase B, temiendo por sus herramientas. | Expresiva, divertida y protegida por Caesar. |
-| **Lighter** | Clase F-2 (Hijos de Calydon) | Bromea sobre los nuevos modales de los nobles; asignado a la Sección Cinco con Renji y Vlad. | Carismático, atlético y listo para el combate. |
-| **Ken** | Clase F-2 | Choca los puños despidiendo fuego solar de sus nudillos; asignado a la Sección Cuatro con Burnice, entusiasmado por medirse a los ex-alumnos de la A-1. | Enérgico, combativo, sin apellido (Epic Seven) y motivado. |
-| **Burnice White** | Clase F-2 (Hijos de Calydon) | Celebra estar con Ken en la Sección Cuatro, prometiendo cócteles chispeantes a sus nuevos compañeros. | Festiva, alegre, chispeante y enérgica. |
-| **Subaru Natsuki** | Clase F-2 | Asignado a la Sección Dos; celebra estar junto a Lucy y responde con madurez y ternura a sus advertencias. | Seguro, enamorado, sereno y feliz. |
-| **Lucy** | Clase F-2 (Hijos de Calydon) | Asignada a la Sección Dos con Natsuki; disimula su alegría con mohines y amenazas de quemar libros si alguien molesta a Natsuki; busca su mano en secreto. | Tierna, protectora, sonrojada y enamorada. |
-| **Renji Abarai** | Clase F-2 | Lee su asignación a la Sección Cinco con Lighter y Vlad; se rasca la nuca celebrando el poder de choque de su nueva aula. | Fuerte, relajado y compañero leal. |
-| **Rukia Kuchiki** | Clase F-2 | Asignada a la Sección Uno con Akame y Hoshina; aconseja a Renji con afecto y sonríe con calma ante la nueva etapa. | Serena, noble, dulce y letal. |
-| **Akame** | Clase F-2 | Mastica carne seca con calma; asignada a la Sección Uno, advirtiendo que nadie se sobrepasará con ellas. | Imperturbable, voraz y leal. |
-| **Hoshina** | Clase F-2 | Asignada a la Sección Uno con Rukia y Akame, lista para afinar su puntería rúnica. | Concentrada, serena y descansada. |
-| **Lortelle Kecheln** | Clase C / Compañía Elte | Analiza con agudeza mercantil la reforma, viendo en la dispersión de aulas una red de espionaje y comercio inmejorable para Seier. | Brillante, astuta, sensual y cómplice. |
-| **Lady Elysea de Vane** | Clase C | Celebra con porte altivo que los nobles ahora deban pedir consejo a los parias; ratifica su amor por Seier. | Aristocrática, orgullosa, libre y enamorada. |
-| **Kaoruko Waguri** | Clase F-2 | Entrelaza sus dedos con Seier al saber que comparten la Sección Uno; ratifica su devoción eterna hacia él. | Dulce, amada, protectora y en paz. |
-| **Pulchra** | Clase F-2 (Hijos de Calydon) | Presente en la formación del juramento en círculo en el patio. | Ágil, silenciosa y leal a la manada. |
+| **Seier Silva** | Clase F-2 (Líder) | Retorna respetado por los nobles; asignado a la **Sección Uno junto a Vlad y Akame**; convoca a la F-2 en círculo y lidera el juramento de dominio absoluto en Astraea. | Determinado, líder respetado, 17 años inminentes y en la cumbre de su vigor. |
+| **Gerald** | Instructor Jefe | Anuncia con voz de trueno la abolición de las clases segregadas (A-1 a F-2) y la llegada de las aulas mixtas obligatorias. | Severo, marcial, orgulloso de la F-2 y con autoridad absoluta. |
+| **Vlad** | Aliado F-2 (Mando Militar) | Asignado a la **Sección Uno con Seier y Akame**; celebra la formación de la vanguardia táctica y pesada más temible del campus. | Noble, táctico, imponente y leal a Seier. |
+| **Akame** | Clase F-2 | Asignada a la **Sección Uno con Seier y Vlad**; mastica carne seca con frialdad letal advirtiendo que ningún noble durará mucho si busca pelea. | Imperturbable, voraz, de melena negra lacia y ojos rojos carmesí. |
+| **Erza Scarlet** | Clase F-2 (Titania) | Asignada a la **Sección Dos junto a Lucy y Dante**; impone disciplina marcial con su melena escarlata brillante y armadura plateada, prohibiendo distracciones amorosas a Lucy. | Noble, disciplinaria, estricta y líder de vanguardia. |
+| **Lucy** | Clase F-2 (Hijos de Calydon) | Asignada a la **Sección Dos con Erza**; rezonga por no estar con Natsuki; celosa y tierna, le advierte a Natsuki que quemará la falda de cualquier noble que se le acerque. | Coletas rubias, ojos dorados, sonrojada, celosa y tierna. |
+| **Dante Vance** | Aliado F-2 (Escuadrón 7) | Asignado a la **Sección Dos con Erza y Lucy**; limpia su mosquete rúnico manteniendo la serenidad de explorador. | Tranquilo, disciplinado y trampero certero. |
+| **Caesar King** | Clase F-2 (Líder Calydon) | Asignada a la **Sección Cinco con Natsuki y Agnes Tachyon**; adopta a Natsuki como compañero de banco prometiendo exigirle flexiones en clase táctica. | Rubia imponente, ojos dorados, escudo de titanio, protectora y divertida. |
+| **Subaru Natsuki** | Clase F-2 | Asignado a la **Sección Cinco con Caesar y Agnes Tachyon**; promete fidelidad a Lucy con dulzura y tiembla cómicamente ante los frascos explosivos de Agnes. | Maduro, tierno, leal y con aura plateada. |
+| **Agnes Tachyon** | Alquimista de la Academia | Asignada a la **Sección Cinco con Caesar y Natsuki**; tropieza con bata blanca y matraz burbujeante de humo violáceo, ansiosa por experimentar termodinámica en clase. | Científica excéntrica, genial, volátil y risueña. |
+| **Ken** | Clase F-2 | Asignado a la **Sección Cuatro con Elysea y Piper**; echa chispas de fuego solar por los nudillos con ganas de medirse a los nobles presumidos. | Castaño rojizo, bandana roja, combativo, sin apellido (Epic Seven). |
+| **Lady Elysea de Vane** | Clase C (Ex A-2) | Asignada a la **Sección Cuatro con Ken y Piper**; con su **cabello plateado como luz de luna y ojos zafiro**, advierte que su estoque pondrá en su lugar a cualquier noble arrogante. | Aristocrática, altiva, gélida con extraños y devota de Seier. |
+| **Piper Wheel** | Clase F-2 (Hijos de Calydon) | Asignada a la **Sección Cuatro con Ken y Elysea**; patalea cómicamente por miedo a que los nobles de su clase le toquen sus herramientas y galletas. | Menuda, adorable, ingeniera mecánica temible. |
+| **Yami Sukehiro** | Clase F-2 | Asignado a la **Sección Seis con Kaoruko y Lighter**; bromea con su puro sobre dormir en el fondo de la clase y dejar que los demás hagan el ruido. | Relajado, socarrón, letal y con postura pesada. |
+| **Kaoruko Waguri** | Clase F-2 | Asignada a la **Sección Seis con Yami y Lighter**; con su **cabello azabache brillante y ojos cálidos**, promete llevar pasteles y lamenta con dulzura no estar junto a Seier. | Dulce, amada, repostera protectora y devota. |
+| **Lighter** | Clase F-2 (Hijos de Calydon) | Asignado a la **Sección Seis con Yami y Kaoruko**; promete conectar jabs de combustión a cualquiera que mire feo a Kaoruko. | Carismático, boxeador atlético y protector. |
+| **Rukia Kuchiki** | Clase F-2 | Asignada a la **Sección Tres con Burnice, Hoshina y Pulchra**; menuda, de cabello azabache con mechón frontal y ojos violetas, calma a Renji con dulzura serena. | Serena, noble, de hielo sagrado y dulce. |
+| **Burnice White** | Clase F-2 (Hijos de Calydon) | Asignada a la **Sección Tres con Rukia**; rubia alegre, promete repartir cócteles chispeantes de pimienta y canela para que nadie se duerma. | Festiva, chispeante y enérgica. |
+| **Hoshina** | Clase F-2 | Asignada a la **Sección Tres con Rukia y Burnice**; cabello corto, ojos verdes, tranquila y analítica. | Concentrada, estratega y francotiradora. |
+| **Pulchra** | Clase F-2 (Hijos de Calydon) | Asignada a la **Sección Tres**; semi-humana felina de ojos ámbar, acurrucada en el alféizar de la ventana atenta a su grupo. | Ágil, sigilosa, letal y leal. |
+| **Renji Abarai** | Clase F-2 | Asignado a la **Sección Siete con Lortelle, Freya y Zemina**; se tira de su coleta roja encendida protestando ruidosamente por no estar con Rukia. | Fuerte, apasionado, quejumbroso y leal. |
+| **Lortelle Kecheln** | Clase C / Compañía Elte | Asignada a la **Sección Siete con Renji**; **cabello castaño claro con reflejos dorados y ojos verdes felinos**, celebra con astucia mercantil la red de espías en todas las aulas. | Astuta, sofisticada, millonaria y cómplice de Seier. |
+| **Freya Skuld** | Aliada F-2 (Escuadrón 7) | Asignada a la **Sección Siete**; guerrera bárbara de la Costa Helada con lanza de morsa marina, lista para la disciplina. | Fuerte, nórdica y leal. |
+| **Zemina** | Aliada F-2 | Asignada a la **Sección Siete con Renji y Lortelle**; cabello cobrizo ondulado, pecas y mirada cálida, sonriendo con madurez ante la separación de Vlad. | Dulce, elegante y enamorada de Vlad. |
 
 ### 2. Personajes que NO APARECEN en Escena pero están en la Academia
-*(Todos los integrantes principales están reunidos en la Plaza de Armas durante el anuncio institucional).*
+*(Todo el cuerpo docente y estudiantil está presente en la Gran Plaza de Armas).*
