@@ -31,6 +31,15 @@ En atención a las directrices canónicas del autor, se han corregido y armoniza
 
 ---
 
+8. **Identidad Canónica de Ken (Ken Fénix de Epic Seven):**
+   - El personaje se llama estrictamente **Ken** (sin apellido alguno). Está directamente referenciado e inspirado en Ken de *Epic Seven* (artista marcial de fuego solar, discípulo de la maestra Hwa Young, portador de bandana roja y puños flamígeros).
+   - Queda totalmente prohibido adjudicarle apellidos erróneos como "Kaneki" u otros ajenos a su obra de origen.
+9. **Directriz de Estilo Narrativo (Preferencia de Diálogos sobre Exposición):**
+   - En escenas de vida cotidiana, academia, comedia y romance, se prioriza el diálogo ágil, vivo, con ritmo picante y réplicas directas, reduciendo la explicación narrativa y descriptiva a lo esencial.
+   - Las descripciones exhaustivas, técnicas y meticulosas se reservan con todo su rigor para las secuencias de combate, táctica marcial, magia y batallas a gran escala.
+
+---
+
 ## 2. Detalle de Cambios Aplicados en los Capítulos y `.docx`
 
 | Capítulo | Elemento Corregido | Texto Anterior | Corrección Aplicada |

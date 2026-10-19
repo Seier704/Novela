@@ -1,7 +1,7 @@
 # RESUMEN HISTÓRICO Y REGISTRO DINÁMICO DE CAPÍTULOS
 ## *El Camino del Reencarnado: Crónicas de Sangre, Acero y Deseo*
 **Autor:** Seier Silva  
-**Última actualización:** Capítulo 63  
+**Última actualización:** Capítulo 64  
 
 ---
 
@@ -139,16 +139,18 @@ Diez años después, forjado en un condicionamiento físico y de maná telúrico
   4. *La Gran Fogata y el Horizonte*: Al anochecer, toda la F-2 y sus aliados celebran alrededor de una inmensa fogata. Seier realiza un brindis solemne recordando cómo superaron el rechazo imperial y el asedio Skaven; y reflexiona sobre el inminente regreso a la capital para el segundo semestre, donde todos alcanzarán los diecisiete años y asumirán el peso de ser veteranos consagrados. Todos alzan sus copas con júbilo fraterno, mientras Yami y Caesar chocan sus vasos en un pacto silencioso de lealtad y deseo.
 
 ---
-## 4. Estado Actual de la Trama y del Mundo (Post-Capítulo 63)
-- **Escenario:** Costa Esmeralda, playa privada, caleta secreta y gran fogata marina nocturna.
-- **Estatus Político y Militar:** Primer semestre académico concluido con condecoraciones de máximo honor. Cohesión fraterna absoluta en la Clase F-2 y los Hijos de Calydon.
-- **Poder y Vínculos:** Lazos románticos y afectivos en su máxima plenitud:
-  - **Seier Silva:** Armonía y amor consensuado absoluto con sus tres compañeras de vida (Lortelle Kecheln, Kaoruko Waguri y Lady Elysea de Vane), compartido en plenitud íntima y espiritual.
-  - **Yami Sukehiro & Caesar King:** Encuentro pasional íntimo consumado; alianza y romance naciente de mutuo respeto marcial, complicidad guerrera y atracción indomable.
-  - **Subaru Natsuki & Lucy:** Romance consolidado en ternura, besos sinceros, superación de corazas defensivas y afecto recíproco.
-  - **Ken & Burnice White:** Pareja romántica consolidada.
-  - **Lighter & Hoshina:** Pareja romántica consolidada.
-  - **Renji Abarai & Rukia Kuchiki:** Romance consolidado con creciente ternura, música y complicidad.
-  - **Vlad & Zemina:** Pareja oficial con devoción amorosa incondicional.
-  - **Hijos de Calydon & Clase F-2:** Integración fraternal indivisible.
-- **Periodo Activo:** Noche del quinto día de las **Vacaciones de Verano** en la Costa Esmeralda. Reflexión sobre el inminente retorno a Solaria y el umbral de los 17 años para el segundo semestre.
+- **Capítulo 64: Nuevos Vientos en Astraea: Aulas Mixtas y la Hermandad Eterna**: Retorno a la capital imperial y a la Gran Academia de Astraea para el inicio del segundo semestre. El Instructor Jefe Gerald proclama una reforma institucional histórica: se elimina por completo la segregación por linaje o casta (desaparecen las etiquetas A-1 y F-2) y todas las aulas pasan a ser mixtas, compartiendo pupitre nobles, plebeyos, cadetes del Páramo y forasteros. Al publicarse las listas en el cristal rúnico, los miembros de la F-2 son asignados a distintas secciones (Caesar y Yami en la Sección Tres; Ken y Burnice en la Cuatro; Natsuki y Lucy en la Dos; Renji, Lighter y Vlad en la Cinco; Rukia, Akame y Hoshina en la Uno; y Seier junto a Kaoruko en la Uno con Lortelle y Elysea en sus respectivas aulas). Lejos de amedrentarse o entristecerse por la separación de aulas, los muchachos lo toman con humor y camaradería: Piper protesta por sus herramientas, Caesar y Yami bromean sobre aguantarse en clase de estrategia, Ken arde en deseos de hacer sudar a los antiguos nobles, Natsuki y Lucy comparten complicidad tierna y Lortelle/Elysea celebran la ventaja estratégica de tener presencia en cada rincón del campus. Seier reúne a los dieciséis guerreros en el patio de armas, recordándoles que la F-2 no es un salón de clases sino una hermandad eterna, sellando el juramento de cara a su cumpleaños de 17 años en este nuevo ciclo.
+
+---
+## 4. Estado Actual de la Trama y del Mundo (Post-Capítulo 64)
+- **Escenario:** Gran Academia Imperial de Astraea, Gran Plaza de Armas y patios centrales en Solaria.
+- **Estatus Político y Militar:** Inicio oficial del Segundo Semestre Académico. Aprobada la abolición de aulas segregadas por clases sociales; implementación del sistema de aulas mixtas heterogéneas.
+- **Poder y Vínculos:**
+  - **Hermandad de la F-2:** Cohesión y lealtad inquebrantable que trasciende la división de aulas.
+  - **Seier Silva:** Líder indiscutido de la generación; condecorado con el León de Oro con Hojas de Roble; asignado a la Sección Uno junto a Kaoruko Waguri, manteniendo su vínculo pleno y armonioso con Lortelle y Elysea.
+  - **Yami Sukehiro & Caesar King:** Asignados juntos a la Sección Tres; complicidad guerrera, romance en ciernes y desafío mutuo intacto.
+  - **Subaru Natsuki & Lucy:** Asignados juntos a la Sección Dos; Lucy asume su rol protector y dulce con disimulada ternura, consolidando su romance.
+  - **Ken & Burnice White:** Asignados a la Sección Cuatro; listos para encender la clase con artes marciales solares y brebajes chispeantes.
+  - **Renji, Vlad & Lighter:** Sección Cinco (bloque de combate cuerpo a cuerpo y vanguardia pesada).
+  - **Rukia, Akame & Hoshina:** Sección Uno (disciplina, letalidad y precisión a distancia).
+- **Periodo Activo:** Mañana del primer día del **Segundo Semestre Académico**. Cadetes alcanzando los 17 años de edad.

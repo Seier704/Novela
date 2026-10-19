@@ -70,7 +70,7 @@ CAPITULO_63 = {
         "Al caer el crepúsculo, el cielo sobre la Costa Esmeralda se tiñó de púrpura, bronce y fuego líquido.",
         "Toda la Clase F-2, los Hijos de Calydon y nuestros aliados más cercanos nos congregamos alrededor de una enorme fogata comunitaria encendida en la playa central. Los troncos de maderas aromáticas desprendían un aroma resinoso y cálido mientras las chispas danzaban hacia las primeras estrellas.",
         "El ambiente rebosaba de una camaradería viva y radiante:",
-        "Vlad y Zemina compartían un baile lento y pausado al borde del resplandor de las llamas, perdidos en su devoción mutua; Renji Abarai descansaba con la espalda apoyada en una duna, rodeando los hombros de Rukia Kuchiki con una manta gruesa mientras ella contemplaba el mar en serena paz; Ken Kaneki y Burnice White reían a carcajadas mientras tostaban malvaviscos en varas de sauce; Akame y Pulchra devoraban brochetas de salmón asado compitiendo amistosamente por ver quién terminaba primero; mientras Hoshina practicaba tiros de precisión arrojando conchas lisas hacia las crestas de las olas con Lighter corrigiéndole la postura entre sonrisas.",
+        "Vlad y Zemina compartían un baile lento y pausado al borde del resplandor de las llamas, perdidos en su devoción mutua; Renji Abarai descansaba con la espalda apoyada en una duna, rodeando los hombros de Rukia Kuchiki con una manta gruesa mientras ella contemplaba el mar en serena paz; Ken y Burnice White reían a carcajadas mientras tostaban malvaviscos en varas de sauce; Akame y Pulchra devoraban brochetas de salmón asado compitiendo amistosamente por ver quién terminaba primero; mientras Hoshina practicaba tiros de precisión arrojando conchas lisas hacia las crestas de las olas con Lighter corrigiéndole la postura entre sonrisas.",
         "Y un poco más allá, sentados sobre un enorme tronco de roble a la orilla del fuego, Caesar King y Yami Sukehiro compartían una botella de licor añejo.",
         "No necesitaban palabras grandilocuentes ni caricias empalagadas. Sus hombros se tocaban con naturalidad; de vez en cuando, Caesar le quitaba el puro a Yami para darle una calada profunda antes de devolvérselo con una sonrisa ladeada, mientras Yami apoyaba su brazo pesado en el respaldo del tronco detrás de la cintura de la jefa de Calydon. Entre ellos, el fuego de la noche anterior se había transformado en un pacto inquebrantable de respeto, deseo y lealtad entre dos depredadores que por fin habían encontrado a su igual.",
         "Me puse de pie en el centro de la reunión, sosteniendo una copa de vino dorado en mi mano diestra.",
@@ -207,3 +207,4 @@ def compilar_capitulo_63():
 
 if __name__ == "__main__":
     compilar_capitulo_63()
+
