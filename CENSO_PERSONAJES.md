@@ -738,3 +738,32 @@
 | **Mercenarios de Valerius** | Durmiendo o emborrachándose en las tabernas de la ciudad alta. |
 | **Milicia Cívica de Sauceda** | Treinta veteranos aguardando en el cuartel bajo de Sauceda. |
 | **Demás Secciones de la F-2** | Desplegadas en sus respectivas misiones de larga duración en otras provincias de Solaria. |
+
+
+# Censo de Personajes: Capítulo 68
+**Capítulo:** *El Rastro del Cráneo y la Sangre: La Sombra de Khorne*  
+**Ubicación Principal:** Desfiladero rocoso y explanada frente a las bocaminas de Pedregal Alto; ruta forestal hacia Sauceda.  
+**Contexto Operativo:** Exploración e infiltración de la Sección Uno; descubrimiento del Culto del Caos a Khorne; observación de la entrega de oro por los mercenarios de Valerius; interceptación de la orden de incursión contra Sauceda para secuestrar sacrificios humanos; contención táctica de Seier y Vlad; formulación del plan de emboscada para incautar las pruebas selladas del conde y enviarlas a la Corona.
+
+### 1. Personajes que APARECEN en Escena (Foco Principal: Sección Uno & Infiltración)
+
+| Personaje | Facción / Rol | Rol / Acción en el Capítulo | Estado al Cierre |
+| :--- | :--- | :--- | :--- |
+| **Seier Silva** | Sección Uno (Líder F-2) | Lidera la infiltración sigilosa; frena el impulso de Borgar y Vance; diseña el plan de emboscada en Sauceda para capturar las cartas del conde. | Táctico supremo, frío, protector y determinado. |
+| **Vlad** | Sección Uno (Aliado F-2) | Identifica los símbolos de Khorne y su peligro; respalda la estrategia de no atacar prematuramente para no viciar las pruebas ante el Rey. | Marcial, calculador, severo y leal a Seier. |
+| **Akame** | Sección Uno (Clase F-2) | Divisa los carromatos de Valerius; memoriza las rutas de escape; define la orden de combate: eliminar demonios y asegurar documentos. | Silenciosa, rápida, letal y concentrada. |
+| **Julian de Morvath** | Casa Morvath (Aliado) | Identifica al capitán mercenario de su hermano; explica la existencia de las cartas con cera negra del conde y guía el atajo a Sauceda. | Resuelto, honorable, guiando a la escuadra por los bosques. |
+| **Kaelan Garra-Pardo** | Sección Uno (Semihumano) | Rastrea el olor a sangre, azufre y metal herrumbroso; se prepara para cortar tendones en la emboscada. | Ágil, depredador despierto y leal a la sección. |
+| **Faelar Vaelen** | Sección Uno (Elfo Silvano) | Emplea maná de viento y visión élfica para espiar la conversación entre el oficial mercenario y el sacerdote de Khorne. | Francotirador táctico, silencioso y preciso. |
+| **Borgar Yunque-Férreo** | Sección Uno (Enano) | Furioso ante las estacas con cráneos humanos; acata la disciplina de Seier y afila su martillo para la emboscada en el pueblo. | Impaciente pero disciplinado, fiero y protector de inocentes. |
+| **Vance von Holst** | Sección Uno (Noble Menor) | Supera el shock inicial ante el culto de sangre; propone defender a los campesinos y castigar la mancilla al honor noble. | Maduro, leal al grupo y empuñando su estoque con decisión. |
+| **Sacerdote de Khorne** | Culto del Caos | Coloso de máscara de hierro y coraza de calaveras de bronce; exige sesenta sacrificios de Sauceda para el portal. | Fanático sanguinario en las minas. |
+| **Capitán Mercenario de Valerius** | Guardia de Morvath | Entrega el cofre de oro y pacta la entrega de mujeres y niños portando las cartas firmadas del conde. | Traidor a la Corona, corrupto y blanco prioritario. |
+
+### 2. Personajes Mencionados pero Fuera de Escena
+| Personaje | Ubicación / Estado |
+| :--- | :--- |
+| **Conde Raymond & Valerius** | Confiados en el castillo de Morvath, esperando el retorno de sus hombres. |
+| **Leo de Morvath** | Oculto en el castillo bajo el cuidado de la nodriza. |
+| **Campesinos de Sauceda** | Inconscientes de la incursión que se cierne sobre sus chozas. |
+| **Demás Secciones de la F-2** | En sus misiones en otras provincias imperiales. |

@@ -1,7 +1,7 @@
 # RESUMEN HISTÓRICO Y REGISTRO DINÁMICO DE CAPÍTULOS
 ## *El Camino del Reencarnado: Crónicas de Sangre, Acero y Deseo*
 **Autor:** Seier Silva  
-**Última actualización:** Capítulo 67  
+**Última actualización:** Capítulo 68  
 
 ---
 
@@ -151,12 +151,14 @@ Diez años después, forjado en un condicionamiento físico y de maná telúrico
 - **Capítulo 67: Monedas Negras y Secretos de Medianoche: El Pacto con Julian**: Tras una audiencia oficial insultantemente breve donde el Conde Raymond despacha a los cadetes ordenándoles colgar a campesinos rebeldes en Sauceda y alojarse en las caballerizas, la Sección Uno recibe una visita clandestina a medianoche en el viejo cuartel de la guardia. Julian de Morvath, tras poner a salvo a su hermano menor Leo, confiesa la cruda verdad a Seier, Vlad y Akame: su padre y Valerius no solo exprimen y acaparan el oro de la región mientras la gente muere de hambre, sino que sospecha que se han vendido a los demonios debido a la desaparición sistemática de mujeres jóvenes y niños trasladados en carromatos negros a las minas de Pedregal Alto bajo un denso miasma pútrido. Dispuesto a ser tildado de traidor antes que cómplice de la masacre, Julian entrega a Seier su anillo de sello heráldico de plata para comandar a la verdadera milicia cívica de Sauceda (treinta veteranos leales que buscan salvar a sus familias de los mercenarios corruptos) y decide acompañarlos de incógnito. Akame, Borgar, Faelar, Kaelan y un decidido Vance cierran filas junto a Seier y Vlad, pactando marchar hacia Sauceda dos horas antes del amanecer para desarticular la red oscura del feudo.
 
 ---
-## 4. Estado Actual de la Trama y del Mundo (Post-Capítulo 67)
-- **Escenario:** Viejo cuartel de la guardia en los patios bajos del Castillo de Morvath; preparativos para marchar a Sauceda.
-- **Estatus Político y Militar:** Ruptura encubierta del mandato condal. La Sección Uno asume una operación encubierta de rescate y purga contra la corrupción y la presunta secta demoníaca de Morvath.
-- **Fuerzas y Recursos:**
-  - **Sección Uno (Vanguardia Imperial):** Seier Silva, Vlad, Akame, Borgar, Faelar, Kaelan, Vance von Holst.
-  - **Aliado Clave:** Julian de Morvath (armado con capa de incógnito y conocimiento del terreno).
-  - **Autoridad:** Anillo de Sello de Plata de la Casa Morvath (autoriza el mando sobre los 30 soldados veteranos de la milicia cívica en Sauceda).
-  - **Enemigos:** Conde Raymond, Valerius, mercenarios tuertos y la fuerza demoníaca oculta en las minas de Pedregal Alto.
-- **Periodo Activo:** Madrugada (dos horas antes del alba), rumbo al pueblo de **Sauceda**.
+- **Capítulo 68: El Rastro del Cráneo y la Sangre: La Sombra de Khorne**: Avanzando antes del alba por desfiladeros escarpados hacia las minas de Pedregal Alto, la Sección Uno y Julian descubren el campamento de un brutal **Culto al Caos dedicado a Khorne (el Dios de la Sangre)**, rodeado de estacas con cráneos humanos y braseros rúnicos de ocho puntas. En una tensa labor de sigilo e infiltración, observan la llegada de dos carromatos mercenarios de Valerius entregando un cofre de oro y confirmando el pacto demoníaco: esa misma noche, los cultistas y los mercenarios asaltarán el pueblo de **Sauceda** para capturar a sesenta mujeres y niños como ofrendas vivas para encender el portal de la mina. Aunque Borgar y Vance arden en deseos de atacar de inmediato, Seier y Vlad imponen disciplina táctica: atacar en la mina permitiría al conde destruir pruebas y acusar a los cadetes de insubordinación. Con el respaldo de Julian, deciden adelantarse por los atajos del bosque hacia Sauceda, movilizar a la milicia cívica y emboscar a los cultistas en flagrancia para asegurar las cartas firmadas del conde y llevar la prueba definitiva ante el Rey de Solaria para su ejecución legal.
+
+---
+## 4. Estado Actual de la Trama y del Mundo (Post-Capítulo 68)
+- **Escenario:** Gargantas de Pedregal Alto y rutas boscosas hacia el pueblo de Sauceda, Condado de Morvath.
+- **Estatus Político y Militar:** Confirmado el pacto de alta traición: la Casa Condal de Morvath (Conde Raymond y Valerius) está aliada con el Culto del Caos a Khorne.
+- **Táctica en Marcha:**
+  - **Objetivo Inmediato:** Llegar a Sauceda antes del anochecer, armar a la milicia cívica con el sello de Julian y tender una emboscada defensiva en el pueblo.
+  - **Prueba Clave:** Recuperar el documento sellado con cera negra en posesión del capitán mercenario de Valerius para fundamentar la condena de muerte y despojo nobiliario ante la Corona.
+  - **Fuerzas Enemigas Desplegadas:** Cultistas berserker de Khorne armados con hachas pesadas y mercenarios de Valerius en marcha hacia Sauceda.
+- **Periodo Activo:** Mañana del segundo día de misión; carrera contra el tiempo hacia **Sauceda**.

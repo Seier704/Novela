@@ -310,3 +310,24 @@
 - **Rol:** Tercer Hijo (Menor) de la Casa Morvath.
 - **Físico / Rasgos:** Niño de unos 8 años, menudo, ojos oscuros asustadizos, ropas sencillas; se aferra con temor a la mano de su hermano Julian.
 - **Estado:** Inocente y desprotegido en medio de un feudo decadente y hostil.
+
+
+---
+
+## 11. Fuerzas Enemigas y Amenazas Oscuras (Segundo Semestre)
+
+### **Culto del Caos a Khorne (El Dios de la Sangre)**
+- **Naturaleza / Facción:** Herejes y fanáticos adoradores del Caos y de la deidad sanguinaria Khorne.
+- **Base de Operaciones:** Minas abandonadas de Pedregal Alto, Condado de Morvath.
+- **Rasgos / Combate:** Torsos escarificados con runas de ocho puntas y cráneos, corazas herrumbrosas con púas, hachas de carnicero ennegrecidas y sed insaciable de masacre. No negocian ni retroceden.
+- **Pacto con Morvath:** Aliados clandestinos del Conde Raymond y de su primogénito Valerius; reciben oro campesino y lotes de personas (mujeres y niños) para degollarlos en sacrificios rituales destinados a abrir un portal demoníaco.
+
+### **Sacerdote Guerrero de la Máscara de Hierro**
+- **Rol:** Cabecilla y heraldo de Khorne en las minas de Morvath.
+- **Físico / Equipo:** Coloso de más de dos metros, máscara de hierro sin rendijas oculares, coraza de calaveras de bronce y hacha ceremonial de doble filo.
+- **Estado:** Activo en las bocaminas de Pedregal Alto exigiendo sesenta sacrificios de Sauceda.
+
+### **Capitán Mercenario de Valerius**
+- **Rol:** Perro de presa de Valerius de Morvath; nexo entre el castillo y el culto de sangre.
+- **Equipo:** Jubón de cuero tachonado, cofre de hierro con el oro confiscado y cartas de entrega con el sello de cera negra del Conde Raymond.
+- **Estado:** Encargado de coordinar la redada nocturna contra el pueblo de Sauceda.
