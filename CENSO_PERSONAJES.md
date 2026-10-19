@@ -648,3 +648,32 @@
 
 ### 2. Personajes que NO APARECEN en Escena pero están en la Academia
 *(Todo el cuerpo docente y estudiantil está presente en la Gran Plaza de Armas).*
+
+
+# Censo de Personajes: Capítulo 65
+**Capítulo:** *Sangre Nueva en la Sección Uno: Acero, Garras y Rumbo al Horizonte*  
+**Ubicación Principal:** Pabellón circular de combate y foso de arena de la Sección Uno en la Gran Academia de Astraea.  
+**Contexto Operativo:** Primer día de clases y entrenamiento intensivo en la Sección Uno. Presentación de nuevos compañeros de diversas razas (enanos, elfos, semihumanos y nobles de la antigua Clase A); anuncio del Capitán Vaneck sobre las misiones de larga duración fuera de Solaria; pruebas de combate cuerpo a cuerpo donde Seier somete a Vance con Muay Thai, Vlad neutraliza a Borgar y Akame frena a Kaelan; consolidación del pacto de supervivencia de la Sección Uno.
+
+### 1. Personajes que APARECEN en Escena (Foco Principal: Pabellón de la Sección Uno)
+
+| Personaje | Facción / Clase | Rol / Acción en el Capítulo | Estado al Cierre |
+| :--- | :--- | :--- | :--- |
+| **Seier Silva** | Sección Uno (Líder F-2) | Ocupa el centro del pabellón; somete a Vance von Holst en dos segundos con barrido y clinch letal; asume el mando moral de la sección prometiendo que regresarán todos con vida. | Imponente, líder indiscutido, maestro del clinch y enfocado en la misión. |
+| **Vlad** | Sección Uno (Aliado F-2) | Frena la arrogancia de Vance; acepta el reto de Borgar y lo derriba con contragolpe táctico de pomo de espada; celebra el acero de los reclutas. | Marcial, disciplinado, capitán de asedio y en perfecta sintonía con Seier. |
+| **Akame** | Sección Uno (Clase F-2) | Mastica cecina con calma imperturbable; neutraliza el salto felino de Kaelan en una milésima de segundo apoyando la saya en su cuello. | Implacable, letal, perceptiva y protectora. |
+| **Capitán Vaneck** | Instructor Militar | Oficial veterano cicatrizado; anuncia las misiones de larga duración en las fronteras y supervisa las pruebas de combate en el foso. | Duro, marcial, estricto y realista ante la muerte en combate. |
+| **Borgar Yunque-Férreo** | Sección Uno (Nuevo Cadete) | Enano cobrizo de martillo rúnico; reta a Vlad y es derribado entre risas; ofrece forjar armaduras y cubrir la vanguardia. | Alegre, tosco, leal a la sección y respetuoso de la fuerza. |
+| **Faelar Vaelen** | Sección Uno (Nuevo Cadete) | Elfo silvano arquero; observa con calma analítica; reconoce la superioridad de Seier y compromete su arco largo para la retaguardia. | Preciso, silencioso, elegante y cooperativo. |
+| **Kaelan Garra-Pardo** | Sección Uno (Nuevo Cadete) | Semihumano lince de cuchillas retráctiles; mide a Akame y queda atónito ante su velocidad; asume el rol de rastreador y explorador. | Instintivo, veloz, respetuoso y leal a la manada. |
+| **Vance von Holst** | Sección Uno (Nuevo Cadete) | Noble menor de la antigua Clase A-2; intenta fanfarronear con su linaje y es derribado en dos segundos por Seier; aprende a acatar órdenes. | Humillado, pálido, escarmentado y subordinado. |
+
+### 2. Personajes que NO APARECEN en Escena pero están en sus respectivas Aulas de Astraea
+| Personaje | Ubicación en el Campus | Estado Operativo |
+| :--- | :--- | :--- |
+| **Erza Scarlet, Lucy & Dante Vance** | Pabellón de la Sección Dos | En clase teórica y entrenamiento acorazado con disciplina estricta. |
+| **Rukia Kuchiki, Burnice White, Hoshina & Pulchra** | Pabellón de la Sección Tres | En clase rúnica con bebidas chispeantes y sigilo. |
+| **Ken, Lady Elysea de Vane & Piper Wheel** | Pabellón de la Sección Cuatro | Entrenando combate ígneo solar y esgrima gélida. |
+| **Caesar King, Subaru Natsuki & Agnes Tachyon** | Pabellón de la Sección Cinco | En clase táctica con flexiones forzadas y experimentos de fósforo. |
+| **Yami Sukehiro, Kaoruko Waguri & Lighter** | Pabellón de la Sección Seis | Disfrutando de pasteles de manzana con Yami dormitando en el fondo. |
+| **Renji Abarai, Lortelle Kecheln, Freya Skuld & Zemina** | Pabellón de la Sección Siete | En análisis logístico y finanzas de suministros expedicionarios. |

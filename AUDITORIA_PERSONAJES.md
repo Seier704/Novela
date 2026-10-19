@@ -256,3 +256,32 @@
 - **Ratas Ogro (4 bestias):** **Muertas en los Caps. 42 y 43.**
 - **Alimañas de la Tormenta & Monjes de la Plaga:** **Masacrados en los Caps. 45-47.**
 - **Esclavos Skaven:** En desbandada y dispersos.
+
+
+---
+
+## 9. Nuevos Cadetes y Compañeros de Sección (Segundo Semestre)
+
+### **Borgar Yunque-Férreo**
+- **Raza / Clase:** Enano / Sección Uno (Segundo Semestre).
+- **Físico / Rasgos:** Hombros descomunales, barba trenzada cobriza, piel curtida de forja, tosco y ruidoso pero de risa franca y lealtad inquebrantable. 16 años (camino a los 17).
+- **Armamento / Combate:** Martillo rúnico pesado de guerra y coraza enana de acero negro. Combate de choque brutal y resistencia física descomunal.
+- **Dinámica con la Sección Uno:** Desafió a Vlad en el primer día; tras ser derribado limpiamente por el caballero, reconoció el valor del grupo con orgullo y ofreció forjar y reparar las cotas de malla de la escuadra.
+
+### **Faelar Vaelen**
+- **Raza / Clase:** Elfo Silvano / Sección Uno (Segundo Semestre).
+- **Físico / Rasgos:** Cabello castaño lacio, orejas largas y puntiagudas, ojos almendrados verdes, túnica verde musgo de cazador. 16 años.
+- **Armamento / Combate:** Arco largo de tejo reforzado con magia rúnica de viento y dagas gemelas de caza. Tiro balístico de alta precisión y cobertura a distancia.
+- **Dinámica con la Sección Uno:** Inicialmente distante y fastidiado por el ruido de Borgar; impresionado por el pragmatismo de Seier y Akame, comprometió su puntería para cubrir la retaguardia de la vanguardia.
+
+### **Kaelan Garra-Pardo**
+- **Raza / Clase:** Semihumano (Felino / Lince Gris) / Sección Uno (Segundo Semestre).
+- **Físico / Rasgos:** Orejas de lince erguidas con mechones negros, cola grisácea ágil, ojos ámbar rasgados con pupilas verticales, complexión atlética y movimientos felinos silenciosos. 16 años.
+- **Armamento / Combate:** Guanteletes de cuero reforzado con cuchillas curvas retráctiles de aleación ligera. Sigilo depredador, combate a cuatro apoyos y rastreo instintivo por olfato.
+- **Dinámica con la Sección Uno:** Solitario y desconfiado. Intentó medir la velocidad de Akame y fue neutralizado en un parpadeo; reconoció la superioridad del grupo y asumió el rol de explorador y rastreador de emboscadas.
+
+### **Vance von Holst**
+- **Raza / Clase:** Humano (Noble Menor, Casa Baronal Holst) / Sección Uno (Segundo Semestre, ex-Clase A-2).
+- **Físico / Rasgos:** Cabello rubio engominado, capa carmesí con broche de oro, complexión esbelta de duelista cortesano. 16 años.
+- **Armamento / Combate:** Estoque dorado de esgrima de precisión. Estilo lineal y rápido de salón noble.
+- **Dinámica con la Sección Uno:** Inició con soberbia aristocrática; fue humillado y sometido en dos segundos por Seier mediante barrido y clinch letal de Muay Thai. Tras el pánico inicial, aprendió a respetar la jerarquía del aula por pura supervivencia.

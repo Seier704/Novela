@@ -1,7 +1,7 @@
 # RESUMEN HISTÓRICO Y REGISTRO DINÁMICO DE CAPÍTULOS
 ## *El Camino del Reencarnado: Crónicas de Sangre, Acero y Deseo*
 **Autor:** Seier Silva  
-**Última actualización:** Capítulo 64  
+**Última actualización:** Capítulo 65  
 
 ---
 
@@ -142,15 +142,14 @@ Diez años después, forjado en un condicionamiento físico y de maná telúrico
 - **Capítulo 64: Nuevos Vientos en Astraea: Aulas Mixtas y la Hermandad Eterna**: Retorno a la capital imperial y a la Gran Academia de Astraea para el inicio del segundo semestre. El Instructor Jefe Gerald proclama una reforma institucional histórica: se elimina por completo la segregación por linaje o casta (desaparecen las etiquetas A-1 y F-2) y todas las aulas pasan a ser mixtas, compartiendo pupitre nobles, plebeyos, cadetes del Páramo y forasteros. Al publicarse las listas en el cristal rúnico, las parejas quedan completamente separadas en una asignación deliberadamente aleatoria: **Seier Silva queda asignado a la Sección Uno junto a Vlad y Akame**; **Erza Scarlet, Lucy y Dante Vance en la Sección Dos**; **Yami Sukehiro, Kaoruko Waguri y Lighter en la Sección Seis**; **Ken, Lady Elysea de Vane y Piper Wheel en la Sección Cuatro**; **Caesar King, Subaru Natsuki y Agnes Tachyon en la Sección Cinco**; **Rukia Kuchiki, Burnice White, Hoshina y Pulchra en la Sección Tres**; y **Renji Abarai, Lortelle Kecheln, Freya Skuld y Zemina en la Sección Siete**. Entre cómicos berrinches de Lucy y advertencias marciales de Erza, bromas de Caesar adoptando a Natsuki como compañero de flexiones ante el pánico por los frascos explosivos de Agnes Tachyon, y el análisis mercantil de Lortelle, Seier reúne a la manada en el patio para sellar el juramento: la F-2 no son cuatro paredes sino una hermandad eterna que dominará toda Astraea en su camino a los 17 años.
 
 ---
-## 4. Estado Actual de la Trama y del Mundo (Post-Capítulo 64)
-- **Escenario:** Gran Academia Imperial de Astraea, Gran Plaza de Armas y patios centrales en Solaria.
-- **Estatus Político y Militar:** Inicio oficial del Segundo Semestre Académico. Abolida la segregación noble/plebeyo y las aulas de casta; implementado el sistema de aulas mixtas heterogéneas.
-- **Poder y Distribución Operativa por Secciones:**
-  - **Sección Uno:** Seier Silva, Vlad, Akame (la vanguardia táctica, marcial y letal más pesada de la academia).
-  - **Sección Dos:** Erza Scarlet, Lucy, Dante Vance (disciplina acorazada, artillería y exploración).
-  - **Sección Tres:** Rukia Kuchiki, Burnice White, Hoshina, Pulchra (hielo glacial, nafta chispeante, francotiradora y sigilo felino).
-  - **Sección Cuatro:** Ken, Lady Elysea de Vane (cabello plateado, ojos zafiro), Piper Wheel (fuego solar, esgrima gélida noble y mecánica pesada).
-  - **Sección Cinco:** Caesar King, Subaru Natsuki, Agnes Tachyon (fuerza de choque con escudo, aura plateada y alquimia química volátil).
-  - **Sección Seis:** Yami Sukehiro, Kaoruko Waguri (cabello azabache, dulzura), Lighter (oscuridad pesada, calidez protectora y boxeo de combustión).
-  - **Sección Siete:** Renji Abarai, Lortelle Kecheln (cabello castaño claro dorado, ojos verdes felinos), Freya Skuld, Zemina.
-- **Periodo Activo:** Mañana del primer día del **Segundo Semestre Académico**. Cadetes alcanzando los 17 años de edad.
+- **Capítulo 65: Sangre Nueva en la Sección Uno: Acero, Garras y Rumbo al Horizonte**: Primer día lectivo dentro del pabellón de combate de la Sección Uno, donde coinciden Seier Silva, Vlad y Akame junto a una mezcla variopinta de cadetes de distintas razas: Borgar Yunque-Férreo (enano herrero testarudo con martillo de guerra), Faelar Vaelen (elfo silvano arquero), Kaelan Garra-Pardo (semihumano felino ágil y desconfiado) y Vance von Holst (noble menor arrogante de la antigua A-2). El Capitán Vaneck, instructor táctico cicatrizado, anuncia la directriz del semestre: cada sección mixta será enviada a **misiones de larga duración** en las fronteras exteriores del imperio (escoltas, patrullas y purga de nidos en zonas grises), advirtiendo que lo catalogado como rutina puede tornarse letal en cualquier momento. En la prueba de combate del foso de arena, Vance intenta desafiar a Seier y es neutralizado en dos segundos con un barrido y clinch de Muay Thai; Borgar reta a Vlad y es derribado por un contragolpe táctico de espada bastarda ganándose el respeto del enano; y Kaelan es contenido al vuelo por la saya de Akame antes de tocar el suelo. Asombrados por el poder de la vanguardia, los nuevos reclutas cierran filas bajo el liderazgo de Seier, forjando el pacto de la Sección Uno para sobrevivir y triunfar en su primera gran expedición exterior.
+
+---
+## 4. Estado Actual de la Trama y del Mundo (Post-Capítulo 65)
+- **Escenario:** Pabellón de combate y foso de arena de la Sección Uno, Gran Academia de Astraea en Solaria.
+- **Estatus Político y Militar:** Inicio de los entrenamientos del Segundo Semestre. Anunciadas formalmente las **Misiones de Larga Duración en Territorio Exterior** para evaluar la supervivencia real de las secciones mixtas.
+- **Poder y Cohesión de la Sección Uno:**
+  - **Liderazgo Consolidado:** Seier Silva (Caballero Defensor, León de Oro), Vlad (mando táctico) y Akame (asesina letal) establecen su dominio absoluto y respeto unánime en el aula tras la prueba del foso.
+  - **Nuevos Integrantes Reclutados:** Borgar Yunque-Férreo (enano de martillo y forja), Faelar Vaelen (elfo arquero), Kaelan Garra-Pardo (semihumano explorador) y Vance von Holst (noble menor esgrimista sometido).
+  - **Otras Secciones:** Sección Dos (Erza, Lucy, Dante); Sección Tres (Rukia, Burnice, Hoshina, Pulchra); Sección Cuatro (Ken, Elysea, Piper); Sección Cinco (Caesar, Natsuki, Agnes Tachyon); Sección Seis (Yami, Kaoruko, Lighter); Sección Siete (Renji, Lortelle, Freya, Zemina).
+- **Periodo Activo:** Tarde del primer día de clases del **Segundo Semestre Académico**. Preparativos para el despliegue expedicionario en dos semanas.
