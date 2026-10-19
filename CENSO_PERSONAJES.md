@@ -554,3 +554,59 @@
 | **Erza Scarlet** | Salón de lectura / táctico | Disfrutando de una infusión caliente tras el banquete. |
 | **Akame & Pulchra** | Alacenas / cocina de la villa | Terminando de ordenar los postres y aperitivos nocturnos. |
 | **Hoshina** | Porche este de la villa | Descansando tranquilamente junto a Lighter. |
+
+
+# Censo de Personajes: Capítulo 62
+**Capítulo:** *Furia, Sombras y Deseo: La Noche de Yami y Caesar*  
+**Ubicación Principal:** Porche exterior, pasillo y habitación de Yami en la villa balnearia de Costa Esmeralda.  
+**Contexto Operativo:** Medianoche y madrugada posterior a las bromas a Natsuki y Lucy. Duelo de resistencia con licor de fuego del páramo entre Caesar King y Yami Sukehiro, confidencia íntima de líderes y protectores, encendido de pasión visceral, entrega desinhibida en la habitación de Yami y despertar atónito pero cómplice a la mañana siguiente.
+
+### 1. Personajes que APARECEN en Escena (Foco Principal: Porche y Habitación de Yami)
+
+| Personaje | Facción / Clase | Rol / Acción en el Capítulo | Estado al Cierre |
+| :--- | :--- | :--- | :--- |
+| **Caesar King** | Clase F-2 (Líder Calydon) | Bebe aguardiente con Yami en el porche; confiesa la carga de tener que ser siempre la más fuerte; reta a Yami; responde a su beso con fiereza y se entrega con pasión arrolladora en su cama; despierta desnuda a su lado asimilando la unión con madurez. | Apasionada, complacida, asombrada y unida a Yami. |
+| **Yami Sukehiro** | Clase F-2 | Desafía la resistencia de Caesar bebiendo licor; elogia su fortaleza sin titubeos; toma la iniciativa con un beso dominante y apasionado; comparte una noche salvaje con ella; despierta con resaca y marcas en la espalda, reconociendo el valor único de Caesar. | Satisfecho, sorprendido, cómplice y profundamente atraído. |
+
+### 2. Personajes que NO APARECEN en Escena pero están en la Villa / Evento
+| Personaje | Ubicación en el Evento | Acción en Segundo Plano |
+| :--- | :--- | :--- |
+| **Seier Silva, Kaoruko, Lortelle & Elysea** | Habitaciones principales de la villa | Durmiendo profundamente tras la sobremesa nocturna. |
+| **Subaru Natsuki & Lucy** | Pabellón este de la villa | Descansando felices y en paz tras su regreso del muelle. |
+| **Piper Wheel & Lighter** | Ala de Calydon en la villa | Durmiendo plácidamente tras la cena. |
+| **Ken & Burnice White** | Pabellón oeste de la villa | Descansando tras la velada en el salón. |
+| **Renji Abarai & Rukia Kuchiki** | Habitaciones de la villa | Durmiendo plácidamente tras el día de playa. |
+| **Vlad & Zemina** | Pabellón balneario | Descansando en su habitación. |
+| **Akame, Pulchra & Hoshina** | Habitaciones de descanso | Durmiendo plácidamente arrulladas por las olas. |
+
+---
+
+# Censo de Personajes: Capítulo 63
+**Capítulo:** *Mareas de Calma y Despertares: Lazos al Sol y el Umbral de los Diecisiete*  
+**Ubicación Principal:** Terraza de la villa, caleta secreta de aguas turquesas, playa y fogata comunitaria nocturna en Costa Esmeralda.  
+**Contexto Operativo:** Quinto día de vacaciones. Despertar maduro de Caesar y Yami con bromas cómicas de Piper y Lighter; día de descanso, sensualidad y amor pleno de Seier con su trinidad (Kaoruko, Lortelle, Elysea) en la caleta privada; paseo tierno y beso correspondido de Natsuki y Lucy sin barreras defensivas; y gran fogata nocturna de toda la F-2 con brindis solemne de Seier marcando el futuro umbral de los 17 años para el segundo semestre.
+
+### 1. Personajes que APARECEN en Escena (Foco Principal: Múltiples Escenarios)
+
+| Personaje | Facción / Clase | Rol / Acción en el Capítulo | Estado al Cierre |
+| :--- | :--- | :--- | :--- |
+| **Seier Silva** | Clase F-2 (Líder) | Comparte un día paradisíaco y sensual con Lortelle, Kaoruko y Elysea en la caleta secreta; lidera la gran fogata comunitaria al anochecer con un discurso motivador sobre la hermandad y el umbral de los 17 años en el próximo semestre. | Pleno, amado, líder respetado y en la cumbre de su vigor. |
+| **Lortelle Kecheln** | Clase C / Compañía Elte | Disfruta del sol en traje de baño esmeralda descansando en el regazo de Seier; expresa su dicha al sentirse libre de ambiciones monetarias y protegida por su amor. | En paz, sensual, enamorada y radiante. |
+| **Kaoruko Waguri** | Clase F-2 | Alimenta a Seier con fruta fresca en la caleta; confiesa con timidez y devoción que su felicidad es brindarle paz a su corazón; comparte besos tiernos. | Dulce, amada, devota y serena. |
+| **Lady Elysea de Vane** | Clase C | Emerge de las olas cristalinas y besa a Seier con orgullo aristocrático liberado; celebra haber roto con los mandatos de la corte para amar plenamente a Seier junto a Kaoruko y Lortelle. | Noble, libre, apasionada y complacida. |
+| **Caesar King** | Clase F-2 (Líder Calydon) | Despierta junto a Yami con naturalidad y orgullo; bromea con picardía y le da un beso ardiente; en el desayuno espanta a Lighter y Piper con risas; en la fogata comparte licor y hombro con Yami. | Radiante, dominante, satisfecha y unida a Yami. |
+| **Yami Sukehiro** | Clase F-2 | Bromea con Caesar tras la noche salvaje; fuma su puro con calma imperturbable en el porche; comparte la fogata nocturna con Caesar en mutua lealtad y fuego silencioso. | Satisfecho, protector, relajado y cómplice. |
+| **Subaru Natsuki** | Clase F-2 | Pasea descalzo por la orilla con Lucy; toma su mano con firmeza y ternura; le da seguridad afectiva y comparten un beso sincero y dulce frente a las olas. | Seguro, tierno, enamorado y feliz. |
+| **Lucy** | Clase F-2 (Hijos de Calydon) | Deja atrás toda agresividad; entrelaza sus dedos con Natsuki por iniciativa propia; confiesa su gratitud y sus sentimientos, besándolo con devoción pura. | Dulce, conmovida, enamorada y sin corazas. |
+| **Piper Wheel** | Clase F-2 (Hijos de Calydon) | Pregunta inocentemente por las marcas en el cuello de Caesar y hombros de Yami; aplaude y celebra en la fogata comunitaria. | Divertida, inocente y alegre. |
+| **Lighter** | Clase F-2 (Hijos de Calydon) | Se atraganta cómicamente con el café al deducir lo de Caesar y Yami; asiste a Hoshina en el lanzamiento de conchas; festeja el brindis de Seier. | Aliviado, deportivo y fraternal. |
+| **Ken** | Clase F-2 | Tuesta malvaviscos con Burnice entre risas; ovaciona el discurso de Seier en la fogata. | Alegre, vigoroso y compañero fiel. |
+| **Burnice White** | Clase F-2 (Hijos de Calydon) | Juega con fuego de colores y malvaviscos junto a Ken; festeja con gran energía. | Chispeante, festiva y feliz. |
+| **Renji Abarai** | Clase F-2 | Toca el laúd rústico y abriga a Rukia con una manta en la duna; alza su jarra en el brindis. | Tranquilo, enamorado y protector. |
+| **Rukia Kuchiki** | Clase F-2 | Descansa junto a Renji bajo la manta disfrutando del calor de las brasas; sonríe con serenidad. | Serena, dulce y colmada de paz. |
+| **Vlad & Zemina** | Aprendiz Caballero / Aliada | Bailan lentamente junto a las brasas de la fogata, consagrados en su amor. | Enamorados, devotos y elegantes. |
+| **Akame & Pulchra** | Alianza F-2 / Calydon | Comen brochetas asadas de pescado con deleite y destreza salvaje. | Saciadas, relajadas y letales. |
+| **Hoshina** | Clase F-2 | Practica lanzamientos de conchas marinas con precisión milimétrica guiada por Lighter. | Concentrada, alegre y descansada. |
+
+### 2. Personajes que NO APARECEN en Escena pero están en la Villa / Evento
+*(Todos los miembros activos del campamento asisten y se reúnen en la gran fogata comunitaria al atardecer).*
