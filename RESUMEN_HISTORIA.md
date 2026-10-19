@@ -1,7 +1,7 @@
 # RESUMEN HISTÓRICO Y REGISTRO DINÁMICO DE CAPÍTULOS
 ## *El Camino del Reencarnado: Crónicas de Sangre, Acero y Deseo*
 **Autor:** Seier Silva  
-**Última actualización:** Capítulo 66  
+**Última actualización:** Capítulo 67  
 
 ---
 
@@ -148,11 +148,15 @@ Diez años después, forjado en un condicionamiento físico y de maná telúrico
 - **Capítulo 66: Caminos Grises y Sombras de Morvath: El Feudo del Olvido**: La Sección Uno emprende una dura travesía de diez jornadas hacia el extremo oriental de Solaria, adentrándose en el decadente y sombrío Condado de Morvath. El trayecto revela un ambiente oscuro y miserable (+18): caminos derruidos, puentes fracturados, un olor pestilente a fango y sangre rancia rastreado por Kaelan, y tres campesinos ahorcados con letreros de "Morosidad" en un sauce. Al llegar a la ciudad fortificada de Morvath, flanqueada por las miserables aldeas satélites de Sauceda y Pedregal Alto, Vlad frena en seco a los mercenarios de la puerta que intentaban extorsionar al convoy con peajes ilegales. En el castillo condal, Seier, Vlad y Akame son recibidos por el Conde Raymond (ebrio, decadente y negligente) y su primogénito Valerius (arrogante y clasista, a quien Seier pone en su lugar recordándole el destino del Señor de la Guerra Skaven). La tensión se quiebra con la intervención del segundo hijo, Julian de Morvath —el único con sentido común y honor, acompañado por su pequeño hermano Leo (8 años)—, quien les advierte con crudeza que han caído en una trampa de abandono: cosechas envenenadas, guardias desaparecidos y una oscura secta operando en las minas, dando inicio a una oscura y peligrosa trama de corrupción feudal.
 
 ---
-## 4. Estado Actual de la Trama y del Mundo (Post-Capítulo 66)
-- **Escenario:** Castillo del Condado de Morvath, ciudad amurallada decadente y pueblos periféricos (Sauceda y Pedregal Alto), extremo oriental de Solaria.
-- **Estatus Político y Militar:** Despliegue de la Primera Misión de Larga Duración de la Sección Uno. Descubrimiento de corrupción feudal extrema, ejecuciones públicas por deudas, hambre campesina y abandono institucional bajo el mando del Conde Raymond.
-- **Situación en Morvath:**
-  - **Fuerzas Imperiales / Sección Uno:** Seier Silva, Vlad, Akame, Borgar, Faelar, Kaelan y Vance von Holst alojados en el feudo.
-  - **Casa Condal Morvath:** Conde Raymond (negligente y ciego a la crisis), Valerius (primogénito hostil y soberbio), Julian (segundo hijo aliado y sensato) y Leo (hijo menor vulnerable).
-  - **Amenaza Latente:** Rumores de cosechas envenenadas, guardias asesinados en luna llena y actividades de una secta oscura en las minas abandonadas de Pedregal Alto.
-- **Periodo Activo:** Anochecer de la primera jornada de llegada al **Condado de Morvath**.
+- **Capítulo 67: Monedas Negras y Secretos de Medianoche: El Pacto con Julian**: Tras una audiencia oficial insultantemente breve donde el Conde Raymond despacha a los cadetes ordenándoles colgar a campesinos rebeldes en Sauceda y alojarse en las caballerizas, la Sección Uno recibe una visita clandestina a medianoche en el viejo cuartel de la guardia. Julian de Morvath, tras poner a salvo a su hermano menor Leo, confiesa la cruda verdad a Seier, Vlad y Akame: su padre y Valerius no solo exprimen y acaparan el oro de la región mientras la gente muere de hambre, sino que sospecha que se han vendido a los demonios debido a la desaparición sistemática de mujeres jóvenes y niños trasladados en carromatos negros a las minas de Pedregal Alto bajo un denso miasma pútrido. Dispuesto a ser tildado de traidor antes que cómplice de la masacre, Julian entrega a Seier su anillo de sello heráldico de plata para comandar a la verdadera milicia cívica de Sauceda (treinta veteranos leales que buscan salvar a sus familias de los mercenarios corruptos) y decide acompañarlos de incógnito. Akame, Borgar, Faelar, Kaelan y un decidido Vance cierran filas junto a Seier y Vlad, pactando marchar hacia Sauceda dos horas antes del amanecer para desarticular la red oscura del feudo.
+
+---
+## 4. Estado Actual de la Trama y del Mundo (Post-Capítulo 67)
+- **Escenario:** Viejo cuartel de la guardia en los patios bajos del Castillo de Morvath; preparativos para marchar a Sauceda.
+- **Estatus Político y Militar:** Ruptura encubierta del mandato condal. La Sección Uno asume una operación encubierta de rescate y purga contra la corrupción y la presunta secta demoníaca de Morvath.
+- **Fuerzas y Recursos:**
+  - **Sección Uno (Vanguardia Imperial):** Seier Silva, Vlad, Akame, Borgar, Faelar, Kaelan, Vance von Holst.
+  - **Aliado Clave:** Julian de Morvath (armado con capa de incógnito y conocimiento del terreno).
+  - **Autoridad:** Anillo de Sello de Plata de la Casa Morvath (autoriza el mando sobre los 30 soldados veteranos de la milicia cívica en Sauceda).
+  - **Enemigos:** Conde Raymond, Valerius, mercenarios tuertos y la fuerza demoníaca oculta en las minas de Pedregal Alto.
+- **Periodo Activo:** Madrugada (dos horas antes del alba), rumbo al pueblo de **Sauceda**.

@@ -709,3 +709,32 @@
 | **Caesar King, Subaru Natsuki & Agnes Tachyon** | Misión de la Sección Cinco en las fronteras mineras. |
 | **Yami Sukehiro, Kaoruko Waguri & Lighter** | Misión de la Sección Seis en el páramo central. |
 | **Renji Abarai, Lortelle Kecheln, Freya Skuld & Zemina** | Misión de la Sección Siete en las rutas comerciales. |
+
+
+# Censo de Personajes: Capítulo 67
+**Capítulo:** *Monedas Negras y Secretos de Medianoche: El Pacto con Julian*  
+**Ubicación Principal:** Gran salón condal y viejo cuartel de la guardia en los patios inferiores del Castillo de Morvath.  
+**Contexto Operativo:** Audiencia escueta y despectiva con el Conde Raymond y Valerius; reunión clandestina a medianoche con Julian de Morvath; revelación de extorsión, acaparamiento de oro, desapariciones de mujeres y niños y sospechas de pacto demoníaco; entrega del sello de plata de la Casa Morvath; integración de Julian de incógnito y orden de marcha hacia Sauceda antes del amanecer.
+
+### 1. Personajes que APARECEN en Escena (Foco Principal: Cuartel de la Guardia)
+
+| Personaje | Facción / Rol | Rol / Acción en el Capítulo | Estado al Cierre |
+| :--- | :--- | :--- | :--- |
+| **Seier Silva** | Sección Uno (Líder F-2) | Escucha la farsa del conde; recibe a Julian en las caballerizas; acepta el sello de plata y asume el mando de la operación de purga hacia Sauceda. | Implacable, líder táctico, protector y resuelto a salvar a los inocentes. |
+| **Vlad** | Sección Uno (Aliado F-2) | Mantiene la disciplina frente a las burlas de Valerius; interroga a Julian con criterio militar y aprueba el uso de la milicia cívica. | Marcial, estricto, capitán respetado y en perfecta coordinación con Seier. |
+| **Akame** | Sección Uno (Clase F-2) | Analiza en silencio el relato de Julian; afirma con calma letal que si hay demonios serán eliminados sin vacilación. | Firme, letal, perceptiva y con la mano en *Murasame*. |
+| **Julian de Morvath** | Casa Morvath (Aliado) | Se escabulle de noche tras ocultar a su hermano Leo; revela la podredumbre de su padre, las desapariciones para rituales y entrega su sello de plata; marcha de incógnito. | Valiente, honorable, exhausto pero aliviado de contar con Seier. |
+| **Conde Raymond de Morvath** | Señor de Morvath | Despacha la audiencia en cinco minutos mientras come carne grasienta y bebe vino, ordenando colgar rebeldes en Sauceda. | Indolente, decadente, corrupto y ajeno a la verdad. |
+| **Valerius de Morvath** | Primogénito Morvath | Envía a los cadetes a las caballerizas con mofas clasistas antes de retirarse a las tabernas altas. | Soberbio, vicioso y hostil. |
+| **Borgar Yunque-Férreo** | Sección Uno (Enano) | Afila su martillo en el cuartel; estalla de furia al saber que secuestran niños y jura romper cráneos demoníacos. | Feroz, indignado, leal y con sed de justicia. |
+| **Faelar Vaelen** | Sección Uno (Elfo Silvano) | Empluma flechas rúnicas; ofrece su puntería para cubrir la incursión nocturna en Sauceda. | Analítico, silencioso y letal a distancia. |
+| **Kaelan Garra-Pardo** | Sección Uno (Semihumano) | Detecta la llegada de Julian por el oído; asegura rastrear la sangre y el miasma en las minas. | Depredador alerta, ágil y listo para cazar. |
+| **Vance von Holst** | Sección Uno (Noble Menor) | Supera su pavor inicial y desenvaina su estoque dorado indignado por la mancilla al honor noble, jurando castigar a los culpables. | Madurando a golpes de realidad, decidido y leal al grupo. |
+
+### 2. Personajes Mencionados pero Fuera de Escena
+| Personaje | Ubicación / Estado |
+| :--- | :--- |
+| **Leo de Morvath** | Oculto y protegido por Julian en la recámara de su antigua nodriza en el castillo. |
+| **Mercenarios de Valerius** | Durmiendo o emborrachándose en las tabernas de la ciudad alta. |
+| **Milicia Cívica de Sauceda** | Treinta veteranos aguardando en el cuartel bajo de Sauceda. |
+| **Demás Secciones de la F-2** | Desplegadas en sus respectivas misiones de larga duración en otras provincias de Solaria. |

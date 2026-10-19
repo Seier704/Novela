@@ -304,7 +304,7 @@
 ### **Julian de Morvath**
 - **Rol:** Segundo Hijo de la Casa Morvath.
 - **Físico / Rasgos:** Joven de 16-17 años, cota de cuero reforzada, botas de jinete embarradas, cabello castaño despeinado y ojeras profundas de insomnio y vigilia.
-- **Personalidad / Dinámica:** El único miembro sensato, honorable y despierto de la familia condal. Conoce la verdad de la podredumbre, los tributos sangrientos, las cosechas envenenadas y las desapariciones en los pueblos de Sauceda y Pedregal Alto. Ve en Seier y en la Sección Uno su única esperanza de salvación.
+- **Personalidad / Dinámica:** El único miembro sensato, honorable y despierto de la familia condal. Reveló a Seier la sospecha de un pacto demoníaco y la desaparición sistemática de mujeres y niños para rituales en las minas. Entregó su anillo de sello de plata para autorizar el mando sobre los treinta milicianos veteranos de Sauceda y se unió a la escuadra de incógnito arriesgando su vida.
 
 ### **Leo de Morvath**
 - **Rol:** Tercer Hijo (Menor) de la Casa Morvath.
