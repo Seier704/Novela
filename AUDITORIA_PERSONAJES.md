@@ -314,6 +314,19 @@
 
 ---
 
+
+### **Sargento Roderick**
+- **Rol / Facción:** Comandante de la Milicia Cívica de Sauceda (Condado de Morvath).
+- **Físico / Rasgos:** Veterano de barba canosa, coraza de cuero remendada, cuenca ocular vacía con cicatriz y mirada de lealtad férrea.
+- **Dinámica con la F-2:** Reconoció el sello de plata de Julian; organizó junto a Vlad la evacuación de civiles al granero y lideró a los 30 milicianos en la emboscada contra los cultistas de Khorne.
+
+### **Capitán Malrik**
+- **Rol / Facción:** Comandante de los Mercenarios de Valerius de Morvath (Traidor a la Corona).
+- **Físico / Equipo:** Tuerto, boca desdentada, jubón tachonado con cota de malla y espada ancha.
+- **Estado:** Derrotado, desarmado y quebrado por Seier en la plaza de Sauceda; transportaba el cofre de hierro con el decreto sellado de cera negra de Raymond y Valerius entregando campesinos a Khorne.
+
+---
+
 ## 11. Fuerzas Enemigas y Amenazas Oscuras (Segundo Semestre)
 
 ### **Culto del Caos a Khorne (El Dios de la Sangre)**

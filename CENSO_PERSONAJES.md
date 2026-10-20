@@ -767,3 +767,32 @@
 | **Leo de Morvath** | Oculto en el castillo bajo el cuidado de la nodriza. |
 | **Campesinos de Sauceda** | Inconscientes de la incursión que se cierne sobre sus chozas. |
 | **Demás Secciones de la F-2** | En sus misiones en otras provincias imperiales. |
+
+
+# Censo de Personajes: Capítulo 69
+**Capítulo:** *Emboscada en Sauceda: Sangre, Fuego y el Juicio del Acero*  
+**Ubicación Principal:** Calles de barro, molino harinero y plaza central del pueblo de Sauceda.  
+**Contexto Operativo:** Evacuación de civiles en el granero de piedra; despliegue de posiciones de emboscada de la Sección Uno junto a la milicia cívica; combate sangriento contra treinta cultistas de Khorne y veinte mercenarios; aniquilación de los invasores y captura del Capitán Malrik; incautación de las órdenes de entrega selladas con cera negra por el Conde Raymond y Valerius.
+
+### 1. Personajes que APARECEN en Escena (Foco Principal: Batalla de Sauceda)
+
+| Personaje | Facción / Rol | Rol / Acción en el Capítulo | Estado al Cierre |
+| :--- | :--- | :--- | :--- |
+| **Seier Silva** | Sección Uno (Líder F-2) | Dirige la emboscada; pulveriza a tres berserkers de Khorne con Muay Thai y Fa Jin; arranca a Malrik de su montura y asegura el pergamino del conde. | Invencible, implacable, ileso y con la prueba de traición en mano. |
+| **Vlad** | Sección Uno (Aliado F-2) | Coordina la evacuación con Roderick; lidera el choque frontal con su espada bastarda decapitando mercenarios; resguarda el decreto sellado en un tubo de latón. | Táctico supremo, marcial y listo para marchar al castillo. |
+| **Akame** | Sección Uno (Clase F-2) | Siega en silencio las vidas de los cultistas como un relámpago negro con *Murasame* sin manchar su uniforme. | Letal, serena y con su katana enfundada tras la masacre. |
+| **Julian de Morvath** | Casa Morvath (Aliado) | Presenta su anillo a Roderick levantando a la milicia cívica; recupera el decreto con la firma de su padre y hermano sellando su juicio. | Conmovido, valiente y decidido a purgar el trono condal. |
+| **Sargento Roderick** | Milicia de Sauceda | Veterano tuerto; jura lealtad a Julian; combate en el callejón trabando lanzas junto a Vlad y protegiendo a su pueblo. | Triunfante, leal y con moral militar restaurada. |
+| **Borgar Yunque-Férreo** | Sección Uno (Enano) | Carga tras la barricada de heno reventando cráneos y corazas enemigas con su martillo rúnico. | Eufórico, cubierto de lodo y sediento de más combate. |
+| **Faelar Vaelen** | Sección Uno (Elfo Silvano) | Francotirador en el campanario del molino; clava al heraldo de Khorne con flecha rúnica de viento y desarticula tiradores. | Preciso, letal e imperturbable. |
+| **Kaelan Garra-Pardo** | Sección Uno (Semihumano) | Embosca desde los aleros desgarrando jinetes con cuchillas retráctiles y sembrando el pánico en la retaguardia mercenaria. | Rápido, sanguinario y victorioso. |
+| **Vance von Holst** | Sección Uno (Noble Menor) | Para con maestría y atraviesa la garganta de un lancero con su estoque dorado; defiende a los campesinos con honor noble. | Maduro, respetado por la milicia y orgulloso. |
+| **Capitán Malrik** | Mercenarios de Valerius | Lidera la incursión con jaulas de hierro; intenta huir con el cofre de oro y es derribado y quebrado por Seier. | Derrotado, apresado y con la muñeca rota. |
+
+### 2. Personajes Mencionados pero Fuera de Escena
+| Personaje | Ubicación / Estado |
+| :--- | :--- |
+| **Conde Raymond & Valerius** | Confiados en el castillo de Morvath, ignorando que su fuerza de asalto fue aniquilada y sus cartas capturadas. |
+| **Leo de Morvath** | Oculto en el castillo bajo la protección de la nodriza. |
+| **Civiles de Sauceda** | Salvos en el sótano del granero comunal, celebrando en lágrimas la salvación de sus hijos. |
+| **Demás Secciones de la F-2** | En sus misiones en el resto del imperio. |

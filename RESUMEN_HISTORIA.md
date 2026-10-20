@@ -1,7 +1,7 @@
 # RESUMEN HISTÓRICO Y REGISTRO DINÁMICO DE CAPÍTULOS
 ## *El Camino del Reencarnado: Crónicas de Sangre, Acero y Deseo*
 **Autor:** Seier Silva  
-**Última actualización:** Capítulo 68  
+**Última actualización:** Capítulo 69  
 
 ---
 
@@ -154,11 +154,15 @@ Diez años después, forjado en un condicionamiento físico y de maná telúrico
 - **Capítulo 68: El Rastro del Cráneo y la Sangre: La Sombra de Khorne**: Avanzando antes del alba por desfiladeros escarpados hacia las minas de Pedregal Alto, la Sección Uno y Julian descubren el campamento de un brutal **Culto al Caos dedicado a Khorne (el Dios de la Sangre)**, rodeado de estacas con cráneos humanos y braseros rúnicos de ocho puntas. En una tensa labor de sigilo e infiltración, observan la llegada de dos carromatos mercenarios de Valerius entregando un cofre de oro y confirmando el pacto demoníaco: esa misma noche, los cultistas y los mercenarios asaltarán el pueblo de **Sauceda** para capturar a sesenta mujeres y niños como ofrendas vivas para encender el portal de la mina. Aunque Borgar y Vance arden en deseos de atacar de inmediato, Seier y Vlad imponen disciplina táctica: atacar en la mina permitiría al conde destruir pruebas y acusar a los cadetes de insubordinación. Con el respaldo de Julian, deciden adelantarse por los atajos del bosque hacia Sauceda, movilizar a la milicia cívica y emboscar a los cultistas en flagrancia para asegurar las cartas firmadas del conde y llevar la prueba definitiva ante el Rey de Solaria para su ejecución legal.
 
 ---
-## 4. Estado Actual de la Trama y del Mundo (Post-Capítulo 68)
-- **Escenario:** Gargantas de Pedregal Alto y rutas boscosas hacia el pueblo de Sauceda, Condado de Morvath.
-- **Estatus Político y Militar:** Confirmado el pacto de alta traición: la Casa Condal de Morvath (Conde Raymond y Valerius) está aliada con el Culto del Caos a Khorne.
-- **Táctica en Marcha:**
-  - **Objetivo Inmediato:** Llegar a Sauceda antes del anochecer, armar a la milicia cívica con el sello de Julian y tender una emboscada defensiva en el pueblo.
-  - **Prueba Clave:** Recuperar el documento sellado con cera negra en posesión del capitán mercenario de Valerius para fundamentar la condena de muerte y despojo nobiliario ante la Corona.
-  - **Fuerzas Enemigas Desplegadas:** Cultistas berserker de Khorne armados con hachas pesadas y mercenarios de Valerius en marcha hacia Sauceda.
-- **Periodo Activo:** Mañana del segundo día de misión; carrera contra el tiempo hacia **Sauceda**.
+- **Capítulo 69: Emboscada en Sauceda: Sangre, Fuego y el Juicio del Acero**: La Sección Uno y Julian llegan al atardecer al pueblo de Sauceda. Al presentar el anillo de sello de plata con el halcón bicéfalo, el Sargento Roderick y los treinta veteranos de la milicia cívica se rinden en llanto de alivio y se subordinan a Seier y Vlad. Los civiles son resguardados en el sótano fortificado del granero comunal mientras la escuadra prepara una emboscada letal en la niebla nocturna. Al llegar treinta berserkers de Khorne y veinte mercenarios liderados por el Capitán Malrik con jaulas de hierro para capturar a sesenta mujeres y niños, se desata un combate sangriento y visceral (+18): Faelar abate a distancia con flechas rúnicas de viento, Vlad y Borgar lideran el choque con espada y martillo destrozando corazas, Kaelan degüella jinetes desde los tejados, y Akame siega vidas como un espectro negro con *Murasame*. En el centro de la plaza, Seier pulveriza a tres berserkers colosales con codazos de Muay Thai, rodillazos en clinch reforzados con Fa Jin y patadas telúricas bajas, mientras Vance abate con maestría a un lancero mercenario. Malrik intenta huir a caballo con el cofre de hierro pero Seier lo desmonta en el aire y le quiebra la muñeca; Julian recupera de entre los despojos el decreto firmado y sellado con cera negra por el Conde Raymond y Valerius autorizando la entrega de sus súbditos al Culto del Caos. Con Sauceda libre y la prueba irrefutable asegurada en un tubo de latón militar, el escuadrón se alista para marchar al amanecer y purgar el castillo de Morvath.
+
+---
+## 4. Estado Actual de la Trama y del Mundo (Post-Capítulo 69)
+- **Escenario:** Plaza central y cuartel bajo de Sauceda, Condado de Morvath.
+- **Estatus Político y Militar:** Victoria militar total en la defensa de Sauceda. Aniquilada la partida de incursión del Culto de Khorne y apresados los mercenarios de Valerius.
+- **Prueba Irrefutable Asegurada:** Recuperado y custodiado el pliego original firmado de puño y letra por el Conde Raymond y Valerius, sellado con cera negra, ordenando la entrega de 60 campesinos para sacrificios demoníacos en las minas.
+- **Fuerzas Disponibles:**
+  - **Sección Uno (Vanguardia de Élite):** Seier Silva, Vlad, Akame, Borgar, Faelar, Kaelan, Vance von Holst (invictos y en máxima moral).
+  - **Aliados Locales:** Julian de Morvath (segundo heredero al frente de la casa), Sargento Roderick y 30 milicianos veteranos de Sauceda armados y leales.
+- **Objetivo Próximo:** Asalto y toma del Castillo de Morvath al amanecer para arrestar al Conde Raymond y a Valerius antes de que intenten escapar o destruir las arcas de oro.
+- **Periodo Activo:** Madrugada posterior a la batalla de Sauceda, víspera del asalto final al castillo.
