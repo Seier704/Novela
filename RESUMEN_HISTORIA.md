@@ -1,7 +1,7 @@
 # RESUMEN HISTÓRICO Y REGISTRO DINÁMICO DE CAPÍTULOS
 ## *El Camino del Reencarnado: Crónicas de Sangre, Acero y Deseo*
 **Autor:** Seier Silva  
-**Última actualización:** Capítulo 70  
+**Última actualización:** Capítulo 71  
 
 ---
 
@@ -160,10 +160,15 @@ Diez años después, forjado en un condicionamiento físico y de maná telúrico
 - **Capítulo 70: Ecos de Herejía y el Vuelo del Espíritu: La Guerra Silenciosa de Morvath**: Tras la victoria en Sauceda, el cabecilla cultista capturado es interrogado por Vlad y Seier; antes de confesar, sus venas ennegrecen y detona en una violenta explosión de miasma y fuego negro (+18), alcanzando a vociferar que Sauceda era solo un señuelo y que cientos de hermanos de Khorne aguardan en las sombras de Morvath. Conscientes de que enfrentan una prolongada guerra de estrategia, supervivencia y resiliencia, Seier y Vlad redactan un informe militar urgente avalado por el sello de Julian y la orden de cera negra capturada, enviándolo a la capital mediante un **Espíritu de Ave Mensajera** invocado por Faelar para solicitar el despliegue de **100 caballeros nobles reales**. Con la certeza de que los refuerzos tardarán días en llegar y que la pasividad causaría la masacre del pueblo y la muerte del pequeño Leo, Seier asume el mando total: deciden no esperar y purgar Morvath "desde adentro hacia afuera", tomando la guarnición baja, asegurando las puertas y barriendo los accesos a las minas de Khorne.
 
 ---
-## 4. Estado Actual de la Trama y del Mundo (Post-Capítulo 70)
-- **Escenario:** Molino y cuartel de Sauceda; preparativos para la contraofensiva hacia las murallas de Morvath.
-- **Estatus Político y Militar:** Despacho militar en vuelo hacia la Corona solicitando el envío de 100 caballeros nobles. La Sección Uno y la milicia de Sauceda inician una campaña de guerra asimétrica para purgar Morvath desde adentro hacia afuera.
-- **Amenaza Revelada:** Células durmientes del Culto a Khorne infiltradas dentro de las murallas, sótanos y túneles de Morvath; riesgo inminente de purga contra el pequeño Leo y quema de la ciudad por parte de Valerius.
-- **Fuerzas y Plan Operativo:**
-  - **Vanguardia (Sección Uno + Julian + Roderick):** División en tres fases: asegurar la guarnición baja de Morvath, desarmar a los mercenarios y sellar las bocaminas de Khorne antes de la llegada de los refuerzos reales.
-- **Periodo Activo:** Amanecer del segundo día de misión; inicio de la marcha hacia las puertas de **Morvath**.
+- **Capítulo 71: Raíces de Insurrección: Sombras de Corrupción y el Juramento de los Pueblos**: En marcha rápida hacia el pueblo de Fresnedas, Kaelan y Akame detectan un convoy armado de la Casa Morvath. La Sección Uno asalta el convoy en menos de un minuto, abatiendo a los ballesteros y descubriendo una jaula con seis aldeanos atados con cadenas y marcados con estigmas preliminares de Khorne (+18). En los carromatos hallan sacos de trigo confiscados y libros contables secretos que exponen la atroz corrupción del Conde Raymond y Valerius: hambruna provocada artificialmente al 70% de diezmo, venta clandestina de grano para pagar mercenarios y entrega forzada de jóvenes como ganado ritual para el portal minero a cambio de plata demoníaca. Julian se arrodilla desarmado en el lodo frente a los aterrorizados campesinos, asumiendo la culpa de su linaje y prometiendo luchar hasta el final. Al llegar a Fresnedas, Julian pronuncia un conmovedor discurso desde el pozo comunal clavando su espada corta; el herrero Garret y decenas de aldeanos se unen a su causa. Borgar y Garret adaptan la fragua para templar lanzas y alabardas, Vance adiestra la falange de escudos y Faelar instruye a los arqueros, fundando la **Guardia Popular de Julian** (80 combatientes). Al caer la tarde, Tarek, un minero fugitivo, entrega el mapa de los desagües subterráneos que conducen detrás del cuartel de la guardia baja. Seier y Julian sellan el plan: esa misma noche quebrarán el cerco y abrirán los portones de Morvath desde adentro hacia afuera.
+
+---
+## 4. Estado Actual de la Trama y del Mundo (Post-Capítulo 71)
+- **Escenario:** Plaza y fragua comunal de Fresnedas; preparativos nocturnos en la boca de los antiguos canales de desagüe de Morvath.
+- **Estatus Político y Militar:**
+  - Despacho imperial volando hacia la Corona mediante el Espíritu de Ave Mensajera (petición de 100 caballeros nobles reales).
+  - Constitución oficial de la **Guardia Popular de Julian** (80 aldeanos armados y adiestrados con lanzas, escudos y arcos).
+  - Pruebas documentales irrefutables aseguradas: libros contables de extorsión, recibos de contrabando de grano y contratos de sangre de la Casa Morvath con el Culto a Khorne.
+- **Amenaza Inminente:** Valerius reúne a la totalidad de mercenarios en el castillo superior de Morvath tras la caída de Malrik y ordena sellar los portones de la ciudad al anochecer.
+- **Plan Operativo Inmediato:** Infiltración nocturna a través del conducto de desagüe guiados por el minero Tarek para asaltar el cuartel de la guardia baja, neutralizar a los centinelas y abrir los portones principales a la Guardia Popular y a la Sección Uno.
+- **Periodo Activo:** Anochecer del segundo día de misión en el feudo de Morvath.

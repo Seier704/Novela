@@ -14,7 +14,7 @@ Asignado a la despreciada Clase F-2, Seier desafía el orden establecido no a tr
 
 ## Estructura del Repositorio
 
-- **`capitulos/`**: Contiene los textos planos (`.txt`) y documentos individuales formateados (`.docx`) de cada capítulo (Prólogo al Capítulo 70).
+- **`capitulos/`**: Contiene los textos planos (`.txt`) y documentos individuales formateados (`.docx`) de cada capítulo (Prólogo al Capítulo 71).
 - **`compilado/`**: Libro maestro completo (`El_Camino_del_Reencarnado.docx`) con formato editorial, páginas preliminares, fichas de personaje e ilustraciones integradas.
 - **`imagenes/`**: Ilustraciones oficiales de los personajes y momentos cumbre de la historia.
 - **Scripts Python**: Generadores automáticos basados en `python-docx` para compilar y formatear la novela con diseño tipográfico y márgenes editoriales.
@@ -42,12 +42,20 @@ Asignado a la despreciada Clase F-2, Seier desafía el orden establecido no a tr
 - **Capítulo 61**: Humo, Sidra y Pícaros Cómplices: La Alianza de Caesar y Yami (Burlas cariñosas a la parejita, valentía de Natsuki y camaradería nocturna)
 - **Capítulo 62**: Furia, Sombras y Deseo: La Noche de Yami y Caesar (Duelo de licor, fuego de guerreros, entrega apasionada desinhibida y despertar cómplice)
 - **Capítulo 63**: Mareas de Calma y Despertares: Lazos al Sol y el Umbral de los Diecisiete (Despertar de Caesar y Yami, intimidad de Seier con su trinidad, paseo y beso de Natsuki y Lucy, gran fogata y visión hacia los 17 años)
+- **Capítulo 64**: Nuevos Horizontes en la Academia: Integración Aleatoria y Nuevos Caminos (Reestructuración académica sin distinción de clases y formación de nuevos equipos)
+- **Capítulo 65**: Nuevos Lazos y la Misión de Largo Alcance: La Sección Uno (Presentación de Faelar, Borgar, Kaelan y Vance junto a Seier, Vlad y Akame)
+- **Capítulo 66**: Vientos de Marcha hacia Morvath: El Umbral del Feudo Desolado (Viaje expedicionario y llegada al feudo en decadencia del Conde Raymond)
+- **Capítulo 67**: Secretos en la Penumbra: La Verdad de Morvath y el Juramento de Julian (El segundo hijo revela la tiranía, desapariciones y entrega el sello familiar a Seier)
+- **Capítulo 68**: Sendas en las Sombras: El Culto al Caos y la Emboscada en Sauceda (Descubrimiento del Culto a Khorne en las minas y conspiración del hermano mayor)
+- **Capítulo 69**: La Sangre y la Ceniza de Sauceda: Justicia Imperial y el Estigma del Caos (Combate sangriento, derrota de Malrik y aseguramiento de la orden del conde)
+- **Capítulo 70**: Ecos de Herejía y el Vuelo del Espíritu: La Guerra Silenciosa de Morvath (Autodestrucción demoníaca del hereje, despacho de auxilio real mediante Ave Mensajera y plan de purga interior)
+- **Capítulo 71**: Raíces de Insurrección: Sombras de Corrupción y el Juramento de los Pueblos (Intercepción de convoy de tráfico humano, exposición de libros contables de hambruna inducida, juramento de Julian en Fresnedas, fundación de la Guardia Popular y mapa de los desagües de Tarek)
 
 ---
 
 ## Documentación Editorial y de Continuidad
 
-- **[`RESUMEN_HISTORIA.md`](file:///c:/Users/fsilv/OneDrive/Documentos/GitHub/Novela/RESUMEN_HISTORIA.md)**: Resumen histórico dinámico de todos los capítulos (Prólogo al 70) con sinopsis, arcos y guía de actualización para futuros capítulos.
+- **[`RESUMEN_HISTORIA.md`](file:///c:/Users/fsilv/OneDrive/Documentos/GitHub/Novela/RESUMEN_HISTORIA.md)**: Resumen histórico dinámico de todos los capítulos (Prólogo al 71) con sinopsis, arcos y guía de actualización para futuros capítulos.
 - **[`CENSO_PERSONAJES.md`](file:///c:/Users/fsilv/OneDrive/Documentos/GitHub/Novela/CENSO_PERSONAJES.md)**: Censo operativo de personajes por capítulo iniciado desde el Capítulo 47, clasificando quiénes aparecen en escena y qué hacen los personajes en el evento fuera de foco.
 - **[`AUDITORIA_PERSONAJES.md`](file:///c:/Users/fsilv/OneDrive/Documentos/GitHub/Novela/AUDITORIA_PERSONAJES.md)**: Registro exhaustivo de todos los personajes con nombre, facciones, estilos de combate, armas, estado y dinámica con el protagonista.
 - **[`CORRECCION_ERRORES.md`](file:///c:/Users/fsilv/OneDrive/Documentos/GitHub/Novela/CORRECCION_ERRORES.md)**: Auditoría de continuidad y posibles inconsistencias narrativas detectadas en la obra, con soluciones canónicas y reglas de estilo.

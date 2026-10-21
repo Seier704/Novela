@@ -334,6 +334,21 @@
 
 ---
 
+
+### **Garret el Herrero**
+- **Raza / Ocupación:** Humano / Herrero veterano de Fresnedas.
+- **Rol en la Trama:** Perdió a su sobrina por los abusos del conde; es el primero en unirse al juramento de Julian arrojando su delantal y ofreciendo su mazo. Colabora estrechamente con Borgar en la fragua para convertir herramientas agrícolas en lanzas, alabardas y blindajes de carretas.
+
+### **Tarek el Minero**
+- **Raza / Ocupación:** Humano / Minero fugitivo de las fundiciones del sector sur de Morvath.
+- **Rol en la Trama:** Escapó por los antiguos canales de drenaje subterráneos; entrega a Seier y Julian un mapa táctico dibujado en carbón que revela los altares de bronce negro de Khorne y el conducto secreto que conecta directamente con la retaguardia del cuartel de la guardia baja para abrir los portones de la ciudad amurallada.
+
+### **La Guardia Popular de Julian**
+- **Naturaleza:** Milicia civil insurgente compuesta por más de 80 campesinos, leñadores, herreros y cazadores de Sauceda y Fresnedas.
+- **Liderazgo y Entrenamiento:** Comandada moral y legalmente por Julian de Morvath (bajo el blasón familiar de plata), con adiestramiento táctico en falange de escudos por Vance, tiro perimetral y emboscada por Faelar, rastreo por Kaelan, armas templadas por Borgar y disciplina marcial de la Sección Uno dirigida por Seier y Vlad.
+
+---
+
 ## 11. Fuerzas Enemigas y Amenazas Oscuras (Segundo Semestre)
 
 ### **Culto del Caos a Khorne (El Dios de la Sangre)**

@@ -824,3 +824,35 @@
 | **100 Caballeros Nobles** | Contingente real solicitado para el juicio final de la Casa Morvath. |
 | **Leo de Morvath** | En peligro latente en el castillo si Valerius descubre la derrota de Malrik. |
 | **Sargento Roderick & Milicia** | Custodiando Sauceda como base logística de retaguardia. |
+
+
+# Censo de Personajes: Capítulo 71
+**Capítulo:** *Raíces de Insurrección: Sombras de Corrupción y el Juramento de los Pueblos*  
+**Ubicación Principal:** Camino del peaje viejo y plaza comunal de Fresnedas (Feudo de Morvath).  
+**Contexto Operativo:** Intercepción de convoy de tráfico humano y grano robado; revelación de libros contables de hambruna inducida y tributo de sangre a Khorne; proclamación y juramento de Julian de Morvath; formación, forja y adiestramiento de la Guardia Popular de Julian (80 combatientes); llegada del minero fugitivo Tarek con los planos del desagüe subterráneo para la infiltración nocturna a Morvath.
+
+### 1. Personajes que APARECEN en Escena
+
+| Personaje | Facción / Rol | Rol / Acción en el Capítulo | Estado al Cierre |
+| :--- | :--- | :--- | :--- |
+| **Seier Silva** | Sección Uno (Líder F-2) | Dirige la emboscada al convoy; analiza los libros contables de extorsión; organiza la logística militar y aprueba el asalto nocturno por los desagües. | Comandante supremo táctico, resolutivo y en vanguardia. |
+| **Vlad** | Sección Uno (Aliado F-2) | Aplasta al líder mercenario con su escudo; analiza los fraudes de grano; apoya a Julian como líder legítimo del feudo. | Imponente estratega militar, listo para la infiltración urbana. |
+| **Akame** | Sección Uno (Clase F-2) | Embosca y ejecuta con *Murasame* a los ballesteros; entrena a los cazadores en camuflaje y combate en sombras. | Letal, serena y protectora de los aldeanos. |
+| **Julian de Morvath** | Casa Morvath / Guardia Popular | Se arrodilla desarmado ante las víctimas; proclama la rebelión desde el pozo comunal de Fresnedas; funda la Guardia Popular y se entrena en primera fila. | Consagrado como líder popular y protector moral del feudo. |
+| **Borgar Yunque-Férreo** | Sección Uno (Enano) | Destroza la carreta mercenaria con su martillo; se adueña de la fragua comunal para templar 50 lanzas y alabardas en tiempo récord. | Eufórico entre el fuego de la forja y el acero de guerra. |
+| **Faelar Vaelen** | Sección Uno (Elfo Silvano) | Atiende a los cautivos desnutridos; adiestra a los arqueros locales en señales de silbato y tiro perimetral. | Mentor táctico y arquero sereno. |
+| **Kaelan Garra-Pardo** | Sección Uno (Semihumano) | Rastrea el olor a sudor y grano del convoy; trae al minero Tarek al campamento de la fragua. | Explorador incansable y detector de emboscadas. |
+| **Vance von Holst** | Sección Uno (Noble Menor) | Impactado por el tráfico de campesinos; instruye con madurez y disciplina a los aldeanos en la falange de escudos contra caballería. | Oficial de instrucción respetado y comprometido. |
+| **Garret el Herrero** | Fresnedas (Herrero) | Se rebela tras la muerte de su sobrina; cede su fragua y mazo para armar a la Guardia Popular junto a Borgar. | Firme, curtido y combatiente en primera línea. |
+| **Tarek el Minero** | Facciones Locales (Minero) | Minero fugitivo del sector sur; aporta el mapa en carbón de los canales de drenaje que cruzan bajo las murallas hacia el cuartel bajo. | Exhausto pero aliviado tras entregar la clave del asedio. |
+| **Seis Prisioneros Rescatados** | Civiles de Fresnedas | Mujeres, anciano y tres adolescentes marcados para Khorne; liberados por Julian y Seier. | A salvo, alimentados y reunidos con sus familias. |
+| **Mercenarios de Morvath (Capturados)** | Casa Morvath (Bailíos corruptos) | Rendidos tras la caída de sus arqueros; desarmados y encadenados como prisioneros. | Cautivos bajo custodia de la milicia. |
+
+### 2. Personajes Mencionados pero Fuera de Escena
+| Personaje | Ubicación / Estado |
+| :--- | :--- |
+| **Conde Raymond de Morvath** | En el castillo de Morvath, implicado de lleno por sus libros contables de extorsión y venta de vidas. |
+| **Valerius de Morvath** | En el castillo de la colina, furioso por la pérdida de contacto con Malrik y ordenando cerrar los portones. |
+| **Leo de Morvath** | Rehén vulnerable en las estancias del castillo. |
+| **Sargento Roderick** | Al mando de la retaguardia en Sauceda. |
+| **Espíritu de Ave Mensajera** | Volando veloz hacia la capital imperial con la petición de 100 caballeros nobles reales. |
