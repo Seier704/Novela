@@ -1,7 +1,7 @@
 # RESUMEN HISTÓRICO Y REGISTRO DINÁMICO DE CAPÍTULOS
 ## *El Camino del Reencarnado: Crónicas de Sangre, Acero y Deseo*
 **Autor:** Seier Silva  
-**Última actualización:** Capítulo 69  
+**Última actualización:** Capítulo 70  
 
 ---
 
@@ -157,12 +157,13 @@ Diez años después, forjado en un condicionamiento físico y de maná telúrico
 - **Capítulo 69: Emboscada en Sauceda: Sangre, Fuego y el Juicio del Acero**: La Sección Uno y Julian llegan al atardecer al pueblo de Sauceda. Al presentar el anillo de sello de plata con el halcón bicéfalo, el Sargento Roderick y los treinta veteranos de la milicia cívica se rinden en llanto de alivio y se subordinan a Seier y Vlad. Los civiles son resguardados en el sótano fortificado del granero comunal mientras la escuadra prepara una emboscada letal en la niebla nocturna. Al llegar treinta berserkers de Khorne y veinte mercenarios liderados por el Capitán Malrik con jaulas de hierro para capturar a sesenta mujeres y niños, se desata un combate sangriento y visceral (+18): Faelar abate a distancia con flechas rúnicas de viento, Vlad y Borgar lideran el choque con espada y martillo destrozando corazas, Kaelan degüella jinetes desde los tejados, y Akame siega vidas como un espectro negro con *Murasame*. En el centro de la plaza, Seier pulveriza a tres berserkers colosales con codazos de Muay Thai, rodillazos en clinch reforzados con Fa Jin y patadas telúricas bajas, mientras Vance abate con maestría a un lancero mercenario. Malrik intenta huir a caballo con el cofre de hierro pero Seier lo desmonta en el aire y le quiebra la muñeca; Julian recupera de entre los despojos el decreto firmado y sellado con cera negra por el Conde Raymond y Valerius autorizando la entrega de sus súbditos al Culto del Caos. Con Sauceda libre y la prueba irrefutable asegurada en un tubo de latón militar, el escuadrón se alista para marchar al amanecer y purgar el castillo de Morvath.
 
 ---
-## 4. Estado Actual de la Trama y del Mundo (Post-Capítulo 69)
-- **Escenario:** Plaza central y cuartel bajo de Sauceda, Condado de Morvath.
-- **Estatus Político y Militar:** Victoria militar total en la defensa de Sauceda. Aniquilada la partida de incursión del Culto de Khorne y apresados los mercenarios de Valerius.
-- **Prueba Irrefutable Asegurada:** Recuperado y custodiado el pliego original firmado de puño y letra por el Conde Raymond y Valerius, sellado con cera negra, ordenando la entrega de 60 campesinos para sacrificios demoníacos en las minas.
-- **Fuerzas Disponibles:**
-  - **Sección Uno (Vanguardia de Élite):** Seier Silva, Vlad, Akame, Borgar, Faelar, Kaelan, Vance von Holst (invictos y en máxima moral).
-  - **Aliados Locales:** Julian de Morvath (segundo heredero al frente de la casa), Sargento Roderick y 30 milicianos veteranos de Sauceda armados y leales.
-- **Objetivo Próximo:** Asalto y toma del Castillo de Morvath al amanecer para arrestar al Conde Raymond y a Valerius antes de que intenten escapar o destruir las arcas de oro.
-- **Periodo Activo:** Madrugada posterior a la batalla de Sauceda, víspera del asalto final al castillo.
+- **Capítulo 70: Ecos de Herejía y el Vuelo del Espíritu: La Guerra Silenciosa de Morvath**: Tras la victoria en Sauceda, el cabecilla cultista capturado es interrogado por Vlad y Seier; antes de confesar, sus venas ennegrecen y detona en una violenta explosión de miasma y fuego negro (+18), alcanzando a vociferar que Sauceda era solo un señuelo y que cientos de hermanos de Khorne aguardan en las sombras de Morvath. Conscientes de que enfrentan una prolongada guerra de estrategia, supervivencia y resiliencia, Seier y Vlad redactan un informe militar urgente avalado por el sello de Julian y la orden de cera negra capturada, enviándolo a la capital mediante un **Espíritu de Ave Mensajera** invocado por Faelar para solicitar el despliegue de **100 caballeros nobles reales**. Con la certeza de que los refuerzos tardarán días en llegar y que la pasividad causaría la masacre del pueblo y la muerte del pequeño Leo, Seier asume el mando total: deciden no esperar y purgar Morvath "desde adentro hacia afuera", tomando la guarnición baja, asegurando las puertas y barriendo los accesos a las minas de Khorne.
+
+---
+## 4. Estado Actual de la Trama y del Mundo (Post-Capítulo 70)
+- **Escenario:** Molino y cuartel de Sauceda; preparativos para la contraofensiva hacia las murallas de Morvath.
+- **Estatus Político y Militar:** Despacho militar en vuelo hacia la Corona solicitando el envío de 100 caballeros nobles. La Sección Uno y la milicia de Sauceda inician una campaña de guerra asimétrica para purgar Morvath desde adentro hacia afuera.
+- **Amenaza Revelada:** Células durmientes del Culto a Khorne infiltradas dentro de las murallas, sótanos y túneles de Morvath; riesgo inminente de purga contra el pequeño Leo y quema de la ciudad por parte de Valerius.
+- **Fuerzas y Plan Operativo:**
+  - **Vanguardia (Sección Uno + Julian + Roderick):** División en tres fases: asegurar la guarnición baja de Morvath, desarmar a los mercenarios y sellar las bocaminas de Khorne antes de la llegada de los refuerzos reales.
+- **Periodo Activo:** Amanecer del segundo día de misión; inicio de la marcha hacia las puertas de **Morvath**.

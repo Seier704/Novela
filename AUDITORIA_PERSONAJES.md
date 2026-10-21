@@ -327,6 +327,13 @@
 
 ---
 
+
+### **Espíritu de Ave Mensajera**
+- **Naturaleza / Origen:** Manifestación espiritual de viento y sauce sagrado invocada por Faelar Vaelen.
+- **Función:** Portador etéreo del cilindro de latón con el decreto sellado de cera negra del Conde Raymond, las firmas de Seier y Vlad, y el aval heráldico de Julian, volando a velocidad sónica rumbo al palacio real de Solaria para solicitar el despliegue de 100 caballeros nobles de la Corona.
+
+---
+
 ## 11. Fuerzas Enemigas y Amenazas Oscuras (Segundo Semestre)
 
 ### **Culto del Caos a Khorne (El Dios de la Sangre)**

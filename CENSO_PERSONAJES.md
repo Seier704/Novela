@@ -796,3 +796,31 @@
 | **Leo de Morvath** | Oculto en el castillo bajo la protección de la nodriza. |
 | **Civiles de Sauceda** | Salvos en el sótano del granero comunal, celebrando en lágrimas la salvación de sus hijos. |
 | **Demás Secciones de la F-2** | En sus misiones en el resto del imperio. |
+
+
+# Censo de Personajes: Capítulo 70
+**Capítulo:** *Ecos de Herejía y el Vuelo del Espíritu: La Guerra Silenciosa de Morvath*  
+**Ubicación Principal:** Plaza devastada y molino harinero de Sauceda.  
+**Contexto Operativo:** Interrogatorio y autodestrucción demoníaca del cabecilla cultista; revelación de células masivas de Khorne infiltradas en Morvath; invocación del Espíritu de Ave Mensajera por Faelar para solicitar 100 caballeros reales a la Corona; resolución de Seier de purgar el feudo desde adentro hacia afuera antes del arribo de los refuerzos.
+
+### 1. Personajes que APARECEN en Escena (Foco Principal: Sauceda)
+
+| Personaje | Facción / Rol | Rol / Acción en el Capítulo | Estado al Cierre |
+| :--- | :--- | :--- | :--- |
+| **Seier Silva** | Sección Uno (Líder F-2) | Salva a Julian y Vance de la onda expansiva; redacta el despacho a la Corona; rechaza la espera pasiva y ordena purgar Morvath desde adentro hacia afuera. | Comandante supremo de la incursión, resuelto, táctico y en guardia. |
+| **Vlad** | Sección Uno (Aliado F-2) | Interroga al hereje; bloquea la explosión con su escudo; sella con cera carmesí y sello ducal la petición de 100 caballeros nobles reales. | Estratega marcial, severo y listo para el asalto urbano. |
+| **Akame** | Sección Uno (Clase F-2) | Anticipa la autodestrucción del cultista con sus sentidos de asesina; apoya la estrategia de purga activa con *Murasame*. | Alerta, letal y concentrada. |
+| **Faelar Vaelen** | Sección Uno (Elfo Silvano) | Advierte sobre la guerra de supervivencia; invoca con maná de viento al **Espíritu de Ave Mensajera** enviándolo veloz a la capital. | Mago-arquero vital para la comunicación imperial. |
+| **Julian de Morvath** | Casa Morvath (Aliado) | Teme por la vida de su hermano Leo si esperan pasivos; valida el plan de asaltar la guarnición baja de Morvath. | Desesperado por su hermano pero fortalecido por Seier. |
+| **Borgar Yunque-Férreo** | Sección Uno (Enano) | Analiza la maldición de sangre; afila su martillo entusiasmado por limpiar las murallas de Morvath. | Rudo, leal y combativo. |
+| **Kaelan Garra-Pardo** | Sección Uno (Semihumano) | Rastrea los tufos de azufre dispersos por los bosques y murallas; listo para cazar centinelas en las sombras. | Depredador infalible y explorador de vanguardia. |
+| **Vance von Holst** | Sección Uno (Noble Menor) | Rescatado de la explosión por Seier; asume con madurez su rol para cortar los tentáculos del culto. | Integrado plenamente y con honor militar renovado. |
+| **Cabecilla de Khorne** | Culto del Caos | Fanático capturado; profetiza la matanza de Morvath y estalla en pedazos por maldición demoníaca. | Destruido y calcinado en el cráter de la plaza. |
+
+### 2. Personajes Mencionados pero Fuera de Escena
+| Personaje | Ubicación / Estado |
+| :--- | :--- |
+| **El Rey de Solaria & Alto Mando** | En la capital imperial, a la espera del mensaje del espíritu de ave. |
+| **100 Caballeros Nobles** | Contingente real solicitado para el juicio final de la Casa Morvath. |
+| **Leo de Morvath** | En peligro latente en el castillo si Valerius descubre la derrota de Malrik. |
+| **Sargento Roderick & Milicia** | Custodiando Sauceda como base logística de retaguardia. |
