@@ -1044,3 +1044,36 @@
 | :--- | :--- |
 | **Julian & Leo de Morvath** | En el feudo de Morvath, gobernando en paz y prosperidad. |
 | **Hwa Young** | Maestra marcial de Ken, mencionada por sus duros entrenamientos bajo cascadas. |
+
+
+# Censo de Personajes: Capítulo 78
+**Capítulo:** *Crónicas del Despliegue: Ecos de Fuego, Sombras y Acero*  
+**Ubicación Principal:** Salón principal de la taberna *La Jarra Plateada* (Distrito Estudiantil de Solaria).  
+**Contexto Operativo:** Relato cruzado de las misiones semestrales de la Clase F-2 y aliados por todo el territorio imperial (Garganta de Fuego, Valle de los Lirios, Paso del Trueno, Pantanos de Niebla-Negra y Colinas Plateadas); consolidación de la Generación Dorada.
+
+### 1. Personajes que APARECEN en Escena
+
+| Personaje | Facción / Rol | Rol / Acción en el Capítulo | Estado al Cierre |
+| :--- | :--- | :--- | :--- |
+| **Seier Silva** | Clase F-2 / Líder | Pide los informes a sus compañeros; sostiene la mano de Kaoruko; lidera el brindis final por la Generación Dorada. | Capitán respetado, satisfecho y en armonía con sus camaradas. |
+| **Ken** | Clase F-2 (Artista Marcial) | Narra su victoria ante el Drake de Magma Alfa en la Garganta de Fuego con un uppercut solar demoledor; brinda con Borgar. | Enérgico, triunfal y listo para medirse con Seier. |
+| **Kaoruko Waguri** | Clase F-2 | Relata la misión de contención pacífica contra 40 bandidos en el Valle de los Lirios junto a Lady Vane; acaricia la mano de Seier. | Dulce, madura y protectora de la vida. |
+| **Caesar King** | Clase F-2 (Hijos de Calydon) | Cuenta cómo aguantó el embate aéreo de una Mantícora Alfa en el Paso del Trueno con su escudo de asedio. | Imponente, festivo y líder de la celebración. |
+| **Yami** | Clase F-2 (Guerrera Sombría) | Explica cómo trepó a la mantícora y le cortó las alas en pleno vuelo con dagas de miasma; bromea con Vance. | Letal, socarrona y orgullosa de su escuadrón. |
+| **Natsuki Subaru** | Clase F-2 | Relata con dramatismo el rescate de exploradores en los Pantanos de Niebla-Negra mediante bombas de fósforo y señuelos. | Carismático, ingenioso y orgulloso estratega. |
+| **Lucy** | Clase F-2 (Hijos de Calydon) | Complementa el relato de Subaru sobre las emboscadas en la niebla y la carreta anfibia a vapor de Piper. | Sonriente, afectuosa y disfrutando del banquete. |
+| **Erza Scarlet** | Aliada / Academia | Detalla el combate contra diez golems de mithril y piedra rúnica usando la Armadura de la Rueda del Cielo. | Marcial, reflexiva e intachable. |
+| **Agnes Tachyon** | Maga Experimental | Explica cómo reprogramó y neutralizó las matrices arcanas de la Tercera Dinastía en las Colinas Plateadas. | Orgullosa de su intelecto e investigando sin descanso. |
+| **Vlad** | Aliado F-2 / Sección Uno | Elogia el control no letal de Kaoruko; comparte caricias discretas con Zemina en la mesa. | Condecorado y feliz. |
+| **Akame** | Clase F-2 / Sección Uno | Escucha atenta cada historia comiendo carnes asadas; asiente con satisfacción ante el crecimiento de sus amigos. | Serena y plena en su rol de protectora. |
+| **Borgar Yunque-Férreo** | Sección Uno (Enano) | Choca jarras con Ken aplaudiendo el puñetazo al dragón; debate de forja con Caesar. | Integrado de lleno en la juerga. |
+| **Vance von Holst** | Sección Uno (Noble Menor) | Admira la sincronía marcial de Caesar y Yami; totalmente integrado en las risas de la F-2. | Liberado de prejuicios y orgulloso de pertenecer al grupo. |
+| **Faelar Vaelen** | Sección Uno (Elfo Silvano) | Escucha los datos de Agnes sonriendo; disfruta de la calidez del grupo. | Sabio y en paz. |
+| **Kaelan Garra-Pardo** | Sección Uno (Semihumano) | Comparte asado con Subaru y Lucy mientras comenta las tácticas en ciénagas. | Alegre y satisfecho. |
+
+### 2. Personajes Mencionados pero Fuera de Escena
+| Personaje | Ubicación / Estado |
+| :--- | :--- |
+| **Lady Vane** | Destacada por su esgrima de escarcha aristocrática en el Valle de los Lirios. |
+| **Hwa Young** | Mencionada como supervisora del riguroso entrenamiento de Ken. |
+| **Piper Wheel** | Destacada por construir el vehículo flotante a vapor en los pantanos. |

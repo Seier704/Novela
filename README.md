@@ -14,7 +14,7 @@ Asignado a la despreciada Clase F-2, Seier desafía el orden establecido no a tr
 
 ## Estructura del Repositorio
 
-- **`capitulos/`**: Contiene los documentos individuales formateados (`.docx`) de cada capítulo (Prólogo al Capítulo 77).
+- **`capitulos/`**: Contiene los documentos individuales formateados (`.docx`) de cada capítulo (Prólogo al Capítulo 78).
 - **`compilado/`**: Libro maestro completo (`El_Camino_del_Reencarnado.docx`) con formato editorial, páginas preliminares, fichas de personaje e ilustraciones integradas.
 - **`agregar_capitulo.py`**: Script unificado y general para registrar o sobrescribir capítulos; genera el documento `.docx` individual y recompila automáticamente el libro maestro completo.
 - **`compilar_novela.py`**: Compilador general dinámico que lee directamente todos los capítulos en `capitulos/` y genera el libro maestro sin requerir scripts redundantes.
@@ -57,12 +57,13 @@ Asignado a la despreciada Clase F-2, Seier desafía el orden establecido no a tr
 - **Capítulo 75**: El Renacer de Morvath: Justicia, Honor y el Juicio de las Sombras (Paso de dos semanas, juicio militar de Valerius y muerte de Raymond, purga de herejes, reconstrucción de pueblos, pacto mercantil del Río Sol, condecoraciones reales a la Sección Uno, Memorial a los caídos y gran banquete de liberación)
 - **Capítulo 76**: Vientos de Retorno: Lazos Forjados, Despedidas y el Camino a Solaria (Semana de reparaciones finales, forja de armamento personalizado por Borgar y Garret, adiestramiento de Leo por Seier, reflexiones nocturnas del escuadrón, emotiva despedida en el Portón del Sur y partida a caballo rumbo a la Academia de Solaria)
 - **Capítulo 77**: Retorno a las Torres Blancas: Abrazos, Fuego y Camaradería (Llegada triunfal a la Academia de Solaria, emotivos reencuentros amorosos de Seier con Kaoruko y Vlad con Zemina, desafío amistoso con Ken, bienvenida de Yami, Caesar, Subaru y Erza, integración de la Sección Uno y gran banquete de hermandad en La Jarra Plateada)
+- **Capítulo 78**: Crónicas del Despliegue: Ecos de Fuego, Sombras y Acero (Relato antológico en La Jarra Plateada de las misiones del resto de la F-2: la victoria solar de Ken contra el Drake de Magma, la contención no letal de Kaoruko y Lady Vane, la cacería de mantícoras de Caesar y Yami, el rescate anfibio de Subaru y Lucy, y la incursión arqueológica de Erza y Agnes)
 
 ---
 
 ## Documentación Editorial y de Continuidad
 
-- **[`RESUMEN_HISTORIA.md`](file:///c:/Users/fsilv/OneDrive/Documentos/GitHub/Novela/RESUMEN_HISTORIA.md)**: Resumen histórico dinámico de todos los capítulos (Prólogo al 77) con sinopsis, arcos y guía de actualización para futuros capítulos.
+- **[`RESUMEN_HISTORIA.md`](file:///c:/Users/fsilv/OneDrive/Documentos/GitHub/Novela/RESUMEN_HISTORIA.md)**: Resumen histórico dinámico de todos los capítulos (Prólogo al 78) con sinopsis, arcos y guía de actualización para futuros capítulos.
 - **[`CENSO_PERSONAJES.md`](file:///c:/Users/fsilv/OneDrive/Documentos/GitHub/Novela/CENSO_PERSONAJES.md)**: Censo operativo de personajes por capítulo iniciado desde el Capítulo 47, clasificando quiénes aparecen en escena y qué hacen los personajes en el evento fuera de foco.
 - **[`AUDITORIA_PERSONAJES.md`](file:///c:/Users/fsilv/OneDrive/Documentos/GitHub/Novela/AUDITORIA_PERSONAJES.md)**: Registro exhaustivo de todos los personajes con nombre, facciones, estilos de combate, armas, estado y dinámica con el protagonista.
 - **[`CORRECCION_ERRORES.md`](file:///c:/Users/fsilv/OneDrive/Documentos/GitHub/Novela/CORRECCION_ERRORES.md)**: Auditoría de continuidad y posibles inconsistencias narrativas detectadas en la obra, con soluciones canónicas y reglas de estilo.

@@ -1,7 +1,7 @@
 # RESUMEN HISTÓRICO Y REGISTRO DINÁMICO DE CAPÍTULOS
 ## *El Camino del Reencarnado: Crónicas de Sangre, Acero y Deseo*
 **Autor:** Seier Silva  
-**Última actualización:** Capítulo 77  
+**Última actualización:** Capítulo 78  
 
 ---
 
@@ -181,11 +181,19 @@ Diez años después, forjado en un condicionamiento físico y de maná telúrico
 - **Capítulo 77: Retorno a las Torres Blancas: Abrazos, Fuego y Camaradería**: Tras ocho jornadas de cabalgata, la Sección Uno arriba triunfalmente a la Gran Academia Militar y Mágica de Solaria con escolta real, precedidos por su renombre como héroes de Morvath. En el patio de la residencia estudiantil se desata una oleada de emotivos reencuentros: Kaoruko corre hacia Seier arrojando su cesta y se funden en un apasionado abrazo y beso de alivio; Vlad levanta en vilo a Zemina entre risas y devoción; Ken emerge del gimnasio con puños ardientes y choca antebrazos con Seier celebrando sus victorias; y Yami, Caesar, Subaru, Lucy, Erza y Agnes felicitan al escuadrón. Seier y Vlad integran oficialmente a Borgar, Faelar, Kaelan y Vance al círculo íntimo de la antigua Clase F-2, borrando todo estigma social sobre Vance. Por la noche, el grupo copa la taberna *La Jarra Plateada* en un multitudinario banquete con pulsos de fuerza, brindis y relatos de batalla; con 17 años recién cumplidos y una hermandad inquebrantable, Seier y Kaoruko sellan la velada entrelazando sus manos con profunda devoción.
 
 ---
-## 4. Estado Actual de la Trama y del Mundo (Post-Capítulo 77)
-- **Escenario:** Gran Academia Militar y Mágica de Solaria; patio de residencias y taberna *La Jarra Plateada*.
-- **Estatus de la Hermandad y Académico:**
-  - **Reencuentro Consolidado:** Seier reunido amorosamente con Kaoruko; Vlad con Zemina; reencuentro marcial con Ken; camaradería plena con Yami, Caesar, Subaru, Lucy, Erza y Agnes.
-  - **Integración Plena:** Borgar, Faelar, Kaelan y Vance son acogidos formalmente como hermanos de armas por el núcleo de la F-2.
-  - **Madurez de los 17 Años:** El elenco principal alcanza los 17 años con experiencia de guerra real, condecoraciones imperiales y prestigio indiscutido en la academia.
-- **Próximos Pasos:** Formalización de calificaciones de Rango S ante la dirección académica, entrenamientos avanzados y preparativos para los eventos inter-academias del segundo semestre.
-- **Periodo Activo:** Noche de celebración en la capital; retorno oficial a la rutina académica.
+- **Capítulo 78: Crónicas del Despliegue: Ecos de Fuego, Sombras y Acero**: Al calor del hogar en *La Jarra Plateada*, Seier invita al resto del grupo a compartir sus misiones semestrales. Ken relata su incursión a la Garganta de Fuego junto a Hwa Young, donde pulverizó la mandíbula de un Drake de Magma Alfa con un uppercut solar ganándose el respeto de nobles escépticos; Kaoruko y Lady Vane narran la escolta médica en el Valle de los Lirios, neutralizando a 40 forajidos mediante barreras sagradas y esgrima de escarcha sin derramar sangre; Caesar y Yami detallan su cacería en el Paso del Trueno, donde Caesar bloqueó a una Mantícora Alfa con su escudo mientras Yami le cortaba las alas con dagas sombrías; Subaru, Lucy y Piper Wheel explican el rescate de exploradores heridos en los Pantanos de Niebla-Negra combinando señuelos alquímicos, cuchillas sigilosas y una carreta a vapor flotante; y Erza y Agnes exponen la contención de diez golems arcanos y la decodificación de reliquias de la Tercera Dinastía en las Colinas Plateadas. Con 17 años y un temple militar probado en todo el imperio, la hermandad brinda unida bajo el lema de la Generación Dorada.
+
+---
+## 4. Estado Actual de la Trama y del Mundo (Post-Capítulo 78)
+- **Escenario:** Gran taberna *La Jarra Plateada* de Solaria; velada nocturna de camaradería y testimonios de combate.
+- **Estatus Global de la Promoción (17 Años):**
+  - **Madurez Integral de la Clase F-2 y Aliados:** Todas las secciones de cadetes han superado exitosamente misiones de combate real de largo alcance por todo el continente.
+  - **Evolución Táctica Registrada:**
+    - **Ken:** Despertar pleno de su maná solar y derribo de monstruos colosales de magma.
+    - **Kaoruko & Lady Vane:** Dominio absoluto de contención no letal (barreras sagradas y frío noble).
+    - **Caesar & Yami:** Sinergia de vanguardia pesada y emboscada sombría aérea contra mantícoras.
+    - **Subaru, Lucy & Piper:** Táctica de guerrilla, ingeniería a vapor y rescate en cenagales hostiles.
+    - **Erza & Agnes:** Sinergia mágica de asedio y neutralización rúnica ancestral.
+  - **Hermandad Consolidada:** La Sección Uno de Morvath (Seier, Vlad, Akame, Borgar, Faelar, Kaelan, Vance) totalmente integrada con el círculo histórico de la F-2.
+- **Próximos Pasos:** Entrega formal de informes de campaña ante el Alto Mando de la Academia y preparación para los torneos y desafíos del segundo semestre.
+- **Periodo Activo:** Madrugada de la noche de bienvenida en Solaria.
