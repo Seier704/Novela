@@ -1,7 +1,7 @@
 # RESUMEN HISTÓRICO Y REGISTRO DINÁMICO DE CAPÍTULOS
 ## *El Camino del Reencarnado: Crónicas de Sangre, Acero y Deseo*
 **Autor:** Seier Silva  
-**Última actualización:** Capítulo 72  
+**Última actualización:** Capítulo 73  
 
 ---
 
@@ -166,13 +166,16 @@ Diez años después, forjado en un condicionamiento físico y de maná telúrico
 - **Capítulo 72: Sombras de Acero y Muro Quebrado: La Apertura de las Puertas de Morvath**: A medianoche y bajo lluvia helada, el equipo de asalto (Seier, Vlad, Akame, Borgar, Faelar, Kaelan, Vance y Julian) guiado por el minero Tarek se infiltra por el aliviadero de aguas negras bajo las murallas de Morvath. Akame y Kaelan eliminan en silencio a los centinelas subterráneos y Borgar fuerza la reja trasera. Vlad revienta la puerta del cuartel bajo y se desata un combate visceral (+18): Seier destruye a los guardias en corta distancia con técnicas combinadas de Jeet Kune Do y Muay Thai potenciadas con maná denso (codazos, rodillazos demoledores y luxaciones), Akame ejecuta con letalidad sombría, Vlad embiste con su escudo y Vance desarma con precisión aristocrática. Cuando el capitán cultista intenta disparar una bengala de alarma para avisar al castillo, Faelar le atraviesa la mano con una flecha de viento y Julian lo neutraliza. Borgar y Vance accionan el cabrestante principal, levantando el rastrillo del Portón del Sur; Julian hace sonar el cuerno de guerra de su casa y los ochenta aldeanos de la Guardia Popular liderados por Garret cargan e irrumpen en Morvath, tomando control de la plaza baja sin dañar a civiles. Sin embargo, la alarma del castillo alto estalla con tambores de sangre de Khorne: Valerius aparece en las almenas de la ciudadela superior suspendiendo con cadenas al pequeño Leo sobre el abismo y exigiendo la rendición de la ciudad antes del amanecer o sacrificará a su hermano. Seier, Vlad y Akame renuevan su resolución: se preparan para asaltar el castillo y rescatar a Leo.
 
 ---
-## 4. Estado Actual de la Trama y del Mundo (Post-Capítulo 72)
-- **Escenario:** Portón del Sur y plaza artesana de la ciudad baja de Morvath; mirada fija hacia la ciudadela superior en el risco.
-- **Estatus Político y Militar:**
-  - **Ciudad Baja Liberada:** Guarnición baja neutralizada por la Sección Uno; Portón del Sur abierto de par en par y asegurado por los 80 combatientes de la Guardia Popular de Julian bajo el mando de Garret.
-  - **Civiles Protegidos:** El distrito artesano apoya a Julian tras presenciar la derrota de los mercenarios sin saqueos ni violencia contra inocentes.
-- **Amenaza Crítica Inmediata:**
-  - Valerius y los cultistas de Khorne atrincherados en el castillo alto; tambores de sangre activos.
-  - **Rehén al límite:** El pequeño Leo de Morvath pende encadenado sobre el abismo del risco; ultimátum de muerte al amanecer si no entregan a los cadetes y a Julian.
-- **Plan Operativo Inmediato:** Asalto relámpago nocturno a la ciudadela superior antes del alba para neutralizar a Valerius y rescatar a Leo antes de la llegada de los 100 caballeros nobles reales.
-- **Periodo Activo:** Medianoche avanzada del segundo día de misión en Morvath.
+- **Capítulo 73: Asedio a la Cumbre Oscura: Sangre en las Almenas y el Rescate de Leo**: Ante el ultimátum de Valerius de arrojar al pequeño Leo de doce años al abismo, la Sección Uno ejecuta un asalto en dos frentes: Vlad, Vance, Borgar y la Guardia Popular fingen una embestida frontal por la rampa atrayendo el fuego de brea y virotes, mientras Seier, Akame, Kaelan, Faelar y Julian escalan en silencio el escarpado Risco del Buitre. En el momento en que Valerius se dispone a cortar la cadena con su montante, Faelar desvía la hoja con una flecha de viento y Akame decapita a los centinelas. La cadena se suelta al vacío, pero Seier se arroja sobre las almenas y la atrapa con sus manos desnudas, canalizando su masa y maná telúrico para izar al niño sobre el parapeto y entregárselo a Julian (+18). Vlad revienta el portón superior y se desata la batalla final en la ciudadela: Valerius, enloquecido por elixires oscuros de Khorne, ataca con furia berserker pero Seier lo supera con el pragmatismo marcial del Jeet Kune Do y el Muay Thai (desvíos de hombro, ganchos al hígado, agarre de cuello y demoledores rodillazos que destrozan su armadura negra). Julian noquea a su hermano con el pomo de su espada, rehusando matarlo para que enfrente la justicia imperial. Al irrumpir en el torreón, descubren al Conde Raymond postrado en cama, carcomido y patético por la degeneración física de sus pactos oscuros; Julian le arrebata el anillo de sello y asume la regencia del feudo. Al amanecer, Morvath celebra su liberación, pero Tarek advierte que el portal de Khorne en las minas del sur sigue activo y debe ser sellado antes del mediodía.
+
+---
+## 4. Estado Actual de la Trama y del Mundo (Post-Capítulo 73)
+- **Escenario:** Terrazas del castillo alto de Morvath; banderas de la Academia Imperial y el pendón de plata de Julian ondeando al sol matinal.
+- **Estatus Político y Familiar:**
+  - **Ciudadela y Ciudad Pacificadas:** El castillo alto y la ciudad baja están bajo el control indiscutido de la Sección Uno y la Guardia Popular.
+  - **Valerius de Morvath:** Derrotado físicamente por Seier, desarmado y encadenado con hierro frío para responder ante el tribunal de la Corona.
+  - **Conde Raymond de Morvath:** Despojado del anillo condal por Julian; postrado y consumido por la peste y la corrupción demoníaca.
+  - **Leo de Morvath:** Rescatado ileso del abismo por Seier y Julian; bajo protección de la milicia.
+  - **Julian de Morvath:** Consolidado como Regente legítimo y protector venerado de Morvath.
+- **Objetivo Final Pendiente:** Incursión relámpago a las minas del sur para destruir el altar central y sellar el portal dimensional de Khorne antes de la llegada de los 100 caballeros nobles reales.
+- **Periodo Activo:** Mañana del tercer día de misión en Morvath.

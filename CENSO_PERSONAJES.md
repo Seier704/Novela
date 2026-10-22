@@ -887,3 +887,33 @@
 | **Conde Raymond de Morvath** | Oculto o convaleciente dentro del castillo alto, permitiendo la demencia de su primogénito. |
 | **Sargento Roderick** | Manteniendo la base de operaciones y familias seguras en Sauceda. |
 | **100 Caballeros Nobles de la Corona** | En marcha forzada hacia Morvath tras el despacho del Espíritu de Ave. |
+
+
+# Censo de Personajes: Capítulo 73
+**Capítulo:** *Asedio a la Cumbre Oscura: Sangre en las Almenas y el Rescate de Leo*  
+**Ubicación Principal:** Risco del Buitre, adarve este, patio de armas y estancia condal del castillo alto de Morvath.  
+**Contexto Operativo:** Asalto bifurcado a la ciudadela alta; escalada vertical por el acantilado ciego; rescate milagroso de Leo atrapando la cadena al vuelo; duelo de Seier contra Valerius imbuido en maná oscuro de Khorne; neutralización y captura de Valerius; destitución del Conde Raymond y toma de la regencia por Julian; detección de la amenaza residual del portal en las minas del sur.
+
+### 1. Personajes que APARECEN en Escena
+
+| Personaje | Facción / Rol | Rol / Acción en el Capítulo | Estado al Cierre |
+| :--- | :--- | :--- | :--- |
+| **Seier Silva** | Sección Uno (Líder F-2) | Escala el risco; atrapa con sus manos la cadena de Leo salvándolo del abismo; destruye a Valerius en combate cuerpo a cuerpo con combinaciones brutales de Muay Thai y Jeet Kune Do. | Comandante supremo victorioso, líder marcial impecable. |
+| **Vlad** | Sección Uno (Aliado F-2) | Lidera la fuerza de distracción en la rampa; revienta el portón superior y barre berserkers con su escudo bendecido. | Héroe marcial y estratega incansable. |
+| **Akame** | Sección Uno (Clase F-2) | Escala con sigilo letal; decapita a los cultistas del cabrestante con *Murasame*; lista para la purga del portal minero. | Letal, precisa y protectora. |
+| **Julian de Morvath** | Casa Morvath (Regente) | Escala junto a Seier; abraza y pone a salvo a su hermano Leo; noquea a Valerius y le arrebata el anillo de gobierno a su padre Raymond, asumiendo la regencia. | Consagrado como el legítimo líder y señor de Morvath. |
+| **Leo de Morvath** | Casa Morvath (Hijo menor) | Rescatado de la caída por Seier y Julian; llora abrazado a sus hermanos; puesto a resguardo por Faelar. | A salvo, protegido y fuera de peligro. |
+| **Borgar Yunque-Férreo** | Sección Uno (Enano) | Apoya el asalto al portón; encadena con grilletes de hierro frío a Valerius. | Satisfecho con el acero y la justicia aplicada. |
+| **Faelar Vaelen** | Sección Uno (Elfo Silvano) | Ancla flechas de viento para la escalada; desvía el montante de Valerius en el aire; cuida de Leo. | Arquero de élite y soporte providencial. |
+| **Kaelan Garra-Pardo** | Sección Uno (Semihumano) | Abre ruta en la escalada del risco; ayuda a izar la cadena de Leo. | Explorador ágil y combatiente leal. |
+| **Vance von Holst** | Sección Uno (Noble Menor) | Sostiene la línea de escudos bajo el fuego enemigo; ensarta berserkers con su estoque en el patio superior. | Noble guerrero de impecable desempeño. |
+| **Valerius de Morvath** | Casa Morvath / Culto de Khorne | Intenta arrojar a Leo; bebe elixires de sangre; es destrozado a golpes por Seier, noqueado por Julian y encadenado. | Derrotado, desarmado y preso en grilletes de hierro frío. |
+| **Conde Raymond de Morvath** | Casa Morvath (Ex-Gobernante) | Hallado en su lecho, decrépito, pestilente y suplicante; despojado del anillo y mando por Julian. | Enclaustrado, enfermo y esperando juicio real. |
+| **Tarek el Minero** | Facciones Locales (Informante) | Advierte sobre la reactivación del portal de Khorne en las minas del sur. | Asesor vital para el último golpe. |
+| **Garret & Guardia Popular** | Morvath (Milicia) | Aseguran las murallas y vitorean el estandarte de Julian al amanecer. | Celebrando la liberación del feudo. |
+
+### 2. Personajes Mencionados pero Fuera de Escena
+| Personaje | Ubicación / Estado |
+| :--- | :--- |
+| **Sargento Roderick** | En Sauceda, asegurando la retaguardia civil. |
+| **100 Caballeros Nobles de la Corona** | En camino forzado hacia Morvath. |
