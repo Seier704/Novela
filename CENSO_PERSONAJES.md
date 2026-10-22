@@ -980,3 +980,34 @@
 | :--- | :--- |
 | **El Rey de Solaria** | En la capital imperial, emisor de los decretos de reconocimiento y sentencias reales. |
 | **Pueblo de Sauceda y Fresnedas** | Reconstruidos y celebrando la nueva era de paz en Morvath. |
+
+
+# Censo de Personajes: Capítulo 76
+**Capítulo:** *Vientos de Retorno: Lazos Forjados, Despedidas y el Camino a Solaria*  
+**Ubicación Principal:** Fragua, patio de armas y terrazas del castillo de Morvath; minas del sur; Portón del Sur y camino real hacia Solaria.  
+**Contexto Operativo:** Semana final de preparativos en Morvath; forja de equipamiento por Borgar y Garret; entrenamiento de Leo y Julian; inspección pacífica de minas y guarniciones; velada de reflexiones nocturnas; despedida multitudinaria y partida a caballo de la Sección Uno rumbo a la Academia de Solaria escoltada por caballeros reales.
+
+### 1. Personajes que APARECEN en Escena
+
+| Personaje | Facción / Rol | Rol / Acción en el Capítulo | Estado al Cierre |
+| :--- | :--- | :--- | :--- |
+| **Seier Silva** | Sección Uno (Líder F-2) | Recibe grebas y brazaletes de hierro negro de Borgar; instruye a Leo en postura y temple; reflexiona con Akame en las terrazas; recibe el amuleto de Leo y ordena la marcha de retorno. | Comandante supremo sereno, mentor y líder de vanguardia. |
+| **Vlad** | Sección Uno (Aliado F-2) | Entrena en el patio; recibe escudo reesmaltado; escribe cartas de amor a Zemina añorando el reencuentro. | Caballero leal y enamorado, con temple marcial impecable. |
+| **Akame** | Sección Uno (Clase F-2) | Practica movimientos sigilosos; recibe cota ligera; comparte manzanas y confidencias con Seier en la terraza; lista para el viaje. | Serena, protectora y en profunda camaradería con Seier. |
+| **Julian de Morvath** | Casa Morvath (Regente) | Aprende esgrima con Vance; despide al escuadrón en el portón sur entregando el salvoconducto de Huéspedes de Honor Perpetuos. | Regente consagrado, prudente y fraterno. |
+| **Leo de Morvath** | Casa Morvath (Heredero menor) | Aprende postura marcial con Seier; regala a Seier un colgante tallado de un león prometiendo ser fuerte. | Valiente, seguro y agradecido. |
+| **Borgar Yunque-Férreo** | Sección Uno (Enano) | Forja equipamiento a medida con Garret; brinda con bota de licor y supervisa las minas. | Satisfecho con el acero y la ingeniería dejada en Morvath. |
+| **Faelar Vaelen** | Sección Uno (Elfo Silvano) | Recibe saetas helicoidales de cobre; disfruta del sosiego de los vientos otoñales. | Arquero de élite en perfecta armonía. |
+| **Kaelan Garra-Pardo** | Sección Uno (Semihumano) | Entrena agilidad en el patio; bromea con Vlad sobre Zemina; marcha a caballo con orejas atentas. | Explorador incansable y leal. |
+| **Vance von Holst** | Sección Uno (Noble Menor) | Entrena a Julian en esgrima; recibe daga de parada; agradece emocionado a la Sección Uno por enseñarle el verdadero honor. | Caballero noble plenamente redimido y respetado. |
+| **Garret el Herrero** | Morvath (Maestro Forjador) | Coopera en la forja comunal con Borgar produciendo armamento de alta gama para los cadetes. | Forjador venerado y en paz. |
+| **Tarek el Minero** | Morvath (Inspector de Minas) | Muestra los tiros de ventilación y vagonetas llenas de mineral limpio. | Administrador laboral eficiente. |
+| **Sargento Roderick** | Morvath (Comandante Cívico) | Mantiene la disciplina y relevos de la Guardia Cívica en las murallas y pueblos. | Jefe militar local de intachable fidelidad. |
+| **Caballeros de la Corona (Escolta 20 pax)** | Corona de Solaria | Asignados por el Lord Paladín para escoltar a la Sección Uno a través de los pasos montañosos. | Cabalgando en formación de honor. |
+
+### 2. Personajes Mencionados pero Fuera de Escena
+| Personaje | Ubicación / Estado |
+| :--- | :--- |
+| **Zemina** | En Solaria, destinataria de la carta y añoranzas de Vlad. |
+| **Kaoruko, Ken, Yami, Subaru & Clase F-2** | En Solaria o en sus respectivas misiones de largo alcance, esperando el reencuentro de fin de semestre. |
+| **Lord Paladín de la Corona** | En el castillo de Morvath coordinando la transferencia civil formal hacia Julian. |

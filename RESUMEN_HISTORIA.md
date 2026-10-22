@@ -1,7 +1,7 @@
 # RESUMEN HISTÓRICO Y REGISTRO DINÁMICO DE CAPÍTULOS
 ## *El Camino del Reencarnado: Crónicas de Sangre, Acero y Deseo*
 **Autor:** Seier Silva  
-**Última actualización:** Capítulo 75  
+**Última actualización:** Capítulo 76  
 
 ---
 
@@ -175,13 +175,15 @@ Diez años después, forjado en un condicionamiento físico y de maná telúrico
 - **Capítulo 75: El Renacer de Morvath: Justicia, Honor y el Juicio de las Sombras**: Dos semanas de reconstrucción y juicio en Morvath. El tribunal militar de la Corona condena a Valerius a prisión perpetua en Roca-Negra, mientras Raymond fallece por su gangrena demoníaca despojado de honores póstumos. Se ejecuta una purga integral capturando a 40 fanáticos restantes y quemando todo ídolo de Khorne en una gran pira purificadora. Sauceda y Fresnedas son reedificadas con fondos recuperados; las minas se reactivan bajo ventilación enana de Borgar y la inspección de Tarek con condiciones justas. Julian suscribe un histórico tratado con el Consorcio Mercantil del Río Sol respaldado por Vlad y la Corona, abaratando aranceles e impulsando el comercio y grano. La milicia se oficializa como Guardia Cívica de Morvath bajo el mando de Roderick y Garret. En la plaza mayor, el Lord Paladín condecora a la Sección Uno: Seier recibe la *Gran Cruz de Plata* y el título de **Caballero Protector de Morvath**; Vlad el *Laurel Dorado Real*; Akame, Faelar, Borgar y Kaelan méritos de Clase S; y Vance la *Orden de la Espada Justa*, redimiendo su honra. Se devela un emotivo Memorial de mármol a los inocentes y defensores caídos, seguido de un multitudinario banquete popular donde el pueblo agradece y celebra a sus libertadores antes de su marcha triunfal a la capital.
 
 ---
-## 4. Estado Actual de la Trama y del Mundo (Post-Capítulo 75)
-- **Escenario:** Plaza mayor, castillo y mercados de Morvath; celebraciones nocturnas tras dos semanas de reconstrucción civil y militar.
-- **Estatus Político y Económico:**
-  - **Juicio y Purga Concluidos:** Valerius en presidio perpetuo; Raymond fallecido en deshonor; 40 fanáticos capturados y parafernalia de Khorne incinerada.
-  - **Reactivación y Comercio:** Tratado comercial con el Consorcio Mercantil del Río Sol en plena marcha; minas de cobre y hierro seguras bajo la dirección de Tarek e ingeniería de Borgar.
-  - **Guardia Cívica Formalizada:** Comandante Roderick y Maestro Garret al frente de la seguridad local.
-  - **Condecoraciones Reales:** Seier nombrado Caballero Protector de Morvath; Vlad laureado; Vance redimido y la Sección Uno reconocida con méritos máximos imperiales.
-  - **Julian y Leo:** Julian consolidado como Regente amado y tutor protector de su hermano menor Leo.
-- **Próximo Paso Inmediato:** Partida de la Sección Uno de regreso a la Gran Academia Militar y Mágica de Solaria para reportar el éxito de su misión de larga duración.
-- **Periodo Activo:** Cierre de la segunda semana post-liberación de Morvath; vísperas del viaje de retorno.
+- **Capítulo 76: Vientos de Retorno: Lazos Forjados, Despedidas y el Camino a Solaria**: Transcurre la tercera y última semana en Morvath antes de la partida. En la fragua comunal, Borgar y Garret crean equipamiento especial y a medida para la Sección Uno: brazaletes y grebas de hierro negro y cobre para absorber el maná de impacto de Seier, saetas perforantes para Faelar, un nuevo blasón para el escudo de Vlad, una daga de parada para Vance y cotas de malla ligera para Akame y Kaelan. En el patio de armas, Seier instruye al pequeño Leo en postura y resolución marcial, mientras Vance entrena a Julian en esgrima defensiva. La inspección final en Sauceda, Fresnedas y las minas del sur confirma un feudo próspero y seguro: Roderick comanda patrullas ordenadas y Tarek supervisa la extracción de cobre limpio con aire fresco bombeado por los tiros de ventilación enanos. Por la noche en las terrazas, el escuadrón comparte confidencias: Vlad añora a Zemina, Vance agradece haber aprendido el verdadero significado del honor militar, y Akame y Seier reflexionan sobre el sentido de su vocación y el anhelo de reunirse con sus compañeros de la F-2. Al amanecer, más de mil aldeanos despiden a los cadetes en el Portón del Sur; Julian les entrega el salvoconducto de Huéspedes de Honor y Leo le obsequia a Seier un colgante tallado de un león rugiente. Escoltados por veinte caballeros reales, la Sección Uno emprende a caballo el viaje de retorno a la Gran Academia de Solaria.
+
+---
+## 4. Estado Actual de la Trama y del Mundo (Post-Capítulo 76)
+- **Escenario:** Camino real del este hacia la Gran Capital de Solaria; carretas de provisiones y columna de marcha ecuestre flanqueada por caballeros nobles de la Corona.
+- **Estatus de la Sección Uno:**
+  - **Misión de Morvath Concluida:** Expedición de largo alcance finalizada con éxito legendario: tiranía derrocada, herejía purgada, feudo reconstruido y pacificado.
+  - **Lazos de Escuadrón Inquebrantables:** Cohesión absoluta entre Seier, Vlad, Akame, Borgar, Faelar, Kaelan y Vance, borrando toda brecha de linaje o clase.
+  - **Equipamiento Optimizado:** Armamento y protecciones reforzadas con acero y cobre forjados por Borgar y Garret.
+  - **Alianzas Estratégicas:** Amistad perpetua con la Casa Morvath (Regente Julian) y la Guardia Cívica (Comandante Roderick).
+- **Próximo Objetivo:** Arribo a la Gran Academia Militar y Mágica de Solaria, entrega formal de informes al Alto Mando y reencuentro con los compañeros de la F-2 (Kaoruko, Ken, Yami, Subaru, Erza, las chicas de Calydon).
+- **Periodo Activo:** Mañana del inicio del viaje de retorno; tercer semestre en marcha.
