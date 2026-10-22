@@ -14,7 +14,7 @@ Asignado a la despreciada Clase F-2, Seier desafía el orden establecido no a tr
 
 ## Estructura del Repositorio
 
-- **`capitulos/`**: Contiene los documentos individuales formateados (`.docx`) de cada capítulo (Prólogo al Capítulo 71).
+- **`capitulos/`**: Contiene los documentos individuales formateados (`.docx`) de cada capítulo (Prólogo al Capítulo 72).
 - **`compilado/`**: Libro maestro completo (`El_Camino_del_Reencarnado.docx`) con formato editorial, páginas preliminares, fichas de personaje e ilustraciones integradas.
 - **`agregar_capitulo.py`**: Script unificado y general para registrar o sobrescribir capítulos; genera el documento `.docx` individual y recompila automáticamente el libro maestro completo.
 - **`compilar_novela.py`**: Compilador general dinámico que lee directamente todos los capítulos en `capitulos/` y genera el libro maestro sin requerir scripts redundantes.
@@ -51,12 +51,13 @@ Asignado a la despreciada Clase F-2, Seier desafía el orden establecido no a tr
 - **Capítulo 69**: La Sangre y la Ceniza de Sauceda: Justicia Imperial y el Estigma del Caos (Combate sangriento, derrota de Malrik y aseguramiento de la orden del conde)
 - **Capítulo 70**: Ecos de Herejía y el Vuelo del Espíritu: La Guerra Silenciosa de Morvath (Autodestrucción demoníaca del hereje, despacho de auxilio real mediante Ave Mensajera y plan de purga interior)
 - **Capítulo 71**: Raíces de Insurrección: Sombras de Corrupción y el Juramento de los Pueblos (Intercepción de convoy de tráfico humano, exposición de libros contables de hambruna inducida, juramento de Julian en Fresnedas, fundación de la Guardia Popular y mapa de los desagües de Tarek)
+- **Capítulo 72**: Sombras de Acero y Muro Quebrado: La Apertura de las Puertas de Morvath (Infiltración por los drenajes, combate marcial en la guarnición baja, izada del rastrillo, entrada triunfal de la Guardia Popular y el trágico rehén Leo en el castillo alto)
 
 ---
 
 ## Documentación Editorial y de Continuidad
 
-- **[`RESUMEN_HISTORIA.md`](file:///c:/Users/fsilv/OneDrive/Documentos/GitHub/Novela/RESUMEN_HISTORIA.md)**: Resumen histórico dinámico de todos los capítulos (Prólogo al 71) con sinopsis, arcos y guía de actualización para futuros capítulos.
+- **[`RESUMEN_HISTORIA.md`](file:///c:/Users/fsilv/OneDrive/Documentos/GitHub/Novela/RESUMEN_HISTORIA.md)**: Resumen histórico dinámico de todos los capítulos (Prólogo al 72) con sinopsis, arcos y guía de actualización para futuros capítulos.
 - **[`CENSO_PERSONAJES.md`](file:///c:/Users/fsilv/OneDrive/Documentos/GitHub/Novela/CENSO_PERSONAJES.md)**: Censo operativo de personajes por capítulo iniciado desde el Capítulo 47, clasificando quiénes aparecen en escena y qué hacen los personajes en el evento fuera de foco.
 - **[`AUDITORIA_PERSONAJES.md`](file:///c:/Users/fsilv/OneDrive/Documentos/GitHub/Novela/AUDITORIA_PERSONAJES.md)**: Registro exhaustivo de todos los personajes con nombre, facciones, estilos de combate, armas, estado y dinámica con el protagonista.
 - **[`CORRECCION_ERRORES.md`](file:///c:/Users/fsilv/OneDrive/Documentos/GitHub/Novela/CORRECCION_ERRORES.md)**: Auditoría de continuidad y posibles inconsistencias narrativas detectadas en la obra, con soluciones canónicas y reglas de estilo.

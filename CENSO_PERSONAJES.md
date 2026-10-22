@@ -856,3 +856,34 @@
 | **Leo de Morvath** | Rehén vulnerable en las estancias del castillo. |
 | **Sargento Roderick** | Al mando de la retaguardia en Sauceda. |
 | **Espíritu de Ave Mensajera** | Volando veloz hacia la capital imperial con la petición de 100 caballeros nobles reales. |
+
+
+# Censo de Personajes: Capítulo 72
+**Capítulo:** *Sombras de Acero y Muro Quebrado: La Apertura de las Puertas de Morvath*  
+**Ubicación Principal:** Canal de drenaje subterráneo, cuartel de la guardia baja y Portón del Sur (Morvath).  
+**Contexto Operativo:** Infiltración nocturna por los ductos de fundición; combate a corta distancia en la guarnición baja; neutralización del capitán cultista y apertura del rastrillo del Portón del Sur; despliegue de la Guardia Popular en la ciudad baja; ultimátum de Valerius suspendiendo al pequeño Leo sobre el abismo del castillo alto.
+
+### 1. Personajes que APARECEN en Escena
+
+| Personaje | Facción / Rol | Rol / Acción en el Capítulo | Estado al Cierre |
+| :--- | :--- | :--- | :--- |
+| **Seier Silva** | Sección Uno (Líder F-2) | Dirige la infiltración; combate cuerpo a cuerpo aplastando mercenarios con combinaciones de Jeet Kune Do y Muay Thai con maná denso; tranquiliza a Julian y ordena el asalto al castillo. | Implacable, enfocado y listo para asaltar la cima. |
+| **Vlad** | Sección Uno (Aliado F-2) | Revienta la puerta de roble de la guarnición; embiste con su escudo como ariete; apoya con su aura dorada la ofensiva hacia el castillo. | Firme, combativo y protector. |
+| **Akame** | Sección Uno (Clase F-2) | Ejecuta silenciosamente centinelas en el ducto y fulmina a tres guardias con *Murasame*; preparada para la escalada. | Letal, rápida y determinada. |
+| **Julian de Morvath** | Casa Morvath / Guardia Popular | Participa en la primera línea de asalto; neutraliza al capitán en las escaleras; hace sonar el cuerno de guerra y sufre el chantaje por Leo. | Con el corazón desgarrado por su hermano menor pero impulsado por Seier. |
+| **Borgar Yunque-Férreo** | Sección Uno (Enano) | Fuerza la reja del ducto con palanca enana; barre piernas con su martillo; acciona el cabrestante del rastrillo junto a Vance. | Fuerte como una roca y eufórico por el éxito de las puertas. |
+| **Faelar Vaelen** | Sección Uno (Elfo Silvano) | Clava con flecha de viento la mano del capitán para evitar el encendido de la bengala de auxilio. | Francotirador quirúrgico providencial. |
+| **Kaelan Garra-Pardo** | Sección Uno (Semihumano) | Rastrea los olores del ducto; ejecuta silenciosamente al centinela subterráneo. | Depredador nocturno infalible. |
+| **Vance von Holst** | Sección Uno (Noble Menor) | Desarma mercenarios con esgrima aristocrática precisa; opera el cabrestante de las cadenas con Borgar. | Con orgullo marcial renovado y alta efectividad. |
+| **Tarek el Minero** | Facciones Locales (Guía) | Guía al equipo a través del laberinto de aguas negras hasta el corral del cuartel. | Misión cumplida con éxito. |
+| **Garret el Herrero & Guardia Popular** | Fresnedas (Milicia 80 pax) | Cargan con antorchas y lanzas al escuchar el cuerno; aseguran las puertas y barricadas de la plaza baja. | Dueños de las murallas inferiores, leales a Julian. |
+| **Valerius de Morvath** | Casa Morvath / Herejía | Aparece en las almenas superiores del castillo alto con armadura negra; suspende a Leo encadenado sobre el foso y lanza su ultimátum. | Tiránico, desquiciado y acorralado en la cumbre. |
+| **Leo de Morvath** | Casa Morvath (Hijo menor) | Suspendido por cadenas sobre el precipicio del castillo; sollozando aterrorizado ante la multitud. | Cautivo en peligro de muerte inminente. |
+| **Capitán de la Guardia Baja** | Herejía de Khorne | Intenta disparar la bengala de alarma; flechado por Faelar y noqueado por Julian. | Derrotado y prisionero. |
+
+### 2. Personajes Mencionados pero Fuera de Escena
+| Personaje | Ubicación / Estado |
+| :--- | :--- |
+| **Conde Raymond de Morvath** | Oculto o convaleciente dentro del castillo alto, permitiendo la demencia de su primogénito. |
+| **Sargento Roderick** | Manteniendo la base de operaciones y familias seguras en Sauceda. |
+| **100 Caballeros Nobles de la Corona** | En marcha forzada hacia Morvath tras el despacho del Espíritu de Ave. |

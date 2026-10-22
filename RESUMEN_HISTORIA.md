@@ -1,7 +1,7 @@
 # RESUMEN HISTÓRICO Y REGISTRO DINÁMICO DE CAPÍTULOS
 ## *El Camino del Reencarnado: Crónicas de Sangre, Acero y Deseo*
 **Autor:** Seier Silva  
-**Última actualización:** Capítulo 71  
+**Última actualización:** Capítulo 72  
 
 ---
 
@@ -163,12 +163,16 @@ Diez años después, forjado en un condicionamiento físico y de maná telúrico
 - **Capítulo 71: Raíces de Insurrección: Sombras de Corrupción y el Juramento de los Pueblos**: En marcha rápida hacia el pueblo de Fresnedas, Kaelan y Akame detectan un convoy armado de la Casa Morvath. La Sección Uno asalta el convoy en menos de un minuto, abatiendo a los ballesteros y descubriendo una jaula con seis aldeanos atados con cadenas y marcados con estigmas preliminares de Khorne (+18). En los carromatos hallan sacos de trigo confiscados y libros contables secretos que exponen la atroz corrupción del Conde Raymond y Valerius: hambruna provocada artificialmente al 70% de diezmo, venta clandestina de grano para pagar mercenarios y entrega forzada de jóvenes como ganado ritual para el portal minero a cambio de plata demoníaca. Julian se arrodilla desarmado en el lodo frente a los aterrorizados campesinos, asumiendo la culpa de su linaje y prometiendo luchar hasta el final. Al llegar a Fresnedas, Julian pronuncia un conmovedor discurso desde el pozo comunal clavando su espada corta; el herrero Garret y decenas de aldeanos se unen a su causa. Borgar y Garret adaptan la fragua para templar lanzas y alabardas, Vance adiestra la falange de escudos y Faelar instruye a los arqueros, fundando la **Guardia Popular de Julian** (80 combatientes). Al caer la tarde, Tarek, un minero fugitivo, entrega el mapa de los desagües subterráneos que conducen detrás del cuartel de la guardia baja. Seier y Julian sellan el plan: esa misma noche quebrarán el cerco y abrirán los portones de Morvath desde adentro hacia afuera.
 
 ---
-## 4. Estado Actual de la Trama y del Mundo (Post-Capítulo 71)
-- **Escenario:** Plaza y fragua comunal de Fresnedas; preparativos nocturnos en la boca de los antiguos canales de desagüe de Morvath.
+- **Capítulo 72: Sombras de Acero y Muro Quebrado: La Apertura de las Puertas de Morvath**: A medianoche y bajo lluvia helada, el equipo de asalto (Seier, Vlad, Akame, Borgar, Faelar, Kaelan, Vance y Julian) guiado por el minero Tarek se infiltra por el aliviadero de aguas negras bajo las murallas de Morvath. Akame y Kaelan eliminan en silencio a los centinelas subterráneos y Borgar fuerza la reja trasera. Vlad revienta la puerta del cuartel bajo y se desata un combate visceral (+18): Seier destruye a los guardias en corta distancia con técnicas combinadas de Jeet Kune Do y Muay Thai potenciadas con maná denso (codazos, rodillazos demoledores y luxaciones), Akame ejecuta con letalidad sombría, Vlad embiste con su escudo y Vance desarma con precisión aristocrática. Cuando el capitán cultista intenta disparar una bengala de alarma para avisar al castillo, Faelar le atraviesa la mano con una flecha de viento y Julian lo neutraliza. Borgar y Vance accionan el cabrestante principal, levantando el rastrillo del Portón del Sur; Julian hace sonar el cuerno de guerra de su casa y los ochenta aldeanos de la Guardia Popular liderados por Garret cargan e irrumpen en Morvath, tomando control de la plaza baja sin dañar a civiles. Sin embargo, la alarma del castillo alto estalla con tambores de sangre de Khorne: Valerius aparece en las almenas de la ciudadela superior suspendiendo con cadenas al pequeño Leo sobre el abismo y exigiendo la rendición de la ciudad antes del amanecer o sacrificará a su hermano. Seier, Vlad y Akame renuevan su resolución: se preparan para asaltar el castillo y rescatar a Leo.
+
+---
+## 4. Estado Actual de la Trama y del Mundo (Post-Capítulo 72)
+- **Escenario:** Portón del Sur y plaza artesana de la ciudad baja de Morvath; mirada fija hacia la ciudadela superior en el risco.
 - **Estatus Político y Militar:**
-  - Despacho imperial volando hacia la Corona mediante el Espíritu de Ave Mensajera (petición de 100 caballeros nobles reales).
-  - Constitución oficial de la **Guardia Popular de Julian** (80 aldeanos armados y adiestrados con lanzas, escudos y arcos).
-  - Pruebas documentales irrefutables aseguradas: libros contables de extorsión, recibos de contrabando de grano y contratos de sangre de la Casa Morvath con el Culto a Khorne.
-- **Amenaza Inminente:** Valerius reúne a la totalidad de mercenarios en el castillo superior de Morvath tras la caída de Malrik y ordena sellar los portones de la ciudad al anochecer.
-- **Plan Operativo Inmediato:** Infiltración nocturna a través del conducto de desagüe guiados por el minero Tarek para asaltar el cuartel de la guardia baja, neutralizar a los centinelas y abrir los portones principales a la Guardia Popular y a la Sección Uno.
-- **Periodo Activo:** Anochecer del segundo día de misión en el feudo de Morvath.
+  - **Ciudad Baja Liberada:** Guarnición baja neutralizada por la Sección Uno; Portón del Sur abierto de par en par y asegurado por los 80 combatientes de la Guardia Popular de Julian bajo el mando de Garret.
+  - **Civiles Protegidos:** El distrito artesano apoya a Julian tras presenciar la derrota de los mercenarios sin saqueos ni violencia contra inocentes.
+- **Amenaza Crítica Inmediata:**
+  - Valerius y los cultistas de Khorne atrincherados en el castillo alto; tambores de sangre activos.
+  - **Rehén al límite:** El pequeño Leo de Morvath pende encadenado sobre el abismo del risco; ultimátum de muerte al amanecer si no entregan a los cadetes y a Julian.
+- **Plan Operativo Inmediato:** Asalto relámpago nocturno a la ciudadela superior antes del alba para neutralizar a Valerius y rescatar a Leo antes de la llegada de los 100 caballeros nobles reales.
+- **Periodo Activo:** Medianoche avanzada del segundo día de misión en Morvath.
