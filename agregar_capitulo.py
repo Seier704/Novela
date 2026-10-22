@@ -1,17 +1,41 @@
 # -*- coding: utf-8 -*-
+"""
+===============================================================================
+GESTOR UNIFICADO DE CAPÍTULOS - "EL CAMINO DEL REENCARNADO"
+===============================================================================
+Este archivo es la plantilla GENERAL y ÚNICA para agregar o sobrescribir capítulos.
+Para agregar un nuevo capítulo, simplemente edite el diccionario `CAPITULO` con
+el número, título y párrafos correspondientes y ejecute este script:
+    python agregar_capitulo.py
+
+El script automáticamente:
+1. Genera el archivo de texto plano: capitulos/XX_Capitulo_XX.txt
+2. Genera el documento Word individual: capitulos/XX_Capitulo_XX.docx
+3. Recompila el libro maestro completo: compilado/El_Camino_del_Reencarnado.docx
+===============================================================================
+"""
+
 import os
 import sys
+import glob
+import re
 
+# Definición de rutas base
 NOVELA_DIR = r"C:\Users\fsilv\OneDrive\Documentos\GitHub\Novela"
 PROYECTO_DIR = r"c:\Users\fsilv\OneDrive\Documentos\GitHub\Proyecto-Minecraft\Novela"
 
-sys.path.insert(0, NOVELA_DIR)
-if os.path.exists(PROYECTO_DIR):
-    sys.path.insert(0, PROYECTO_DIR)
+for d in [NOVELA_DIR, PROYECTO_DIR]:
+    if os.path.exists(d) and d not in sys.path:
+        sys.path.insert(0, d)
 
 from generar_libro import create_novel_document, create_single_chapter_document
 
-CAPITULO_71 = {
+# ===============================================================================
+# DEFINICIÓN DEL CAPÍTULO A AGREGAR / ACTUALIZAR
+# (Modifique esta sección para cada nuevo capítulo)
+# ===============================================================================
+CAPITULO = {
+    "num": 71,
     "header": "Capítulo 71",
     "title": "Raíces de Insurrección: Sombras de Corrupción y el Juramento de los Pueblos",
     "paragraphs": [
@@ -90,127 +114,141 @@ CAPITULO_71 = {
     ]
 }
 
-def compilar_capitulo_71():
-    print("[*] Iniciando compilacion del Capitulo 71...")
+# ===============================================================================
+# FUNCIONES DE GESTIÓN Y COMPILACIÓN
+# ===============================================================================
+
+def guardar_capitulo_individual(cap_dict, base_dir=NOVELA_DIR):
+    """Guarda el archivo .txt y .docx individual del capítulo."""
+    capitulos_dir = os.path.join(base_dir, "capitulos")
+    os.makedirs(capitulos_dir, exist_ok=True)
     
-    from compilar_novela import PROLOGO, CAPITULO_1
-    from agregar_capitulo_2 import CAPITULO_2
-    from agregar_capitulo_3 import CAPITULO_3
-    from agregar_capitulo_4 import CAPITULO_4
-    from agregar_capitulo_5 import CAPITULO_5
-    from agregar_capitulo_6 import CAPITULO_6
-    from agregar_capitulo_7 import CAPITULO_7
-    from agregar_capitulo_8 import CAPITULO_8
-    from agregar_capitulo_9 import CAPITULO_9
-    from agregar_capitulo_10 import CAPITULO_10
-    from agregar_capitulo_11 import CAPITULO_11
-    from agregar_capitulo_12 import CAPITULO_12
-    from agregar_capitulo_13 import CAPITULO_13
-    from agregar_capitulo_14 import CAPITULO_14
-    from agregar_capitulo_15 import CAPITULO_15
-    from agregar_capitulo_16 import CAPITULO_16
-    from agregar_capitulo_17 import CAPITULO_17
-    from agregar_capitulo_18 import CAPITULO_18
-    from agregar_capitulo_19 import CAPITULO_19
-    from agregar_capitulo_20 import CAPITULO_20
-    from agregar_capitulo_21 import CAPITULO_21
-    from agregar_capitulo_22 import CAPITULO_22
-    from agregar_capitulo_23 import CAPITULO_23
-    from agregar_capitulo_24 import CAPITULO_24
-    from agregar_capitulo_25 import CAPITULO_25
-    from agregar_capitulo_26 import CAPITULO_26
-    from agregar_capitulo_27 import CAPITULO_27
-    from agregar_capitulo_28 import CAPITULO_28
-    from agregar_capitulo_29 import CAPITULO_29
-    from agregar_capitulo_30 import CAPITULO_30
-    from agregar_capitulo_31 import CAPITULO_31
-    from agregar_capitulo_32 import CAPITULO_32
-    from agregar_capitulo_33 import CAPITULO_33
-    from agregar_capitulo_34 import CAPITULO_34
-    from agregar_capitulo_35 import CAPITULO_35
-    from agregar_capitulo_36 import CAPITULO_36
-    from agregar_capitulo_37 import CAPITULO_37
-    from agregar_capitulo_38 import CAPITULO_38
-    from agregar_capitulo_39 import CAPITULO_39
-    from agregar_capitulo_40 import CAPITULO_40
-    from agregar_capitulo_41 import CAPITULO_41
-    from agregar_capitulo_42 import CAPITULO_42
-    from agregar_capitulo_43 import CAPITULO_43
-    from agregar_capitulo_44 import CAPITULO_44
-    from agregar_capitulo_45 import CAPITULO_45
-    from agregar_capitulo_46 import CAPITULO_46
-    from agregar_capitulo_47 import CAPITULO_47
-    from agregar_capitulo_48 import CAPITULO_48
-    from agregar_capitulo_49 import CAPITULO_49
-    from agregar_capitulo_50 import CAPITULO_50
-    from agregar_capitulo_51 import CAPITULO_51
-    from agregar_capitulo_52 import CAPITULO_52
-    from agregar_capitulo_53 import CAPITULO_53
-    from agregar_capitulo_54 import CAPITULO_54
-    from agregar_capitulo_55 import CAPITULO_55
-    from agregar_capitulo_56 import CAPITULO_56
-    from agregar_capitulo_57 import CAPITULO_57
-    from agregar_capitulo_58 import CAPITULO_58
-    from agregar_capitulo_59 import CAPITULO_59
-    from agregar_capitulo_60 import CAPITULO_60
-    from agregar_capitulo_61 import CAPITULO_61
-    from agregar_capitulo_62 import CAPITULO_62
-    from agregar_capitulo_63 import CAPITULO_63
-    from agregar_capitulo_64 import CAPITULO_64
-    from agregar_capitulo_65 import CAPITULO_65
-    from agregar_capitulo_66 import CAPITULO_66
-    from agregar_capitulo_67 import CAPITULO_67
-    from agregar_capitulo_68 import CAPITULO_68
-    from agregar_capitulo_69 import CAPITULO_69
-    from agregar_capitulo_70 import CAPITULO_70
-    from agregar_capitulo_71 import CAPITULO_71
+    num = cap_dict.get("num", 0)
+    if num == 0 or "PROLOGO" in cap_dict.get("header", "").upper() or "PRÓLOGO" in cap_dict.get("header", "").upper():
+        base_name = "00_Prologo"
+    else:
+        base_name = f"{num:02d}_Capitulo_{num}"
+        
+    # 1. Guardar TXT
+    txt_path = os.path.join(capitulos_dir, f"{base_name}.txt")
+    with open(txt_path, "w", encoding="utf-8") as f:
+        f.write(f"=== {cap_dict['header'].upper()}: {cap_dict['title'].upper()} ===\n\n")
+        f.write("\n\n".join(cap_dict["paragraphs"]))
+    print(f"[OK] Archivo de texto guardado:\n  {txt_path}")
     
+    # 2. Guardar DOCX individual
+    docx_path = os.path.join(capitulos_dir, f"{base_name}.docx")
+    create_single_chapter_document(
+        cap_dict,
+        docx_path,
+        novel_title="El camino del reencarnado",
+        author="Seier Silva"
+    )
+    print(f"[OK] Documento Word individual guardado:\n  {docx_path}")
+    return txt_path, docx_path
+
+
+def cargar_todos_los_capitulos(base_dir=NOVELA_DIR):
+    """Lee todos los capítulos desde la carpeta capitulos/*.txt en orden numérico."""
+    capitulos_dir = os.path.join(base_dir, "capitulos")
+    txt_files = sorted(glob.glob(os.path.join(capitulos_dir, "*.txt")))
+    
+    # Intentar cargar mapa de ilustraciones
+    ilustraciones = {}
+    try:
+        from ilustraciones_capitulos import ILUSTRACIONES_POR_CAPITULO
+        ilustraciones = ILUSTRACIONES_POR_CAPITULO
+    except Exception:
+        pass
+        
+    lista_capitulos = []
+    
+    for fpath in txt_files:
+        filename = os.path.basename(fpath)
+        num = None
+        m_num = re.match(r"^(\d+)_", filename)
+        if m_num:
+            num = int(m_num.group(1))
+            
+        with open(fpath, "r", encoding="utf-8") as f:
+            content = f.read().strip()
+            
+        lines = content.split("\n")
+        header_line = lines[0].strip()
+        
+        m = re.match(r"^===\s*(.*?)\s*:\s*(.*?)\s*===$", header_line)
+        if m:
+            raw_header = m.group(1).strip()
+            raw_title = m.group(2).strip()
+            
+            if "PROLOGO" in raw_header.upper() or "PRÓLOGO" in raw_header.upper():
+                header = "Prólogo"
+            else:
+                m_cap = re.search(r"(\d+)", raw_header)
+                header = f"Capítulo {m_cap.group(1)}" if m_cap else raw_header.title()
+                
+            title = raw_title.title()
+            for w in [" De ", " Del ", " Y ", " En ", " Por ", " Con ", " Para ", " Un ", " Una ", " La ", " Las ", " El ", " Los ", " Al ", " A "]:
+                title = title.replace(w, w.lower())
+        else:
+            header = "Capítulo"
+            title = header_line.replace("=", "").strip()
+            
+        rest = "\n".join(lines[1:]).strip()
+        paragraphs = [p.strip() for p in re.split(r"\n\s*\n", rest) if p.strip()]
+        
+        chap_dict = {
+            "header": header,
+            "title": title,
+            "paragraphs": paragraphs
+        }
+        
+        # Asociar ilustraciones
+        if num in ilustraciones:
+            illus_info = ilustraciones[num]
+            if "illustrations" in illus_info:
+                chap_dict["illustrations"] = illus_info["illustrations"]
+            elif "illustration" in illus_info:
+                chap_dict["illustration"] = illus_info["illustration"]
+                chap_dict["illustration_caption"] = illus_info.get("illustration_caption", "")
+                
+        lista_capitulos.append(chap_dict)
+        
+    return lista_capitulos
+
+
+def compilar_libro_completo(base_dir=NOVELA_DIR):
+    """Recompila el libro maestro completo con todos los capítulos existentes."""
     titulo = "El camino del reencarnado"
     subtitulo = "Crónicas de Sangre, Acero y Deseo"
     autor = "Seier Silva"
-    capitulos = [
-        PROLOGO, CAPITULO_1, CAPITULO_2, CAPITULO_3, CAPITULO_4,
-        CAPITULO_5, CAPITULO_6, CAPITULO_7, CAPITULO_8, CAPITULO_9,
-        CAPITULO_10, CAPITULO_11, CAPITULO_12, CAPITULO_13, CAPITULO_14,
-        CAPITULO_15, CAPITULO_16, CAPITULO_17, CAPITULO_18, CAPITULO_19,
-        CAPITULO_20, CAPITULO_21, CAPITULO_22, CAPITULO_23, CAPITULO_24,
-        CAPITULO_25, CAPITULO_26, CAPITULO_27, CAPITULO_28, CAPITULO_29,
-        CAPITULO_30, CAPITULO_31, CAPITULO_32, CAPITULO_33, CAPITULO_34,
-        CAPITULO_35, CAPITULO_36, CAPITULO_37, CAPITULO_38, CAPITULO_39,
-        CAPITULO_40, CAPITULO_41, CAPITULO_42, CAPITULO_43, CAPITULO_44,
-        CAPITULO_45, CAPITULO_46, CAPITULO_47, CAPITULO_48, CAPITULO_49,
-        CAPITULO_50, CAPITULO_51, CAPITULO_52, CAPITULO_53, CAPITULO_54,
-        CAPITULO_55, CAPITULO_56, CAPITULO_57, CAPITULO_58, CAPITULO_59,
-        CAPITULO_60, CAPITULO_61, CAPITULO_62, CAPITULO_63, CAPITULO_64,
-        CAPITULO_65, CAPITULO_66, CAPITULO_67, CAPITULO_68, CAPITULO_69,
-        CAPITULO_70, CAPITULO_71
-    ]
     
-    capitulos_dir = os.path.join(NOVELA_DIR, "capitulos")
-    os.makedirs(capitulos_dir, exist_ok=True)
+    capitulos = cargar_todos_los_capitulos(base_dir)
+    print(f"[*] Compilando Libro Maestro con {len(capitulos)} capítulos...")
     
-    # 1. Guardar texto plano del Capítulo 71
-    txt_cap71 = os.path.join(capitulos_dir, "71_Capitulo_71.txt")
-    with open(txt_cap71, "w", encoding="utf-8") as f:
-        f.write(f"=== {CAPITULO_71['header'].upper()}: {CAPITULO_71['title'].upper()} ===\n\n")
-        f.write("\n\n".join(CAPITULO_71['paragraphs']))
-    print(f"[OK] Texto plano Capítulo 71 guardado en:\n  {txt_cap71}")
+    compilado_dir = os.path.join(base_dir, "compilado")
+    os.makedirs(compilado_dir, exist_ok=True)
+    master_docx = os.path.join(compilado_dir, "El_Camino_del_Reencarnado.docx")
     
-    # 2. Guardar Word (.docx) individual del Capítulo 71
-    docx_cap71 = os.path.join(capitulos_dir, "71_Capitulo_71.docx")
-    create_single_chapter_document(CAPITULO_71, docx_cap71, novel_title=titulo, author=autor)
-    print(f"[OK] Word individual Capítulo 71 guardado en:\n  {docx_cap71}")
-    
-    # 3. Guardar Libro Maestro Completo (Prólogo + Cap 1 a 71)
-    master_docx = os.path.join(NOVELA_DIR, "compilado", "El_Camino_del_Reencarnado.docx")
     try:
         create_novel_document(titulo, subtitulo, autor, capitulos, master_docx)
-        print(f"[OK] Libro Maestro actualizado en:\n  {master_docx}")
+        print(f"[OK] Libro Maestro actualizado exitosamente en:\n  {master_docx}")
     except PermissionError:
         print(f"[AVISO] '{master_docx}' está abierto en Microsoft Word.")
-        backup_master = os.path.join(NOVELA_DIR, "compilado", "El_Camino_del_Reencarnado_temp.docx")
+        backup_master = os.path.join(compilado_dir, "El_Camino_del_Reencarnado_temp.docx")
         create_novel_document(titulo, subtitulo, autor, capitulos, backup_master)
         print(f"[OK] Guardado en copia auxiliar:\n  {backup_master}")
 
+
+def ejecutar():
+    print("===============================================================")
+    print(f" AGREGAR / ACTUALIZAR: {CAPITULO['header']} - {CAPITULO['title']}")
+    print("===============================================================")
+    guardar_capitulo_individual(CAPITULO, NOVELA_DIR)
+    compilar_libro_completo(NOVELA_DIR)
+    print("===============================================================")
+    print(" ¡PROCESO COMPLETADO EXITOSAMENTE!")
+    print("===============================================================")
+
 if __name__ == "__main__":
-    compilar_capitulo_71()
+    ejecutar()
