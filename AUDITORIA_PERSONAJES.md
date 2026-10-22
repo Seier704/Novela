@@ -349,6 +349,14 @@
 
 ---
 
+
+### **Lord Paladín de la Corona & Cien Caballeros Nobles**
+- **Facción / Origen:** Orden Real del Palacio de Solaria / Ejército Regular de la Corona.
+- **Armamento y Rango:** Comandante montado con armadura ceremonial blanca y dorada; 100 caballeros nobles de caballería pesada con bardas de acero y pendones del Sol Radiante.
+- **Rol en la Trama:** Arriban a Morvath tras recibir el despacho transportado por el Espíritu de Ave Mensajera de Faelar; son recibidos por Julian como Regente y por la Sección Uno victoriosa, asumiendo la custodia de los prisioneros (Valerius y Raymond) y formalizando el tribunal real de justicia.
+
+---
+
 ## 11. Fuerzas Enemigas y Amenazas Oscuras (Segundo Semestre)
 
 ### **Culto del Caos a Khorne (El Dios de la Sangre)**

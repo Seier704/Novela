@@ -1,7 +1,7 @@
 # RESUMEN HISTÓRICO Y REGISTRO DINÁMICO DE CAPÍTULOS
 ## *El Camino del Reencarnado: Crónicas de Sangre, Acero y Deseo*
 **Autor:** Seier Silva  
-**Última actualización:** Capítulo 73  
+**Última actualización:** Capítulo 74  
 
 ---
 
@@ -169,13 +169,15 @@ Diez años después, forjado en un condicionamiento físico y de maná telúrico
 - **Capítulo 73: Asedio a la Cumbre Oscura: Sangre en las Almenas y el Rescate de Leo**: Ante el ultimátum de Valerius de arrojar al pequeño Leo de doce años al abismo, la Sección Uno ejecuta un asalto en dos frentes: Vlad, Vance, Borgar y la Guardia Popular fingen una embestida frontal por la rampa atrayendo el fuego de brea y virotes, mientras Seier, Akame, Kaelan, Faelar y Julian escalan en silencio el escarpado Risco del Buitre. En el momento en que Valerius se dispone a cortar la cadena con su montante, Faelar desvía la hoja con una flecha de viento y Akame decapita a los centinelas. La cadena se suelta al vacío, pero Seier se arroja sobre las almenas y la atrapa con sus manos desnudas, canalizando su masa y maná telúrico para izar al niño sobre el parapeto y entregárselo a Julian (+18). Vlad revienta el portón superior y se desata la batalla final en la ciudadela: Valerius, enloquecido por elixires oscuros de Khorne, ataca con furia berserker pero Seier lo supera con el pragmatismo marcial del Jeet Kune Do y el Muay Thai (desvíos de hombro, ganchos al hígado, agarre de cuello y demoledores rodillazos que destrozan su armadura negra). Julian noquea a su hermano con el pomo de su espada, rehusando matarlo para que enfrente la justicia imperial. Al irrumpir en el torreón, descubren al Conde Raymond postrado en cama, carcomido y patético por la degeneración física de sus pactos oscuros; Julian le arrebata el anillo de sello y asume la regencia del feudo. Al amanecer, Morvath celebra su liberación, pero Tarek advierte que el portal de Khorne en las minas del sur sigue activo y debe ser sellado antes del mediodía.
 
 ---
-## 4. Estado Actual de la Trama y del Mundo (Post-Capítulo 73)
-- **Escenario:** Terrazas del castillo alto de Morvath; banderas de la Academia Imperial y el pendón de plata de Julian ondeando al sol matinal.
-- **Estatus Político y Familiar:**
-  - **Ciudadela y Ciudad Pacificadas:** El castillo alto y la ciudad baja están bajo el control indiscutido de la Sección Uno y la Guardia Popular.
-  - **Valerius de Morvath:** Derrotado físicamente por Seier, desarmado y encadenado con hierro frío para responder ante el tribunal de la Corona.
-  - **Conde Raymond de Morvath:** Despojado del anillo condal por Julian; postrado y consumido por la peste y la corrupción demoníaca.
-  - **Leo de Morvath:** Rescatado ileso del abismo por Seier y Julian; bajo protección de la milicia.
-  - **Julian de Morvath:** Consolidado como Regente legítimo y protector venerado de Morvath.
-- **Objetivo Final Pendiente:** Incursión relámpago a las minas del sur para destruir el altar central y sellar el portal dimensional de Khorne antes de la llegada de los 100 caballeros nobles reales.
-- **Periodo Activo:** Mañana del tercer día de misión en Morvath.
+- **Capítulo 74: Sangre en las Profundidades: El Altar de Bronce y la Llegada de los Cien**: La Sección Uno, Julian y Tarek descienden a las fundiciones sulfurosas de las minas del sur antes del mediodía. En una colosal caverna sobre un lago de cobre fundido, descubren el gigantesco Altar de Bronce de Khorne y un vórtice dimensional a punto de desatarse. Faelar y Akame barren a los acólitos desde las alturas, mientras Borgar y Vance defienden el puente de acceso con martillo y estoque. Un Juggernaut demoníaco menor cruza la brecha y Vlad frena su embestida en seco con su escudo bendecido; Seier salta sobre la bestia y pulveriza su cráneo de metal con golpes concentrados de maná telúrico (+18). En el combate contra el Sumo Sacerdote de la Sangre, Seier aplica la luxación y los rodillazos de Muay Thai y Jeet Kune Do, y Julian atraviesa el corazón del hereje con su espada ancestral. Identificando la cuña de carga del altar gracias a Borgar, Seier, Vlad y Julian asestan un golpe triple que hunde la estructura en el magma, colapsando y sellando el portal para siempre. Al emerger a la superficie bajo un cielo despejado, tocan clarines dorados: los **Cien Caballeros Nobles de la Corona** liderados por un Lord Paladín real llegan a Morvath. El emisario de la corte contempla la paz restablecida, los tiranos apresados y saluda con respeto militar a Julian como Regente y a los cadetes de la Sección Uno por su rotunda victoria.
+
+---
+## 4. Estado Actual de la Trama y del Mundo (Post-Capítulo 74)
+- **Escenario:** Valle abierto frente a las murallas de Morvath; campamento imperial y formación de honor de la caballería real.
+- **Estatus Político y Militar:**
+  - **Misión de Morvath Cumplida:** Campaña asimétrica de larga duración completada con éxito rotundo: tiranos destituidos, conspiración desmantelada, culto de Khorne purgado y portal sellado sin bajas en la Sección Uno ni en los civiles.
+  - **Llegada del Refuerzo Real:** Los 100 Caballeros Nobles de la Corona toman la custodia formal de los prisioneros (Conde Raymond y Valerius de Morvath) para su juicio ante el tribunal marcial del Rey.
+  - **Gobierno Consolidado:** Julian de Morvath es reconocido oficialmente como Regente del feudo por el Lord Paladín de la Corona; el pequeño Leo está a salvo y la Guardia Popular es condecorada como milicia cívica oficial.
+  - **Reputación de la Sección Uno:** Seier, Vlad, Akame, Borgar, Faelar, Kaelan y Vance se consolidan como una fuerza de élite con renombre militar imperial.
+- **Próximos Pasos:** Preparativos para el retorno triunfal a la Academia Militar de Solaria o informe del segundo semestre.
+- **Periodo Activo:** Mediodía del tercer día de misión; conclusión triunfal de la crisis de Morvath.

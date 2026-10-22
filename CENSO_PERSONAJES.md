@@ -917,3 +917,34 @@
 | :--- | :--- |
 | **Sargento Roderick** | En Sauceda, asegurando la retaguardia civil. |
 | **100 Caballeros Nobles de la Corona** | En camino forzado hacia Morvath. |
+
+
+# Censo de Personajes: Capítulo 74
+**Capítulo:** *Sangre en las Profundidades: El Altar de Bronce y la Llegada de los Cien*  
+**Ubicación Principal:** Gran caverna de fundición y Altar de Khorne (Minas del Sur de Morvath); llanura exterior y murallas de Morvath.  
+**Contexto Operativo:** Incursión subterránea final al pozo de cobre líquido; combate contra el Juggernaut y el Sumo Sacerdote de Khorne; demolición del pilar de soporte del altar y sellado definitivo de la brecha dimensional; arribo de los 100 Caballeros Nobles de la Corona y entrega formal del feudo bajo la regencia de Julian.
+
+### 1. Personajes que APARECEN en Escena
+
+| Personaje | Facción / Rol | Rol / Acción en el Capítulo | Estado al Cierre |
+| :--- | :--- | :--- | :--- |
+| **Seier Silva** | Sección Uno (Líder F-2) | Dirige el asalto en cuña; destruye al Juggernaut con maná denso y luxación marcial; quiebra la guardia del sacerdote; asesta la patada telúrica que derriba el pilar del altar. | Comandante supremo consagrado, respetado por la corte real. |
+| **Vlad** | Sección Uno (Aliado F-2) | Resiste la embestida a toda potencia del Juggernaut con su escudo y aura dorada; golpea la cuña del altar con su espada bastarda. | Baluarte inquebrantable de la Orden del León. |
+| **Akame** | Sección Uno (Clase F-2) | Se infiltra por las pasarelas superiores; decapita acólitos con *Murasame* frenando el ritual de sangre. | Serena, letal y protectora. |
+| **Julian de Morvath** | Casa Morvath (Regente) | Clava su espada en el corazón del Sumo Sacerdote; asesta el golpe final al altar; recibe con dignidad al contingente de caballeros reales. | Consagrado como Regente indiscutido y amado por su pueblo. |
+| **Borgar Yunque-Férreo** | Sección Uno (Enano) | Quiebra el puente de acceso arrojando herejes al cobre fundido; identifica la cuña de carga del pilar del altar. | Maestro táctico y combatiente imparable. |
+| **Faelar Vaelen** | Sección Uno (Elfo Silvano) | Francotirador perimetral; desata vendavales con sus flechas interrumpiendo el coro ritual. | Mago-arquero de precisión absoluta. |
+| **Kaelan Garra-Pardo** | Sección Uno (Semihumano) | Detecta la posición del altar por olfato y oído; abate guardias en la entrada del socavón. | Rastreador infalible. |
+| **Vance von Holst** | Sección Uno (Noble Menor) | Sostiene el puente de cadenas con esgrima implacable, eliminando herejes con estocadas limpias. | Héroe aristocrático con honor plenamente reivindicado. |
+| **Tarek el Minero** | Facciones Locales (Guía) | Conduce al escuadrón a través de los laberintos sulfurosos hasta la cámara del magma. | Libre y celebrado por su valentía. |
+| **Sumo Sacerdote de Khorne** | Culto del Caos | Comandante del ritual de sangre; desarmado por Seier y ejecutado por Julian. | Muerto en el altar. |
+| **Juggernaut de Bronce** | Engendro del Abismo | Bestia demoníaca menor frenada por Vlad y destrozada a golpes de maná por Seier. | Pulverizado y desvanecido. |
+| **Lord Paladín de la Corona** | Corona de Solaria | Comandante de la vanguardia real con armadura blanca y dorada; saluda con respeto militar a Julian y a la Sección Uno. | Impresionado y formalizando la ley marcial real. |
+| **100 Caballeros Nobles** | Real Ejército de Solaria | Contingente de caballería pesada con estandartes dorados; asumen la custodia de Raymond y Valerius. | Desplegados en formación de honor. |
+
+### 2. Personajes Mencionados pero Fuera de Escena
+| Personaje | Ubicación / Estado |
+| :--- | :--- |
+| **Leo de Morvath** | Seguro en el castillo alto bajo el cuidado de la milicia. |
+| **Conde Raymond & Valerius** | Encadenados en los calabozos de Morvath a la espera del juicio de la Corona. |
+| **Sargento Roderick & Garret** | Celebrando en las plazas de Sauceda y Fresnedas junto al pueblo liberado. |
