@@ -14,9 +14,9 @@ Asignado a la despreciada Clase F-2, Seier desafía el orden establecido no a tr
 
 ## Estructura del Repositorio
 
-- **`capitulos/`**: Contiene los textos planos (`.txt`) y documentos individuales formateados (`.docx`) de cada capítulo (Prólogo al Capítulo 71).
+- **`capitulos/`**: Contiene los documentos individuales formateados (`.docx`) de cada capítulo (Prólogo al Capítulo 71).
 - **`compilado/`**: Libro maestro completo (`El_Camino_del_Reencarnado.docx`) con formato editorial, páginas preliminares, fichas de personaje e ilustraciones integradas.
-- **`agregar_capitulo.py`**: Script unificado y general para registrar o sobrescribir capítulos; genera el texto plano, el documento `.docx` individual y recompila automáticamente el libro maestro completo.
+- **`agregar_capitulo.py`**: Script unificado y general para registrar o sobrescribir capítulos; genera el documento `.docx` individual y recompila automáticamente el libro maestro completo.
 - **`compilar_novela.py`**: Compilador general dinámico que lee directamente todos los capítulos en `capitulos/` y genera el libro maestro sin requerir scripts redundantes.
 - **`ilustraciones_capitulos.py`**: Módulo centralizado con los registros e inserciones de ilustraciones oficiales por capítulo.
 

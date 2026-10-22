@@ -9,9 +9,8 @@ el número, título y párrafos correspondientes y ejecute este script:
     python agregar_capitulo.py
 
 El script automáticamente:
-1. Genera el archivo de texto plano: capitulos/XX_Capitulo_XX.txt
-2. Genera el documento Word individual: capitulos/XX_Capitulo_XX.docx
-3. Recompila el libro maestro completo: compilado/El_Camino_del_Reencarnado.docx
+1. Genera el documento Word individual: capitulos/XX_Capitulo_XX.docx
+2. Recompila el libro maestro completo: compilado/El_Camino_del_Reencarnado.docx
 ===============================================================================
 """
 
@@ -19,6 +18,7 @@ import os
 import sys
 import glob
 import re
+import docx
 
 # Definición de rutas base
 NOVELA_DIR = r"C:\Users\fsilv\OneDrive\Documentos\GitHub\Novela"
@@ -119,7 +119,7 @@ CAPITULO = {
 # ===============================================================================
 
 def guardar_capitulo_individual(cap_dict, base_dir=NOVELA_DIR):
-    """Guarda el archivo .txt y .docx individual del capítulo."""
+    """Guarda el archivo .docx individual del capítulo."""
     capitulos_dir = os.path.join(base_dir, "capitulos")
     os.makedirs(capitulos_dir, exist_ok=True)
     
@@ -129,14 +129,6 @@ def guardar_capitulo_individual(cap_dict, base_dir=NOVELA_DIR):
     else:
         base_name = f"{num:02d}_Capitulo_{num}"
         
-    # 1. Guardar TXT
-    txt_path = os.path.join(capitulos_dir, f"{base_name}.txt")
-    with open(txt_path, "w", encoding="utf-8") as f:
-        f.write(f"=== {cap_dict['header'].upper()}: {cap_dict['title'].upper()} ===\n\n")
-        f.write("\n\n".join(cap_dict["paragraphs"]))
-    print(f"[OK] Archivo de texto guardado:\n  {txt_path}")
-    
-    # 2. Guardar DOCX individual
     docx_path = os.path.join(capitulos_dir, f"{base_name}.docx")
     create_single_chapter_document(
         cap_dict,
@@ -145,13 +137,13 @@ def guardar_capitulo_individual(cap_dict, base_dir=NOVELA_DIR):
         author="Seier Silva"
     )
     print(f"[OK] Documento Word individual guardado:\n  {docx_path}")
-    return txt_path, docx_path
+    return docx_path
 
 
 def cargar_todos_los_capitulos(base_dir=NOVELA_DIR):
-    """Lee todos los capítulos desde la carpeta capitulos/*.txt en orden numérico."""
+    """Lee todos los capítulos directamente desde la carpeta capitulos/*.docx."""
     capitulos_dir = os.path.join(base_dir, "capitulos")
-    txt_files = sorted(glob.glob(os.path.join(capitulos_dir, "*.txt")))
+    docx_files = sorted(glob.glob(os.path.join(capitulos_dir, "*.docx")))
     
     # Intentar cargar mapa de ilustraciones
     ilustraciones = {}
@@ -163,40 +155,33 @@ def cargar_todos_los_capitulos(base_dir=NOVELA_DIR):
         
     lista_capitulos = []
     
-    for fpath in txt_files:
+    for fpath in docx_files:
         filename = os.path.basename(fpath)
         num = None
         m_num = re.match(r"^(\d+)_", filename)
         if m_num:
             num = int(m_num.group(1))
             
-        with open(fpath, "r", encoding="utf-8") as f:
-            content = f.read().strip()
+        doc = docx.Document(fpath)
+        if not doc.paragraphs:
+            continue
             
-        lines = content.split("\n")
-        header_line = lines[0].strip()
+        title_p = doc.paragraphs[0].text.strip()
+        parts = title_p.split("\n")
+        header = parts[0].strip() if len(parts) > 0 else "Capítulo"
+        title = parts[1].strip() if len(parts) > 1 else ""
         
-        m = re.match(r"^===\s*(.*?)\s*:\s*(.*?)\s*===$", header_line)
-        if m:
-            raw_header = m.group(1).strip()
-            raw_title = m.group(2).strip()
+        paragraphs = []
+        for p in doc.paragraphs[1:]:
+            t = p.text.strip()
+            if not t:
+                continue
+            if t in ["— ✦ —", "— ◆ —", "✦ ✦ ✦", "— ✧ —"]:
+                continue
+            if t.startswith("Ilustración:") or t.startswith("Ilustracion:"):
+                continue
+            paragraphs.append(t)
             
-            if "PROLOGO" in raw_header.upper() or "PRÓLOGO" in raw_header.upper():
-                header = "Prólogo"
-            else:
-                m_cap = re.search(r"(\d+)", raw_header)
-                header = f"Capítulo {m_cap.group(1)}" if m_cap else raw_header.title()
-                
-            title = raw_title.title()
-            for w in [" De ", " Del ", " Y ", " En ", " Por ", " Con ", " Para ", " Un ", " Una ", " La ", " Las ", " El ", " Los ", " Al ", " A "]:
-                title = title.replace(w, w.lower())
-        else:
-            header = "Capítulo"
-            title = header_line.replace("=", "").strip()
-            
-        rest = "\n".join(lines[1:]).strip()
-        paragraphs = [p.strip() for p in re.split(r"\n\s*\n", rest) if p.strip()]
-        
         chap_dict = {
             "header": header,
             "title": title,
@@ -218,13 +203,13 @@ def cargar_todos_los_capitulos(base_dir=NOVELA_DIR):
 
 
 def compilar_libro_completo(base_dir=NOVELA_DIR):
-    """Recompila el libro maestro completo con todos los capítulos existentes."""
+    """Recompila el libro maestro completo a partir de todos los .docx de capitulos/."""
     titulo = "El camino del reencarnado"
     subtitulo = "Crónicas de Sangre, Acero y Deseo"
     autor = "Seier Silva"
     
     capitulos = cargar_todos_los_capitulos(base_dir)
-    print(f"[*] Compilando Libro Maestro con {len(capitulos)} capítulos...")
+    print(f"[*] Compilando Libro Maestro con {len(capitulos)} capítulos (desde .docx)...")
     
     compilado_dir = os.path.join(base_dir, "compilado")
     os.makedirs(compilado_dir, exist_ok=True)
