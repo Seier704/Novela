@@ -1011,3 +1011,36 @@
 | **Zemina** | En Solaria, destinataria de la carta y añoranzas de Vlad. |
 | **Kaoruko, Ken, Yami, Subaru & Clase F-2** | En Solaria o en sus respectivas misiones de largo alcance, esperando el reencuentro de fin de semestre. |
 | **Lord Paladín de la Corona** | En el castillo de Morvath coordinando la transferencia civil formal hacia Julian. |
+
+
+# Censo de Personajes: Capítulo 77
+**Capítulo:** *Retorno a las Torres Blancas: Abrazos, Fuego y Camaradería*  
+**Ubicación Principal:** Puertas de Solaria, patio de residencias de la Academia y taberna *La Jarra Plateada*.  
+**Contexto Operativo:** Arribo de la Sección Uno a la Gran Academia tras la campaña de Morvath; reencuentros románticos y marciales con Kaoruko, Zemina, Ken, Yami, Caesar, Subaru, Lucy, Erza y Agnes; integración de Borgar, Faelar, Kaelan y Vance; gran banquete de bienvenida en la posada central.
+
+### 1. Personajes que APARECEN en Escena
+
+| Personaje | Facción / Rol | Rol / Acción en el Capítulo | Estado al Cierre |
+| :--- | :--- | :--- | :--- |
+| **Seier Silva** | Clase F-2 / Líder Sección Uno | Llega a caballo a Solaria; abraza y besa apasionadamente a Kaoruko; choca antebrazos con Ken; preside el brindis de hermandad en la taberna. | Héroe respetado, feliz y en plenitud con su pareja y amigos. |
+| **Kaoruko Waguri** | Clase F-2 (Pareja de Seier) | Corre llorando de alivio al patio; abraza y besa a Seier; sostiene su mano entrelazada bajo la mesa del banquete. | Radiante, enamorada y aliviada tras semanas de angustia. |
+| **Vlad** | Aliado F-2 / Sección Uno | Desmonta eufórico; levanta en vilo y besa apasionadamente a Zemina; comparte confidencias románticas en la taberna. | Condecorado, profundamente enamorado y dichoso. |
+| **Zemina** | Nobleza de Solaria | Recibe a Vlad con sonrojo y pasión desinhibida en el patio; comparte la velada a su lado. | Feliz de tener a su caballero de regreso a salvo. |
+| **Ken** | Clase F-2 (Artista Marcial de Fuego) | Sale del gimnasio con aura humeante; choca antebrazos con Seier y lo reta a duelo amistoso para medir sus nuevas grebas. | Fuerte, enérgico y ansioso por combatir con Seier. |
+| **Akame** | Clase F-2 / Sección Uno | Regresa serena; comparte sonrisas con Lucy; disfruta del banquete de carnes asadas con tranquilidad. | Confiada, descansada y parte vital del grupo. |
+| **Yami** | Clase F-2 (Guerrera) | Saluda con ironía y orgullo a Seier; acoge con franqueza a Vance en el grupo. | Pícara, fuerte y protectora de su gente. |
+| **Caesar King** | Clase F-2 (Hijos de Calydon) | Palmadas de oso a Seier y Vlad; invita la cerveza en la taberna celebrando las agallas del grupo. | Festivo, líder indiscutible de las juergas. |
+| **Natsuki Subaru** | Clase F-2 (Líder Auxiliar) | Saluda con dramatismo y entusiasmo; relata su propia misión en los pantanos; brinda con Vance. | Alegre, carismático y amigo incondicional. |
+| **Lucy** | Clase F-2 (Hijos de Calydon) | Sonríe relajada junto a Subaru; saluda con calidez a Akame y Seier. | Dulce, tranquila y disfrutando de la paz. |
+| **Erza Scarlet** | Aliada / Academia | Revisa con rigor profesional las armas de la Sección Uno felicitándolos por su estándar militar. | Marcial, orgullosa y respetuosa del escuadrón. |
+| **Agnes Tachyon** | Maga Experimental | Bombardea a Faelar a preguntas sobre las fluctuaciones mágicas del portal de Khorne. | Intelectualmente extasiada con los datos del abismo. |
+| **Borgar Yunque-Férreo** | Sección Uno (Enano) | Compite en pulsos contra Ken y Caesar en la taberna; se integra de lleno con el grupo. | Borracho, eufórico y adoptado por la F-2. |
+| **Faelar Vaelen** | Sección Uno (Elfo Silvano) | Toca su flauta de madera en el banquete; conversa de botánica con Erza. | Sereno, apreciado y relajado en la capital. |
+| **Kaelan Garra-Pardo** | Sección Uno (Semihumano) | Bromea sobre Zemina y Vlad; celebra con carne asada junto a Subaru y Caesar. | Adaptado plenamente a la vida de la hermandad. |
+| **Vance von Holst** | Sección Uno (Noble Menor) | Recibido sin prejuicios por Yami, Kaoruko y Subaru; brinda emocionado de pertenecer a la hermandad. | Redimido, agradecido y caballero leal. |
+
+### 2. Personajes Mencionados pero Fuera de Escena
+| Personaje | Ubicación / Estado |
+| :--- | :--- |
+| **Julian & Leo de Morvath** | En el feudo de Morvath, gobernando en paz y prosperidad. |
+| **Hwa Young** | Maestra marcial de Ken, mencionada por sus duros entrenamientos bajo cascadas. |

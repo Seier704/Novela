@@ -1,7 +1,7 @@
 # RESUMEN HISTÓRICO Y REGISTRO DINÁMICO DE CAPÍTULOS
 ## *El Camino del Reencarnado: Crónicas de Sangre, Acero y Deseo*
 **Autor:** Seier Silva  
-**Última actualización:** Capítulo 76  
+**Última actualización:** Capítulo 77  
 
 ---
 
@@ -178,12 +178,14 @@ Diez años después, forjado en un condicionamiento físico y de maná telúrico
 - **Capítulo 76: Vientos de Retorno: Lazos Forjados, Despedidas y el Camino a Solaria**: Transcurre la tercera y última semana en Morvath antes de la partida. En la fragua comunal, Borgar y Garret crean equipamiento especial y a medida para la Sección Uno: brazaletes y grebas de hierro negro y cobre para absorber el maná de impacto de Seier, saetas perforantes para Faelar, un nuevo blasón para el escudo de Vlad, una daga de parada para Vance y cotas de malla ligera para Akame y Kaelan. En el patio de armas, Seier instruye al pequeño Leo en postura y resolución marcial, mientras Vance entrena a Julian en esgrima defensiva. La inspección final en Sauceda, Fresnedas y las minas del sur confirma un feudo próspero y seguro: Roderick comanda patrullas ordenadas y Tarek supervisa la extracción de cobre limpio con aire fresco bombeado por los tiros de ventilación enanos. Por la noche en las terrazas, el escuadrón comparte confidencias: Vlad añora a Zemina, Vance agradece haber aprendido el verdadero significado del honor militar, y Akame y Seier reflexionan sobre el sentido de su vocación y el anhelo de reunirse con sus compañeros de la F-2. Al amanecer, más de mil aldeanos despiden a los cadetes en el Portón del Sur; Julian les entrega el salvoconducto de Huéspedes de Honor y Leo le obsequia a Seier un colgante tallado de un león rugiente. Escoltados por veinte caballeros reales, la Sección Uno emprende a caballo el viaje de retorno a la Gran Academia de Solaria.
 
 ---
-## 4. Estado Actual de la Trama y del Mundo (Post-Capítulo 76)
-- **Escenario:** Camino real del este hacia la Gran Capital de Solaria; carretas de provisiones y columna de marcha ecuestre flanqueada por caballeros nobles de la Corona.
-- **Estatus de la Sección Uno:**
-  - **Misión de Morvath Concluida:** Expedición de largo alcance finalizada con éxito legendario: tiranía derrocada, herejía purgada, feudo reconstruido y pacificado.
-  - **Lazos de Escuadrón Inquebrantables:** Cohesión absoluta entre Seier, Vlad, Akame, Borgar, Faelar, Kaelan y Vance, borrando toda brecha de linaje o clase.
-  - **Equipamiento Optimizado:** Armamento y protecciones reforzadas con acero y cobre forjados por Borgar y Garret.
-  - **Alianzas Estratégicas:** Amistad perpetua con la Casa Morvath (Regente Julian) y la Guardia Cívica (Comandante Roderick).
-- **Próximo Objetivo:** Arribo a la Gran Academia Militar y Mágica de Solaria, entrega formal de informes al Alto Mando y reencuentro con los compañeros de la F-2 (Kaoruko, Ken, Yami, Subaru, Erza, las chicas de Calydon).
-- **Periodo Activo:** Mañana del inicio del viaje de retorno; tercer semestre en marcha.
+- **Capítulo 77: Retorno a las Torres Blancas: Abrazos, Fuego y Camaradería**: Tras ocho jornadas de cabalgata, la Sección Uno arriba triunfalmente a la Gran Academia Militar y Mágica de Solaria con escolta real, precedidos por su renombre como héroes de Morvath. En el patio de la residencia estudiantil se desata una oleada de emotivos reencuentros: Kaoruko corre hacia Seier arrojando su cesta y se funden en un apasionado abrazo y beso de alivio; Vlad levanta en vilo a Zemina entre risas y devoción; Ken emerge del gimnasio con puños ardientes y choca antebrazos con Seier celebrando sus victorias; y Yami, Caesar, Subaru, Lucy, Erza y Agnes felicitan al escuadrón. Seier y Vlad integran oficialmente a Borgar, Faelar, Kaelan y Vance al círculo íntimo de la antigua Clase F-2, borrando todo estigma social sobre Vance. Por la noche, el grupo copa la taberna *La Jarra Plateada* en un multitudinario banquete con pulsos de fuerza, brindis y relatos de batalla; con 17 años recién cumplidos y una hermandad inquebrantable, Seier y Kaoruko sellan la velada entrelazando sus manos con profunda devoción.
+
+---
+## 4. Estado Actual de la Trama y del Mundo (Post-Capítulo 77)
+- **Escenario:** Gran Academia Militar y Mágica de Solaria; patio de residencias y taberna *La Jarra Plateada*.
+- **Estatus de la Hermandad y Académico:**
+  - **Reencuentro Consolidado:** Seier reunido amorosamente con Kaoruko; Vlad con Zemina; reencuentro marcial con Ken; camaradería plena con Yami, Caesar, Subaru, Lucy, Erza y Agnes.
+  - **Integración Plena:** Borgar, Faelar, Kaelan y Vance son acogidos formalmente como hermanos de armas por el núcleo de la F-2.
+  - **Madurez de los 17 Años:** El elenco principal alcanza los 17 años con experiencia de guerra real, condecoraciones imperiales y prestigio indiscutido en la academia.
+- **Próximos Pasos:** Formalización de calificaciones de Rango S ante la dirección académica, entrenamientos avanzados y preparativos para los eventos inter-academias del segundo semestre.
+- **Periodo Activo:** Noche de celebración en la capital; retorno oficial a la rutina académica.
