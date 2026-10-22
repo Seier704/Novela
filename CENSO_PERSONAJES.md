@@ -948,3 +948,35 @@
 | **Leo de Morvath** | Seguro en el castillo alto bajo el cuidado de la milicia. |
 | **Conde Raymond & Valerius** | Encadenados en los calabozos de Morvath a la espera del juicio de la Corona. |
 | **Sargento Roderick & Garret** | Celebrando en las plazas de Sauceda y Fresnedas junto al pueblo liberado. |
+
+
+# Censo de Personajes: Capítulo 75
+**Capítulo:** *El Renacer de Morvath: Justicia, Honor y el Juicio de las Sombras*  
+**Ubicación Principal:** Gran Salón del castillo alto, Sauceda, Fresnedas, minas del sur y plaza central de Morvath.  
+**Contexto Operativo:** Transcurso de dos semanas de consolidación; juicio y condena de los traidores; quema de la parafernalia de Khorne; reactivación de minas y campos; firma del pacto con el Consorcio Mercantil; entrega de condecoraciones reales a la Sección Uno; develación del Memorial de los Inocentes y banquete festivo de despedida.
+
+### 1. Personajes que APARECEN en Escena
+
+| Personaje | Facción / Rol | Rol / Acción en el Capítulo | Estado al Cierre |
+| :--- | :--- | :--- | :--- |
+| **Seier Silva** | Sección Uno (Líder F-2) | Asesora a Julian en tratados comerciales; recibe la *Gran Cruz de Plata* y el título de **Caballero Protector de Morvath**; brinda con Akame en el banquete popular. | Héroe protector consagrado, admirado por civiles y nobleza. |
+| **Vlad** | Sección Uno (Aliado F-2) | Avala con sus lazos ducales el contrato del Consorcio Mercantil; condecorado con el *Laurel Dorado Real*. | Orgullo de la Orden del León, satisfecho y ennoblecido. |
+| **Akame** | Sección Uno (Clase F-2) | Participa en la purga de fanáticos; recibe Medalla al Mérito de Primera Clase (Rango S); comparte reflexiones y sidra con Seier sobre el sentido de ser guerrero. | Serena, risueña y fortalecida en su camaradería. |
+| **Julian de Morvath** | Casa Morvath (Regente) | Gobierna activamente a pie de calle; suscribe el pacto comercial; instituye la Guardia Cívica; rinde tributo a los caídos ante el Memorial con Leo. | Señor y Regente legítimo, justo y querido por su feudo. |
+| **Leo de Morvath** | Casa Morvath (Heredero menor) | Aprende labores de estado junto a Julian; participa en el homenaje ante el monumento de los inocentes; alzado en hombros durante el banquete. | Feliz, seguro y libre de traumas. |
+| **Borgar Yunque-Férreo** | Sección Uno (Enano) | Rediseña los pozos de ventilación y puntales de las minas; condecorado por la Corona; baila con música enana en la fiesta popular. | Eufórico entre cerveza, baile y forja. |
+| **Faelar Vaelen** | Sección Uno (Elfo Silvano) | Supervisa la pira purificadora quemando ídolos heréticos con ritos de viento; condecorado con méritos de Rango S. | Satisfecho por la sanación de la tierra. |
+| **Kaelan Garra-Pardo** | Sección Uno (Semihumano) | Rastrea y apresa a 40 fanáticos prófugos; condecorado con honores reales; brinda con los cazadores locales. | Integrado y reconocido por su olfato y destreza. |
+| **Vance von Holst** | Sección Uno (Noble Menor) | Condecorado con la *Orden de la Espada Justa*; reivindica su honor personal y disipa todo resentimiento de su pasado en la Clase A. | Caballero íntegro y respetado con lágrimas de orgullo. |
+| **Lord Paladín de la Corona** | Corona de Solaria | Preside el tribunal militar; promulga las sentencias reales y entrega las condecoraciones a los cadetes en nombre del Monarca. | Garante de la justicia del Rey y aliado de la Sección Uno. |
+| **Garret el Herrero** | Morvath (Maestro Forjador) | Nombrado Maestro Mayor de Forjas de la Guardia Cívica; celebra con la población. | Orgulloso y trabajando en paz en su fragua comunal. |
+| **Tarek el Minero** | Morvath (Inspector de Minas) | Nombrado Gran Inspector de Minas por Julian; asegura el bienestar de los trabajadores. | Reivindicado y líder laboral querido. |
+| **Sargento Roderick** | Morvath (Comandante Cívico) | Ascendido a Comandante General de la Guardia Cívica de Morvath. | Guardián en jefe leal y condecorado. |
+| **Valerius de Morvath** | Traidores de Morvath | Despojado de su rango; condenado a prisión perpetua en las fosas de Roca-Negra. | Encarcelado con grilletes de hierro frío bajo custodia imperial. |
+| **Conde Raymond de Morvath** | Traidores de Morvath | Fallece en la primera semana a causa de la putrefacción demoníaca; despojado de honores póstumos. | Fallecido en desgracia. |
+
+### 2. Personajes Mencionados pero Fuera de Escena
+| Personaje | Ubicación / Estado |
+| :--- | :--- |
+| **El Rey de Solaria** | En la capital imperial, emisor de los decretos de reconocimiento y sentencias reales. |
+| **Pueblo de Sauceda y Fresnedas** | Reconstruidos y celebrando la nueva era de paz en Morvath. |

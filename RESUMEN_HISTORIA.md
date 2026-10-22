@@ -1,7 +1,7 @@
 # RESUMEN HISTÓRICO Y REGISTRO DINÁMICO DE CAPÍTULOS
 ## *El Camino del Reencarnado: Crónicas de Sangre, Acero y Deseo*
 **Autor:** Seier Silva  
-**Última actualización:** Capítulo 74  
+**Última actualización:** Capítulo 75  
 
 ---
 
@@ -172,12 +172,16 @@ Diez años después, forjado en un condicionamiento físico y de maná telúrico
 - **Capítulo 74: Sangre en las Profundidades: El Altar de Bronce y la Llegada de los Cien**: La Sección Uno, Julian y Tarek descienden a las fundiciones sulfurosas de las minas del sur antes del mediodía. En una colosal caverna sobre un lago de cobre fundido, descubren el gigantesco Altar de Bronce de Khorne y un vórtice dimensional a punto de desatarse. Faelar y Akame barren a los acólitos desde las alturas, mientras Borgar y Vance defienden el puente de acceso con martillo y estoque. Un Juggernaut demoníaco menor cruza la brecha y Vlad frena su embestida en seco con su escudo bendecido; Seier salta sobre la bestia y pulveriza su cráneo de metal con golpes concentrados de maná telúrico (+18). En el combate contra el Sumo Sacerdote de la Sangre, Seier aplica la luxación y los rodillazos de Muay Thai y Jeet Kune Do, y Julian atraviesa el corazón del hereje con su espada ancestral. Identificando la cuña de carga del altar gracias a Borgar, Seier, Vlad y Julian asestan un golpe triple que hunde la estructura en el magma, colapsando y sellando el portal para siempre. Al emerger a la superficie bajo un cielo despejado, tocan clarines dorados: los **Cien Caballeros Nobles de la Corona** liderados por un Lord Paladín real llegan a Morvath. El emisario de la corte contempla la paz restablecida, los tiranos apresados y saluda con respeto militar a Julian como Regente y a los cadetes de la Sección Uno por su rotunda victoria.
 
 ---
-## 4. Estado Actual de la Trama y del Mundo (Post-Capítulo 74)
-- **Escenario:** Valle abierto frente a las murallas de Morvath; campamento imperial y formación de honor de la caballería real.
-- **Estatus Político y Militar:**
-  - **Misión de Morvath Cumplida:** Campaña asimétrica de larga duración completada con éxito rotundo: tiranos destituidos, conspiración desmantelada, culto de Khorne purgado y portal sellado sin bajas en la Sección Uno ni en los civiles.
-  - **Llegada del Refuerzo Real:** Los 100 Caballeros Nobles de la Corona toman la custodia formal de los prisioneros (Conde Raymond y Valerius de Morvath) para su juicio ante el tribunal marcial del Rey.
-  - **Gobierno Consolidado:** Julian de Morvath es reconocido oficialmente como Regente del feudo por el Lord Paladín de la Corona; el pequeño Leo está a salvo y la Guardia Popular es condecorada como milicia cívica oficial.
-  - **Reputación de la Sección Uno:** Seier, Vlad, Akame, Borgar, Faelar, Kaelan y Vance se consolidan como una fuerza de élite con renombre militar imperial.
-- **Próximos Pasos:** Preparativos para el retorno triunfal a la Academia Militar de Solaria o informe del segundo semestre.
-- **Periodo Activo:** Mediodía del tercer día de misión; conclusión triunfal de la crisis de Morvath.
+- **Capítulo 75: El Renacer de Morvath: Justicia, Honor y el Juicio de las Sombras**: Dos semanas de reconstrucción y juicio en Morvath. El tribunal militar de la Corona condena a Valerius a prisión perpetua en Roca-Negra, mientras Raymond fallece por su gangrena demoníaca despojado de honores póstumos. Se ejecuta una purga integral capturando a 40 fanáticos restantes y quemando todo ídolo de Khorne en una gran pira purificadora. Sauceda y Fresnedas son reedificadas con fondos recuperados; las minas se reactivan bajo ventilación enana de Borgar y la inspección de Tarek con condiciones justas. Julian suscribe un histórico tratado con el Consorcio Mercantil del Río Sol respaldado por Vlad y la Corona, abaratando aranceles e impulsando el comercio y grano. La milicia se oficializa como Guardia Cívica de Morvath bajo el mando de Roderick y Garret. En la plaza mayor, el Lord Paladín condecora a la Sección Uno: Seier recibe la *Gran Cruz de Plata* y el título de **Caballero Protector de Morvath**; Vlad el *Laurel Dorado Real*; Akame, Faelar, Borgar y Kaelan méritos de Clase S; y Vance la *Orden de la Espada Justa*, redimiendo su honra. Se devela un emotivo Memorial de mármol a los inocentes y defensores caídos, seguido de un multitudinario banquete popular donde el pueblo agradece y celebra a sus libertadores antes de su marcha triunfal a la capital.
+
+---
+## 4. Estado Actual de la Trama y del Mundo (Post-Capítulo 75)
+- **Escenario:** Plaza mayor, castillo y mercados de Morvath; celebraciones nocturnas tras dos semanas de reconstrucción civil y militar.
+- **Estatus Político y Económico:**
+  - **Juicio y Purga Concluidos:** Valerius en presidio perpetuo; Raymond fallecido en deshonor; 40 fanáticos capturados y parafernalia de Khorne incinerada.
+  - **Reactivación y Comercio:** Tratado comercial con el Consorcio Mercantil del Río Sol en plena marcha; minas de cobre y hierro seguras bajo la dirección de Tarek e ingeniería de Borgar.
+  - **Guardia Cívica Formalizada:** Comandante Roderick y Maestro Garret al frente de la seguridad local.
+  - **Condecoraciones Reales:** Seier nombrado Caballero Protector de Morvath; Vlad laureado; Vance redimido y la Sección Uno reconocida con méritos máximos imperiales.
+  - **Julian y Leo:** Julian consolidado como Regente amado y tutor protector de su hermano menor Leo.
+- **Próximo Paso Inmediato:** Partida de la Sección Uno de regreso a la Gran Academia Militar y Mágica de Solaria para reportar el éxito de su misión de larga duración.
+- **Periodo Activo:** Cierre de la segunda semana post-liberación de Morvath; vísperas del viaje de retorno.

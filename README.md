@@ -14,7 +14,7 @@ Asignado a la despreciada Clase F-2, Seier desafía el orden establecido no a tr
 
 ## Estructura del Repositorio
 
-- **`capitulos/`**: Contiene los documentos individuales formateados (`.docx`) de cada capítulo (Prólogo al Capítulo 74).
+- **`capitulos/`**: Contiene los documentos individuales formateados (`.docx`) de cada capítulo (Prólogo al Capítulo 75).
 - **`compilado/`**: Libro maestro completo (`El_Camino_del_Reencarnado.docx`) con formato editorial, páginas preliminares, fichas de personaje e ilustraciones integradas.
 - **`agregar_capitulo.py`**: Script unificado y general para registrar o sobrescribir capítulos; genera el documento `.docx` individual y recompila automáticamente el libro maestro completo.
 - **`compilar_novela.py`**: Compilador general dinámico que lee directamente todos los capítulos en `capitulos/` y genera el libro maestro sin requerir scripts redundantes.
@@ -54,12 +54,13 @@ Asignado a la despreciada Clase F-2, Seier desafía el orden establecido no a tr
 - **Capítulo 72**: Sombras de Acero y Muro Quebrado: La Apertura de las Puertas de Morvath (Infiltración por los drenajes, combate marcial en la guarnición baja, izada del rastrillo, entrada triunfal de la Guardia Popular y el trágico rehén Leo en el castillo alto)
 - **Capítulo 73**: Asedio a la Cumbre Oscura: Sangre en las Almenas y el Rescate de Leo (Escalada nocturna del Risco del Buitre, salvamento agónico de Leo, derrota marcial de Valerius por Seier, caída de Raymond y proclamación de Julian como Regente de Morvath)
 - **Capítulo 74**: Sangre en las Profundidades: El Altar de Bronce y la Llegada de los Cien (Incursión a las minas del sur, destrucción del Juggernaut y del Sumo Sacerdote, colapso del Altar de Khorne en el magma, sellado de la brecha y llegada gloriosa de los 100 Caballeros Nobles de la Corona)
+- **Capítulo 75**: El Renacer de Morvath: Justicia, Honor y el Juicio de las Sombras (Paso de dos semanas, juicio militar de Valerius y muerte de Raymond, purga de herejes, reconstrucción de pueblos, pacto mercantil del Río Sol, condecoraciones reales a la Sección Uno, Memorial a los caídos y gran banquete de liberación)
 
 ---
 
 ## Documentación Editorial y de Continuidad
 
-- **[`RESUMEN_HISTORIA.md`](file:///c:/Users/fsilv/OneDrive/Documentos/GitHub/Novela/RESUMEN_HISTORIA.md)**: Resumen histórico dinámico de todos los capítulos (Prólogo al 74) con sinopsis, arcos y guía de actualización para futuros capítulos.
+- **[`RESUMEN_HISTORIA.md`](file:///c:/Users/fsilv/OneDrive/Documentos/GitHub/Novela/RESUMEN_HISTORIA.md)**: Resumen histórico dinámico de todos los capítulos (Prólogo al 75) con sinopsis, arcos y guía de actualización para futuros capítulos.
 - **[`CENSO_PERSONAJES.md`](file:///c:/Users/fsilv/OneDrive/Documentos/GitHub/Novela/CENSO_PERSONAJES.md)**: Censo operativo de personajes por capítulo iniciado desde el Capítulo 47, clasificando quiénes aparecen en escena y qué hacen los personajes en el evento fuera de foco.
 - **[`AUDITORIA_PERSONAJES.md`](file:///c:/Users/fsilv/OneDrive/Documentos/GitHub/Novela/AUDITORIA_PERSONAJES.md)**: Registro exhaustivo de todos los personajes con nombre, facciones, estilos de combate, armas, estado y dinámica con el protagonista.
 - **[`CORRECCION_ERRORES.md`](file:///c:/Users/fsilv/OneDrive/Documentos/GitHub/Novela/CORRECCION_ERRORES.md)**: Auditoría de continuidad y posibles inconsistencias narrativas detectadas en la obra, con soluciones canónicas y reglas de estilo.
