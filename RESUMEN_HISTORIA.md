@@ -1,7 +1,7 @@
 # RESUMEN HISTÓRICO Y REGISTRO DINÁMICO DE CAPÍTULOS
 ## *El Camino del Reencarnado: Crónicas de Sangre, Acero y Deseo*
 **Autor:** Seier Silva  
-**Última actualización:** Capítulo 79  
+**Última actualización:** Capítulo 80  
 
 ---
 
@@ -188,12 +188,19 @@ Diez años después, forjado en un condicionamiento físico y de maná telúrico
 
 ---
 
-## 4. Estado Actual de la Trama y del Mundo (Post-Capítulo 79)
-- **Escenario:** Gran Patio de Armas y arcadas de la Gran Academia Militar y Mágica de Astraea / Solaria; inicio formal del ciclo del Segundo Año.
+- **Capítulo 80: El Nuevo Orden Académico: Crisol de Magia, Acero y Destino**: Los más de doscientos cadetes de Segundo Año se congregan en el Gran Anfiteatro Rúnico bajo la bóveda de cristal de Astraea. El Instructor Jefe Gerald proclama el **Sistema de Formación Integral y Sinergia Táctica**, erradicando la antigua separación entre magia y combate cuerpo a cuerpo: en la guerra moderna, los espadachines deben dominar barreras arcanas y los magos deben resistir el combate físico cercano. Las listas mágicas asignan a los estudiantes en divisiones equilibradas: en la **División Táctica Beta** coinciden Seier Silva, Erza Scarlet, Natsuki Subaru, Agnes Tachyon, Dante Vance y el recién llegado **Kenichi Shirahama**, quien entra en pánico cómico al comparar la mirada disciplinaria de Erza y los reactivos de Agnes con sus temidos maestros de Ryōzanpaku; mientras que en la **División Táctica Alfa** se agrupan Miu Fūrinji, Kaoruko Waguri, Ken, Caesar King, Vlad y Piper Wheel, forjando un cálido vínculo marcial y compasivo entre Miu, Caesar y Kaoruko. Gerald anuncia solemnemente que tras el acondicionamiento inicial se conformarán **Escuadrones de Despliegue de Alto Riesgo** para misiones de la Corona en fallas arcanas y ruinas hostiles; aunque el peligro es letal, su temple veterano a los diecisiete años les permitirá triunfar sin sufrir bajas si mantienen la sinergia. En la demostración de combate, Kenichi es llamado a la arena y deja boquiabiertos a cadetes e instructores al neutralizar proyectiles mágicos y desarmar a dos guardias mediante la técnica defensiva *Seikūken*, ganándose los elogios de Ken, Erza y Seier al albor de un año decisivo.
+
+---
+
+## 4. Estado Actual de la Trama y del Mundo (Post-Capítulo 80)
+- **Escenario:** Gran Anfiteatro Rúnico y arena de combate de la Gran Academia de Astraea; proclamación del nuevo plan de estudios de Segundo Año.
 - **Estatus Global de la Academia y la Promoción:**
-  - **Apertura Multicultural Universal:** Convivencia pacífica entre nobles, plebeyos, elfos, enanos, semihumanos y cadetes de imperios lejanos sin discriminación de linaje.
-  - **Los Veteranos de Segundo Año (17 años):** Seier, Vlad, Akame, Ken, Kaoruko, Caesar, Yami, Lucy, Subaru, Erza, Lighter y compañeros portan charreteras plateadas y prestigio consolidado como héroes de Morvath y de las fronteras.
-  - **Nuevas Incorporaciones Destacadas:** Ingreso de **Kenichi Shirahama** (discípulo tímido pero formidable, experto en reflejos defensivos de Jujitsu y Karatê) y **Miu Fūrinji** (heredera del dojo, belleza atlética y balance acrobático sobrehumano), representantes del **Dojo Fūrinji** del **Imperio de Hinomoto**.
-  - **Vínculos Forjados:** Respeto mutuo instantáneo entre los luchadores de cuerpo a cuerpo de la F-2 (Ken, Lighter, Seier) y los nuevos discípulos orientales.
-- **Próximos Pasos:** Ceremonia inaugural del Segundo Año, asignación de aulas avanzadas y primeros entrenamientos conjuntos de combate cuerpo a cuerpo.
-- **Periodo Activo:** Mañana radiante del primer día del Segundo Año académico.
+  - **Sistema de Formación Integral y Sinergia Táctica Oficializado:** Eliminación definitiva de la frontera entre magos puros y combatientes físicos; asignaturas conjuntas de transmutación, barreras, esgrima rúnica, alquimia táctica y artes marciales.
+  - **Distribución de Divisiones Tácticas:**
+    - **División Beta:** Seier Silva, Erza Scarlet, Kenichi Shirahama, Natsuki Subaru, Agnes Tachyon, Dante Vance.
+    - **División Alfa:** Miu Fūrinji, Kaoruko Waguri, Ken, Caesar King, Vlad, Piper Wheel.
+    - **Otras Divisiones (Gamma/Delta):** Yami, Lucy, Lighter, Rukia, Renji, Lortelle, Zemina, Freya.
+  - **Directiva de Alto Mando:** Formación futura de *Escuadrones de Despliegue de Alto Riesgo* para misiones prioritarias de la Corona (fallas arcanas activas, ruinas de la Primera Dinastía y contención de bestias anómalas).
+  - **Hazaña Técnica:** Primera exhibición pública de Kenichi Shirahama en Astraea desplegando el *Seikūken* ante ráfagas mágicas, consolidando su respeto entre los veteranos de 17 años.
+- **Próximos Pasos:** Inicio de las clases interdisciplinarias, sesiones de laboratorio alquímico-mágico y entrenamientos de sinergia de escuadrón.
+- **Periodo Activo:** Mediodía del primer día de curso del Segundo Año en Astraea.

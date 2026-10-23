@@ -1104,3 +1104,32 @@
 | **Instructor Gerald** | Elogiado por consolidar la apertura universal y la meritocracia en la academia. |
 | **Maestros del Dojo Fūrinji (Hayato Fūrinji)** | Mencionados como los legendarios mentores que forjaron a Kenichi y Miu en Hinomoto. |
 | **Compañeros de la F-2 (Vlad, Akame, Kaoruko, etc.)** | Mencionados en la transición al inicio formal del Segundo Año. |
+
+
+# Censo de Personajes: Capítulo 80
+**Capítulo:** *El Nuevo Orden Académico: Crisol de Magia, Acero y Destino*  
+**Ubicación Principal:** Gran Anfiteatro Rúnico y arena de combate de la Gran Academia Militar y Mágica de Astraea.  
+**Contexto Operativo:** Proclamación oficial del Sistema de Formación Integral y Sinergia Táctica para el Segundo Año; asignación de las Divisiones Alfa y Beta; aviso de Escuadrones de Alto Riesgo para la Corona; exhibición marcial de Kenichi Shirahama (*Seikūken*).
+
+### 1. Personajes que APARECEN en Escena
+
+| Personaje | Facción / Rol | Rol / Acción en el Capítulo | Estado al Cierre |
+| :--- | :--- | :--- | :--- |
+| **Seier Silva** | Segundo Año / División Beta | Analiza la reforma de Gerald; tranquiliza a Kenichi ante la disciplina de Erza; celebra el avance de la academia. | Capitán respetado, sereno y confiado (17 años). |
+| **Instructor Gerald** | Instructor Jefe de Astraea | Proclama la abolición de la división entre magos y guerreros; anuncia el Sistema Integral y los futuros Escuadrones de Alto Riesgo. | Imponente, estricto y visionario militar. |
+| **Kenichi Shirahama** | Segundo Año / División Beta | Asignado con Seier, Erza y Subaru; sufre pánico cómico recordando a sus maestros de Ryōzanpaku; deslumbra a todos en la arena con su *Seikūken* evasivo. | Tímido, cómico pero técnico supremo e intocable. |
+| **Miu Fūrinji** | Segundo Año / División Alfa | Asignada junto a Kaoruko, Ken y Caesar; entabla amistad fraternal con Kaoruko destacando el valor de proteger sin matar. | Radiante, elegante y respetada por sus pares. |
+| **Erza Scarlet** | Segundo Año / División Beta | Impone respeto marcial; evalúa positivamente los reflejos de Kenichi y promete convertirlo en baluarte de vanguardia. | Disciplinada, severa y protectora. |
+| **Natsuki Subaru** | Segundo Año / División Beta | Le da la bienvenida a Kenichi compartiendo anécdotas de supervivencia a los experimentos de Agnes y las patadas de Caesar. | Carismático, ingenioso y comprensivo. |
+| **Caesar King** | Segundo Año / División Alfa | Celebra a viva voz la descomunal fuerza física y marcial de su nueva aula. | Alegre, ruidosa y líder de choque. |
+| **Kaoruko Waguri** | Segundo Año / División Alfa | Recibe a Miu con gentileza y reverencia; lista para integrar sus barreras con artes marciales. | Dulce, madura y compasiva. |
+| **Ken** | Segundo Año / División Alfa | Aplaude eufórico el *Seikūken* de Kenichi; ansioso por medirse en combate amistoso con los nuevos cadetes. | Combativo, risueño y con fuego solar. |
+| **Agnes Tachyon** | Segundo Año / División Beta | Examina con curiosidad científica las articulaciones y resistencia de Kenichi para sus proyectos alquímicos. | Excéntrica, sonriente y volátil. |
+| **Vlad & Akame** | Segundo Año | Observan la asamblea con solemnidad y orgullo marcial; aprueban la integración de los nuevos cadetes. | Condecorados y firmes en sus puestos. |
+
+### 2. Personajes Mencionados pero Fuera de Escena
+| Personaje | Ubicación / Estado |
+| :--- | :--- |
+| **Maestros de Ryōzanpaku (Sakaki Shio, etc.)** | Evocados en el pánico cómico de Kenichi al ver la disciplina de Erza. |
+| **Dante Vance & Piper Wheel** | Asignados a sus respectivas divisiones técnicas de apoyo. |
+| **Yami, Lucy, Lighter, Rukia, Renji, Lortelle** | Integrados en las restantes divisiones tácticas avanzadas del Segundo Año. |
