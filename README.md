@@ -14,7 +14,7 @@ Asignado a la despreciada Clase F-2, Seier desafía el orden establecido no a tr
 
 ## Estructura del Repositorio
 
-- **`capitulos/`**: Contiene los documentos individuales formateados (`.docx`) de cada capítulo (Prólogo al Capítulo 80).
+- **`capitulos/`**: Contiene los documentos individuales formateados (`.docx`) de cada capítulo (Prólogo al Capítulo 81).
 - **`compilado/`**: Libro maestro completo (`El_Camino_del_Reencarnado.docx`) con formato editorial, páginas preliminares, fichas de personaje e ilustraciones integradas.
 - **`agregar_capitulo.py`**: Script unificado y general para registrar o sobrescribir capítulos; genera el documento `.docx` individual y recompila automáticamente el libro maestro completo.
 - **`compilar_novela.py`**: Compilador general dinámico que lee directamente todos los capítulos en `capitulos/` y genera el libro maestro sin requerir scripts redundantes.
@@ -60,12 +60,13 @@ Asignado a la despreciada Clase F-2, Seier desafía el orden establecido no a tr
 - **Capítulo 78**: Crónicas del Despliegue: Ecos de Fuego, Sombras y Acero (Relato antológico en La Jarra Plateada de las misiones de las secciones mixtas: la victoria solar y gélida de Ken, Lady Elysea y Piper contra el Drake de Magma; la defensa titánica y táctica de Caesar, Subaru y Agnes contra mantícoras de tormenta; la contención pacífica de Kaoruko, Yami y Lighter en el Valle de los Lirios; y el rescate pantanoso de Erza, Lucy y Dante en Niebla-Negra)
 - **Capítulo 79**: El Albor del Segundo Año: Los Discípulos de Hinomoto (Apertura universal de la Academia sin distinción de cuna ni razas al inicio del Segundo Año; Seier, Ken y Lighter identifican el potencial oculto de Kenichi Shirahama y la gracia atlética de Miu Fūrinji, discípulos del legendario Dojo Fūrinji del lejano Imperio de Hinomoto; Kenichi neutraliza a un bravucón con reflejos involuntarios de Jujitsu y sellan una cálida bienvenida marcial)
 - **Capítulo 80**: El Nuevo Orden Académico: Crisol de Magia, Acero y Destino (El Instructor Gerald proclama el Sistema de Formación Integral combinando magia y combate para todo el Segundo Año; Kenichi Shirahama es asignado a la División Beta con Seier, Erza y Subaru, mientras Miu Fūrinji se une a la División Alfa con Kaoruko, Ken y Caesar; Gerald anuncia futuros Escuadrones de Alto Riesgo para el reino y Kenichi impresiona a la academia con su técnica defensiva Seikūken)
+- **Capítulo 81**: El Engranaje de Astraea: Tres Generaciones y la Seda Dorada (Convivencia de las tres promociones en Astraea: la admiración de los novatos de Primer Año, el saludo de honor del Capitán Bawden de Tercer Año a Seier como su relevo militar, y el encuentro íntimo y estratégico con Lortelle Kecheln en su despacho de la Compañía Elte, revelando su monopolio logístico y entregando inteligencia clasificada sobre las Ruinas Negras del Sur)
 
 ---
 
 ## Documentación Editorial y de Continuidad
 
-- **[`RESUMEN_HISTORIA.md`](file:///c:/Users/fsilv/OneDrive/Documentos/GitHub/Novela/RESUMEN_HISTORIA.md)**: Resumen histórico dinámico de todos los capítulos (Prólogo al 80) con sinopsis, arcos y guía de actualización para futuros capítulos.
+- **[`RESUMEN_HISTORIA.md`](file:///c:/Users/fsilv/OneDrive/Documentos/GitHub/Novela/RESUMEN_HISTORIA.md)**: Resumen histórico dinámico de todos los capítulos (Prólogo al 81) con sinopsis, arcos y guía de actualización para futuros capítulos.
 - **[`CENSO_PERSONAJES.md`](file:///c:/Users/fsilv/OneDrive/Documentos/GitHub/Novela/CENSO_PERSONAJES.md)**: Censo operativo de personajes por capítulo iniciado desde el Capítulo 47, clasificando quiénes aparecen en escena y qué hacen los personajes en el evento fuera de foco.
 - **[`AUDITORIA_PERSONAJES.md`](file:///c:/Users/fsilv/OneDrive/Documentos/GitHub/Novela/AUDITORIA_PERSONAJES.md)**: Registro exhaustivo de todos los personajes con nombre, facciones, estilos de combate, armas, estado y dinámica con el protagonista.
 - **[`CORRECCION_ERRORES.md`](file:///c:/Users/fsilv/OneDrive/Documentos/GitHub/Novela/CORRECCION_ERRORES.md)**: Auditoría de continuidad y posibles inconsistencias narrativas detectadas en la obra, con soluciones canónicas y reglas de estilo.

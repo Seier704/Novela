@@ -1,7 +1,7 @@
 # RESUMEN HISTÓRICO Y REGISTRO DINÁMICO DE CAPÍTULOS
 ## *El Camino del Reencarnado: Crónicas de Sangre, Acero y Deseo*
 **Autor:** Seier Silva  
-**Última actualización:** Capítulo 80  
+**Última actualización:** Capítulo 81  
 
 ---
 
@@ -192,15 +192,18 @@ Diez años después, forjado en un condicionamiento físico y de maná telúrico
 
 ---
 
-## 4. Estado Actual de la Trama y del Mundo (Post-Capítulo 80)
-- **Escenario:** Gran Anfiteatro Rúnico y arena de combate de la Gran Academia de Astraea; proclamación del nuevo plan de estudios de Segundo Año.
+- **Capítulo 81: El Engranaje de Astraea: Tres Generaciones y la Seda Dorada**: Tras la asamblea, Seier y sus compañeros recorren la academia presenciando la interacción viva entre las tres generaciones estudiantiles. En los patios inferiores, los novatos de **Primer Año** (15-16 años: campesinos, semihumanos, magas novatas) entrenan con torpeza entusiasta y observan a los veteranos de Segundo Año como ídolos legendarios; Seier asiste con calidez a un novato que tropieza con piedras rúnicas, infundiéndole orgullo marcial. En la Calzada de los Héroes, los cadetes de **Tercer Año** (18-19 años, a semanas de graduarse como oficiales de las legiones) demuestran su respeto veterano: su líder, el Capitán Bawden, saluda a Seier como a un igual militar, reconociendo la gesta de Morvath y advirtiéndole sobre la responsabilidad que asumirán cuando ellos marchen al frente exterior. Finalmente, **Lortelle Kecheln** intercepta a Seier y lo conduce a su despacho consular privado de la Compañía Elte en el campus; tras sellar la estancia con runas de silencio y fundirse en un apasionado y posesivo beso que reaviva su romance de Costa Esmeralda, Lortelle le revela su magistral triple estrategia económica: becas cautivas para los novatos más talentosos, venta de mithril y oricalco a los egresados a cambio de informes del Estado Mayor, y un pergamino de inteligencia confidencial para Seier detallando las futuras misiones de alto riesgo de Segundo Año en las Ruinas Negras del Sur y fallas subterráneas. Ambos reafirman su pacto inquebrantable de fuerza, oro y amor.
+
+---
+
+## 4. Estado Actual de la Trama y del Mundo (Post-Capítulo 81)
+- **Escenario:** Claustros, campos de entrenamiento y despacho consular privado de la Compañía Elte en Astraea.
 - **Estatus Global de la Academia y la Promoción:**
-  - **Sistema de Formación Integral y Sinergia Táctica Oficializado:** Eliminación definitiva de la frontera entre magos puros y combatientes físicos; asignaturas conjuntas de transmutación, barreras, esgrima rúnica, alquimia táctica y artes marciales.
-  - **Distribución de Divisiones Tácticas:**
-    - **División Beta:** Seier Silva, Erza Scarlet, Kenichi Shirahama, Natsuki Subaru, Agnes Tachyon, Dante Vance.
-    - **División Alfa:** Miu Fūrinji, Kaoruko Waguri, Ken, Caesar King, Vlad, Piper Wheel.
-    - **Otras Divisiones (Gamma/Delta):** Yami, Lucy, Lighter, Rukia, Renji, Lortelle, Zemina, Freya.
-  - **Directiva de Alto Mando:** Formación futura de *Escuadrones de Despliegue de Alto Riesgo* para misiones prioritarias de la Corona (fallas arcanas activas, ruinas de la Primera Dinastía y contención de bestias anómalas).
-  - **Hazaña Técnica:** Primera exhibición pública de Kenichi Shirahama en Astraea desplegando el *Seikūken* ante ráfagas mágicas, consolidando su respeto entre los veteranos de 17 años.
-- **Próximos Pasos:** Inicio de las clases interdisciplinarias, sesiones de laboratorio alquímico-mágico y entrenamientos de sinergia de escuadrón.
-- **Periodo Activo:** Mediodía del primer día de curso del Segundo Año en Astraea.
+  - **Convivencia y Dinámica de Tres Generaciones:**
+    - *Primer Año:* Inspirados y guiados por el ejemplo de la antigua F-2; aprendiendo fundamentos marciales y arcanos sin discriminación clasista.
+    - *Segundo Año (17 años):* Pilar central táctico de la academia; Seier, Vlad, Akame y compañeros respetados como la Generación Dorada.
+    - *Tercer Año (18-19 años):* Promoción saliente preparando armamento de oricalco y mithril para su graduación y despliegue en las legiones de frontera; reconocimiento militar mutuo con Seier.
+  - **Red Estratégica de Lortelle Kecheln:** Control logístico y financiero total del campus a través de la Compañía Elte; becas exclusivas para novatos, aprovisionamiento militar para egresados e inteligencia clasificada para los Escuadrones de Alto Riesgo de Segundo Año.
+  - **Alianza y Romance Consolidado:** Seier y Lortelle sellan su complicidad con intimidad apasionada y planes coordinados de defensa e inteligencia.
+- **Próximos Pasos:** Análisis del pergamino de las Ruinas Negras del Sur, primeros laboratorios de la División Beta (Kenichi, Erza, Seier, Subaru, Agnes) y División Alfa (Miu, Kaoruko, Ken, Caesar).
+- **Periodo Activo:** Tarde del primer día del Segundo Año en Astraea.

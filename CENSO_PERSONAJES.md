@@ -1133,3 +1133,27 @@
 | **Maestros de Ryōzanpaku (Sakaki Shio, etc.)** | Evocados en el pánico cómico de Kenichi al ver la disciplina de Erza. |
 | **Dante Vance & Piper Wheel** | Asignados a sus respectivas divisiones técnicas de apoyo. |
 | **Yami, Lucy, Lighter, Rukia, Renji, Lortelle** | Integrados en las restantes divisiones tácticas avanzadas del Segundo Año. |
+
+
+# Censo de Personajes: Capítulo 81
+**Capítulo:** *El Engranaje de Astraea: Tres Generaciones y la Seda Dorada*  
+**Ubicación Principal:** Gran Calzada de los Cedros Blancos, Calzada de los Héroes y despacho privado de la Compañía Elte en Astraea.  
+**Contexto Operativo:** Interacción de las tres promociones (Primer, Segundo y Tercer Año); encuentro y respeto marcial con el Capitán Bawden; reunión íntima, comercial y de inteligencia entre Seier y Lortelle Kecheln.
+
+### 1. Personajes que APARECEN en Escena
+
+| Personaje | Facción / Rol | Rol / Acción en el Capítulo | Estado al Cierre |
+| :--- | :--- | :--- | :--- |
+| **Seier Silva** | Segundo Año / Líder | Asiste con humildad a un cadete novato; intercambia saludos de honor con Bawden; comparte pasión, vino e inteligencia con Lortelle. | Capitán respetado, pleno y respaldado (17 años). |
+| **Lortelle Kecheln** | Segundo Año / Compañía Elte | Conduce a Seier a su despacho privado con barrera de silencio; lo besa apasionadamente; revela su monopolio económico y le entrega informes clasificados de la Corona. | Seductora, triunfante, enamorada y cerebro financiero. |
+| **Capitán Bawden** | Tercer Año (Guardia Plateada) | Líder de la promoción de egresados; espadachín de metro noventa con cicatriz; saluda a Seier como a un igual militar reconociendo su victoria en Morvath. | Respetuoso, veterano y listo para marchar al frente exterior. |
+| **Cadete Novato** | Primer Año (Plebeyo) | Carga piedras rúnicas y tropieza; Seier lo ayuda a levantarse y le da consejos de equilibrio; emocionado y agradecido. | Inspirado y motivado para entrenar. |
+| **Vlad** | Segundo Año (Mando Militar) | Acompaña a Seier en el paseo; sonríe ante la admiración de los novatos y celebra el florecimiento de la academia. | Sereno, noble y orgulloso. |
+| **Akame** | Segundo Año | Acompaña a Seier comiendo carne seca; alerta y letal ante la presencia de los cadetes mayores. | Imperturbable y leal. |
+
+### 2. Personajes Mencionados pero Fuera de Escena
+| Personaje | Ubicación / Estado |
+| :--- | :--- |
+| **Instructor Gerald** | Mencionado como el artífice del nuevo sistema y de las futuras misiones de la Corona. |
+| **Kaoruko Waguri & Lady Elysea** | Mencionadas en la complicidad amorosa y pícaro celo de Lortelle. |
+| **Kenichi, Miu, Ken, Erza, Subaru** | En sus respectivos pabellones tras la inauguración de las divisiones tácticas. |
