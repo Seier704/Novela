@@ -1,7 +1,7 @@
 # RESUMEN HISTÓRICO Y REGISTRO DINÁMICO DE CAPÍTULOS
 ## *El Camino del Reencarnado: Crónicas de Sangre, Acero y Deseo*
 **Autor:** Seier Silva  
-**Última actualización:** Capítulo 78  
+**Última actualización:** Capítulo 79  
 
 ---
 
@@ -184,16 +184,16 @@ Diez años después, forjado en un condicionamiento físico y de maná telúrico
 - **Capítulo 78: Crónicas del Despliegue: Ecos de Fuego, Sombras y Acero**: Al calor del hogar en *La Jarra Plateada*, Seier invita al resto del grupo a rendir cuentas de sus misiones del semestre, recordando la reforma del Instructor Gerald que dispersó a los cadetes en secciones mixtas y separó deliberadamente a las parejas para evitar favoritismos y probar su temple autónomo. Ken relata la misión de la **Sección Cuatro** en la Garganta de Fuego junto a Lady Elysea de Vane y Piper Wheel: cómo pusieron en su sitio a cadetes nobles de la A-1 y derrotaron a un Drake de Magma Alfa mediante un choque térmico entre la estocada gélida de Elysea y el uppercut de fuego solar de Ken, mientras Piper evacuaba a refugiados mineros con un cabrestante a vapor. Caesar King y Natsuki Subaru detallan la odisea de la **Sección Cinco** en el Paso del Trueno junto a Agnes Tachyon: las flexiones brutales de Caesar, los señuelos sónicos y bengalas de fósforo de Subaru para canalizar mantícoras de tormenta, el bloqueo colosal del escudo de titanio de Caesar y el remate aturdidor con la alquimia hiperbárica de Agnes (provocando celos cómicos y alivio en Lucy). Kaoruko Waguri narra la misión pacífica de la **Sección Seis** en el Valle de los Lirios junto a Yami Sukehiro y Lighter: neutralizaron a más de cincuenta desertores mercenarios mediante ráfagas de combustión rápida de Lighter, majestuosas barreras sagradas y raíces florales de Kaoruko (sin derramar una sola gota de sangre), y la intimidación sombría de Yami, ganándose el amor de los campesinos con medicina y panes de miel. Finalmente, Erza Scarlet y Lucy exponen el despliegue de la **Sección Dos** en los Pantanos de Niebla-Negra junto a Dante Vance: la disciplina implacable de Erza, la puntería rúnica de Dante, las piruetas letales con dagas de Lucy para cortar ataduras de exploradores cautivos y la invocación de la Armadura de la Emperatriz del Agua y de la Rueda del Cielo para exterminar a una hidra del cieno. Con ecos de las Secciones Tres (Rukia, Burnice, Hoshina, Pulchra) y Siete (Renji, Lortelle, Freya, Zemina), los dieciséis guerreros celebran con 17 años su madurez y brindan por la indestructible Generación Dorada.
 
 ---
-## 4. Estado Actual de la Trama y del Mundo (Post-Capítulo 78)
-- **Escenario:** Gran taberna *La Jarra Plateada* de Solaria; velada nocturna de camaradería y testimonios de combate.
-- **Estatus Global de la Promoción (17 Años):**
-  - **Madurez Integral de la Clase F-2 y Secciones Mixtas:** Todas las secciones de cadetes han superado exitosamente misiones de combate real de largo alcance por todo el reino, validando la reforma de Gerald de separar a las parejas y romper camarillas cerradas.
-  - **Evolución Táctica Registrada:**
-    - **Sección Cuatro (Ken, Lady Elysea de Vane, Piper Wheel):** Sinergia térmica letal (estocada gélida y fuego solar marcial) e ingeniería de rescate a vapor frente a bestias de basalto.
-    - **Sección Cinco (Caesar King, Natsuki Subaru, Agnes Tachyon):** Vanguardia titánica de escudo, señuelos acústicos/bengalas tácticas y alquimia de frío hiperbárico frente a mantícoras de tormenta.
-    - **Sección Seis (Kaoruko Waguri, Yami Sukehiro, Lighter):** Contención pacífica perfecta (barreras sagradas y enredaderas florales de maná), boxeo veloz de combustión e intimidación de sombras ante mercenarios desertores.
-    - **Sección Dos (Erza Scarlet, Lucy, Dante Vance):** Disciplina militar acorazada, cambio de armaduras elementales, acrobacias de combate con propulsores ígneos y francotirador rúnico en ciénagas hostiles.
-    - **Secciones Tres & Siete (Rukia, Burnice, Hoshina, Pulchra / Renji, Lortelle, Freya, Zemina):** Apoyo elemental gélido, nafta festiva, dominación mercantil y fuerza de asedio en valles y canteras.
-  - **Hermandad Consolidada:** La Sección Uno de Morvath (Seier, Vlad, Akame, Borgar, Faelar, Kaelan, Vance) totalmente integrada con el círculo histórico de la F-2 y sus aliados.
-- **Próximos Pasos:** Entrega formal de informes de campaña ante el Alto Mando de la Academia y preparación para los torneos y desafíos del segundo semestre.
-- **Periodo Activo:** Madrugada de la noche de bienvenida en Solaria.
+- **Capítulo 79: El Albor del Segundo Año: Los Discípulos de Hinomoto**: Inicio formal del Segundo Año en la Gran Academia Militar y Mágica de Astraea. La apertura institucional tras la abolición de castas permite el ingreso masivo y en paz de cadetes de reinos remotos, diversas razas (elfos, enanos, semihumanos) y plebeyos becados. Los veteranos de la antigua F-2, con diecisiete años y charreteras plateadas de segundo curso, observan la llegada de los nuevos estudiantes desde las arcadas del patio de armas. Seier Silva, Ken y Lighter detectan inmediatamente a dos cadetes de intercambio provenientes del místico **Imperio de Hinomoto**: **Kenichi Shirahama**, un muchacho aparentemente tímido y humilde con petate de libros pero cuyo cuerpo esconde un condicionamiento físico y reflejos marciales sobrehumanos forjados en un entrenamiento despiadado; y **Miu Fūrinji**, una hermosa joven rubia de porte felino e ingrávido y gracia marcial casi divina. Cuando un novato bravucón intenta agredir a Kenichi, este entra en pánico cómico pero sus reflejos condicionados se activan involuntariamente, derribando al gigante con una proyección circular de Jujitsu sin causarle daño. Miu suspira reprendiéndolo con dulzura por no contener sus reflejos. Admirados por su destreza técnica, Ken, Lighter y Seier intervienen para frenar el conflicto y saludan con profundo respeto marcial a los discípulos del legendario **Dojo Fūrinji**, dándoles una cálida bienvenida a la hermandad de Astraea.
+
+---
+
+## 4. Estado Actual de la Trama y del Mundo (Post-Capítulo 79)
+- **Escenario:** Gran Patio de Armas y arcadas de la Gran Academia Militar y Mágica de Astraea / Solaria; inicio formal del ciclo del Segundo Año.
+- **Estatus Global de la Academia y la Promoción:**
+  - **Apertura Multicultural Universal:** Convivencia pacífica entre nobles, plebeyos, elfos, enanos, semihumanos y cadetes de imperios lejanos sin discriminación de linaje.
+  - **Los Veteranos de Segundo Año (17 años):** Seier, Vlad, Akame, Ken, Kaoruko, Caesar, Yami, Lucy, Subaru, Erza, Lighter y compañeros portan charreteras plateadas y prestigio consolidado como héroes de Morvath y de las fronteras.
+  - **Nuevas Incorporaciones Destacadas:** Ingreso de **Kenichi Shirahama** (discípulo tímido pero formidable, experto en reflejos defensivos de Jujitsu y Karatê) y **Miu Fūrinji** (heredera del dojo, belleza atlética y balance acrobático sobrehumano), representantes del **Dojo Fūrinji** del **Imperio de Hinomoto**.
+  - **Vínculos Forjados:** Respeto mutuo instantáneo entre los luchadores de cuerpo a cuerpo de la F-2 (Ken, Lighter, Seier) y los nuevos discípulos orientales.
+- **Próximos Pasos:** Ceremonia inaugural del Segundo Año, asignación de aulas avanzadas y primeros entrenamientos conjuntos de combate cuerpo a cuerpo.
+- **Periodo Activo:** Mañana radiante del primer día del Segundo Año académico.

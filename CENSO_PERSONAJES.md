@@ -1080,3 +1080,27 @@
 | **Dante Vance** | Sección Dos; explorador certero que silenció centinelas a 400 metros entre la bruma del pantano con disparos rúnicos de su mosquete. |
 | **Rukia Kuchiki & Burnice White** | Sección Tres; danza de hielo sagrado, cócteles chispeantes de canela y rastreo con Pulchra y Hoshina en los valles rúnicos. |
 | **Renji Abarai & Lortelle Kecheln** | Sección Siete; despliegue de *Zabimaru* contra bestias de roca y acuerdos mercantiles exclusivos con gremios mineros junto a Freya y Zemina. |
+
+
+# Censo de Personajes: Capítulo 79
+**Capítulo:** *El Albor del Segundo Año: Los Discípulos de Hinomoto*  
+**Ubicación Principal:** Gran Patio de Armas y arcadas de la residencia estudiantil, Gran Academia Militar y Mágica de Astraea.  
+**Contexto Operativo:** Apertura institucional universal del Segundo Año; desfile de nuevos estudiantes interraciales y extranjeros; llegada de la delegación de Hinomoto; encuentro marcial de Seier, Ken y Lighter con Kenichi Shirahama y Miu Fūrinji.
+
+### 1. Personajes que APARECEN en Escena
+
+| Personaje | Facción / Rol | Rol / Acción en el Capítulo | Estado al Cierre |
+| :--- | :--- | :--- | :--- |
+| **Seier Silva** | Segundo Año / Líder F-2 | Observa la marea de novatos; analiza con percepción telúrica el ki denso de Kenichi; saluda y da la bienvenida formal a los discípulos de Hinomoto. | Capitán respetado, perspicaz y anfitrión honorable (17 años). |
+| **Ken** | Segundo Año (Artista Marcial) | Detecta la alineación corporal y los nudillos de Kenichi; salta la barandilla con chispas de fuego solar felicitándolo por su proyección limpia. | Entusiasta, marcial y ansioso por entrenar (17 años). |
+| **Lighter** | Segundo Año (Hijos de Calydon) | Identifica el andar sobre metatarsos y reflejos medulares de Kenichi; bromea con su resistencia física extrema. | Carismático, boxeador sagaz y protector (17 años). |
+| **Kenichi Shirahama** | Nuevo Ingreso / Imperio de Hinomoto | Discípulo del Dojo Fūrinji; tímido, carga libros y petate; entra en pánico cómico pero derriba a un bravucón de dos metros con una proyección impecable de Jujitsu; saluda con respeto a Seier. | Humilde, disciplinado, tímido pero con condicionamiento físico sobrehumano. |
+| **Miu Fūrinji** | Nuevo Ingreso / Imperio de Hinomoto | Nieta del maestro del Dojo Fūrinji; melena rubia dorada, ojos azul violáceo, gracia atlética y felina sobrehumana; reprende con dulzura a Kenichi y saluda con reverencia tradicional. | Serena, bella, gentil y prodigio marcial supremo. |
+| **Bravucón Mercenario** | Nuevo Ingreso (Oeste) | Cadete tosco de dos metros con mandoble; intenta intimidar a Kenichi y termina sobrevolando su espalda y estrellado contra el suelo; huye intimidado por la F-2. | Humillado y escarmentado. |
+
+### 2. Personajes Mencionados pero Fuera de Escena
+| Personaje | Ubicación / Estado |
+| :--- | :--- |
+| **Instructor Gerald** | Elogiado por consolidar la apertura universal y la meritocracia en la academia. |
+| **Maestros del Dojo Fūrinji (Hayato Fūrinji)** | Mencionados como los legendarios mentores que forjaron a Kenichi y Miu en Hinomoto. |
+| **Compañeros de la F-2 (Vlad, Akame, Kaoruko, etc.)** | Mencionados en la transición al inicio formal del Segundo Año. |
