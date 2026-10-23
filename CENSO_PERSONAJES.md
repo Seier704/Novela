@@ -1049,31 +1049,34 @@
 # Censo de Personajes: Capítulo 78
 **Capítulo:** *Crónicas del Despliegue: Ecos de Fuego, Sombras y Acero*  
 **Ubicación Principal:** Salón principal de la taberna *La Jarra Plateada* (Distrito Estudiantil de Solaria).  
-**Contexto Operativo:** Relato cruzado de las misiones semestrales de la Clase F-2 y aliados por todo el territorio imperial (Garganta de Fuego, Valle de los Lirios, Paso del Trueno, Pantanos de Niebla-Negra y Colinas Plateadas); consolidación de la Generación Dorada.
+**Contexto Operativo:** Relato cruzado de las misiones semestrales de la Clase F-2 y aliados por todo el territorio imperial organizados en las secciones mixtas canónicas (Garganta de Fuego, Paso del Trueno, Valle de los Lirios y Pantanos de Niebla-Negra); consolidación de la Generación Dorada y madurez a los 17 años con parejas deliberadamente separadas.
 
 ### 1. Personajes que APARECEN en Escena
 
 | Personaje | Facción / Rol | Rol / Acción en el Capítulo | Estado al Cierre |
 | :--- | :--- | :--- | :--- |
-| **Seier Silva** | Clase F-2 / Líder | Pide los informes a sus compañeros; sostiene la mano de Kaoruko; lidera el brindis final por la Generación Dorada. | Capitán respetado, satisfecho y en armonía con sus camaradas. |
-| **Ken** | Clase F-2 (Artista Marcial) | Narra su victoria ante el Drake de Magma Alfa en la Garganta de Fuego con un uppercut solar demoledor; brinda con Borgar. | Enérgico, triunfal y listo para medirse con Seier. |
-| **Kaoruko Waguri** | Clase F-2 | Relata la misión de contención pacífica contra 40 bandidos en el Valle de los Lirios junto a Lady Vane; acaricia la mano de Seier. | Dulce, madura y protectora de la vida. |
-| **Caesar King** | Clase F-2 (Hijos de Calydon) | Cuenta cómo aguantó el embate aéreo de una Mantícora Alfa en el Paso del Trueno con su escudo de asedio. | Imponente, festivo y líder de la celebración. |
-| **Yami** | Clase F-2 (Guerrera Sombría) | Explica cómo trepó a la mantícora y le cortó las alas en pleno vuelo con dagas de miasma; bromea con Vance. | Letal, socarrona y orgullosa de su escuadrón. |
-| **Natsuki Subaru** | Clase F-2 | Relata con dramatismo el rescate de exploradores en los Pantanos de Niebla-Negra mediante bombas de fósforo y señuelos. | Carismático, ingenioso y orgulloso estratega. |
-| **Lucy** | Clase F-2 (Hijos de Calydon) | Complementa el relato de Subaru sobre las emboscadas en la niebla y la carreta anfibia a vapor de Piper. | Sonriente, afectuosa y disfrutando del banquete. |
-| **Erza Scarlet** | Aliada / Academia | Detalla el combate contra diez golems de mithril y piedra rúnica usando la Armadura de la Rueda del Cielo. | Marcial, reflexiva e intachable. |
-| **Agnes Tachyon** | Maga Experimental | Explica cómo reprogramó y neutralizó las matrices arcanas de la Tercera Dinastía en las Colinas Plateadas. | Orgullosa de su intelecto e investigando sin descanso. |
-| **Vlad** | Aliado F-2 / Sección Uno | Elogia el control no letal de Kaoruko; comparte caricias discretas con Zemina en la mesa. | Condecorado y feliz. |
-| **Akame** | Clase F-2 / Sección Uno | Escucha atenta cada historia comiendo carnes asadas; asiente con satisfacción ante el crecimiento de sus amigos. | Serena y plena en su rol de protectora. |
-| **Borgar Yunque-Férreo** | Sección Uno (Enano) | Choca jarras con Ken aplaudiendo el puñetazo al dragón; debate de forja con Caesar. | Integrado de lleno en la juerga. |
-| **Vance von Holst** | Sección Uno (Noble Menor) | Admira la sincronía marcial de Caesar y Yami; totalmente integrado en las risas de la F-2. | Liberado de prejuicios y orgulloso de pertenecer al grupo. |
-| **Faelar Vaelen** | Sección Uno (Elfo Silvano) | Escucha los datos de Agnes sonriendo; disfruta de la calidez del grupo. | Sabio y en paz. |
+| **Seier Silva** | Sección Uno / Líder F-2 | Pide los informes a sus compañeros recordando la separación de parejas decretada por Gerald; sostiene con ternura la mano de Kaoruko; lidera el brindis de la Generación Dorada. | Capitán respetado, satisfecho y en armonía con sus camaradas. |
+| **Ken** | Sección Cuatro (Artista Marcial) | Narra la misión de la Sección Cuatro en la Garganta de Fuego; relata cómo quebró la mandíbula del Drake de Magma Alfa con un uppercut solar tras el choque térmico; brinda con Borgar. | Enérgico, triunfal y respetado por los nobles de su sección. |
+| **Caesar King** | Sección Cinco (Líder Calydon) | Cuenta la expedición de la Sección Cinco en el Paso del Trueno; relata el entrenamiento espartano a Subaru y cómo bloqueó con su escudo de titanio a la mantícora alfa. | Imponente, festiva y protectora de su escuadrón. |
+| **Natsuki Subaru** | Sección Cinco | Detalla el diseño táctico con silbatos de alta frecuencia y bengalas de fósforo para embotellar a las mantícoras; elogia el escudo de Caesar; Lucy le dedica miradas tiernas. | Ingenioso, maduro y orgulloso estratega. |
+| **Kaoruko Waguri** | Sección Seis | Relata la misión de contención pacífica de la Sección Seis en el Valle de los Lirios; desplegó cúpulas sagradas y raíces florales para desarmar a 50 desertores sin derramar sangre; caricias con Seier. | Dulce, compasiva, amada y protectora de la vida. |
+| **Yami Sukehiro** | Sección Seis | Intimidó al líder de los mercenarios con el filo de su katana y presencia sombría antes de que detonara un orbe; disfruta de su cerveza en paz. | Relajado, socarrón y letal. |
+| **Erza Scarlet** | Sección Dos (Titania) | Impuso disciplina férrea a la Sección Dos; desplegó la Armadura de la Emperatriz del Agua y de la Rueda del Cielo para aniquilar una hidra del cieno en los pantanos; elogia a Lucy. | Marcial, reflexiva y capitana impecable. |
+| **Lucy** | Sección Dos (Hijos de Calydon) | Cuenta las marchas forzadas impuestas por Erza y su rescate acrobático de exploradores cautivos con dagas flamígeras; mira a Subaru con alivio y orgullo. | Sonrojada, afectuosa y guerrera ágil. |
+| **Vlad** | Sección Uno (Mando Militar) | Escucha los informes con orgullo táctico; comparte caricias discretas con Zemina en la mesa. | Condecorado, sereno y feliz. |
+| **Akame** | Sección Uno | Escucha atenta cada historia comiendo carnes asadas; asiente con satisfacción ante el crecimiento de sus amigos. | Serena y plena en su rol de protectora. |
+| **Borgar Yunque-Férreo** | Sección Uno (Enano) | Choca jarras con Ken aplaudiendo la fractura de la quijada del Drake; debate de forja con Caesar. | Integrado de lleno en la juerga. |
+| **Vance von Holst** | Sección Uno (Noble Menor) | Admira la solidez táctica de los escuadrones; totalmente integrado en las risas de la F-2. | Liberado de prejuicios y orgulloso de pertenecer al grupo. |
+| **Faelar Vaelen** | Sección Uno (Elfo Silvano) | Escucha sonriendo; disfruta de la calidez del grupo y la camaradería. | Sabio y en paz. |
 | **Kaelan Garra-Pardo** | Sección Uno (Semihumano) | Comparte asado con Subaru y Lucy mientras comenta las tácticas en ciénagas. | Alegre y satisfecho. |
 
 ### 2. Personajes Mencionados pero Fuera de Escena
 | Personaje | Ubicación / Estado |
 | :--- | :--- |
-| **Lady Vane** | Destacada por su esgrima de escarcha aristocrática en el Valle de los Lirios. |
-| **Hwa Young** | Mencionada como supervisora del riguroso entrenamiento de Ken. |
-| **Piper Wheel** | Destacada por construir el vehículo flotante a vapor en los pantanos. |
+| **Lady Elysea de Vane** | Sección Cuatro; disciplinó a nobles aristócratas y ejecutó la estocada gélida *Escarcha Silenciosa* que agrietó la armadura del Drake de Magma Alfa. |
+| **Piper Wheel** | Sección Cuatro; reparó cabrestantes averiados con motores a vapor de alta presión para evacuar a refugiados mineros en la Garganta de Fuego. |
+| **Agnes Tachyon** | Sección Cinco; arrojó reactivos termodinámicos de frío hiperbárico que congelaron las alas de la bandada de mantícoras de tormenta. |
+| **Lighter** | Sección Seis; barrió a los tiradores mercenarios en los árboles con combinaciones veloces de boxeo de combustión térmica sin causar bajas fatales. |
+| **Dante Vance** | Sección Dos; explorador certero que silenció centinelas a 400 metros entre la bruma del pantano con disparos rúnicos de su mosquete. |
+| **Rukia Kuchiki & Burnice White** | Sección Tres; danza de hielo sagrado, cócteles chispeantes de canela y rastreo con Pulchra y Hoshina en los valles rúnicos. |
+| **Renji Abarai & Lortelle Kecheln** | Sección Siete; despliegue de *Zabimaru* contra bestias de roca y acuerdos mercantiles exclusivos con gremios mineros junto a Freya y Zemina. |
