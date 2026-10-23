@@ -1,376 +1,355 @@
 # AUDITORÍA MAESTRA DE PERSONAJES (ROSTER OFICIAL)
 ## *El Camino del Reencarnado: Crónicas de Sangre, Acero y Deseo*
 **Autor:** Seier Silva  
-**Versión de Auditoría:** Cierre del Capítulo 47 (Actualizado con Reglas Canónicas)  
-**Propósito:** Base de datos y recordatorio canónico de todos los personajes con nombre para garantizar coherencia narrativa, personalidades, estilos de combate y relaciones en futuros capítulos.
+**Versión de Auditoría:** Cierre del Capítulo 86 (Inicio del Segundo Año, 17 años)  
+**Propósito:** Base de datos canónica exhaustiva de todos los personajes, facciones, estilos de combate, asignaciones académicas, vínculos románticos y estado narrativo para garantizar coherencia absoluta al continuar la obra.
 
 ---
 
 ## CONVENCIONES Y REGLAS DE ESTILO EDITORIAL
 1. **Los "Subaru":**
-   - **Hoshina** (*Subaru Hoshina*): Cadete femenina, ojos verdes, de los dormitorios de chicas, estratega y francotiradora a distancia en almenas.
-   - **Natsuki** (*Subaru Natsuki*): Cadete masculino, logística, supervivencia, combate cuerpo a cuerpo y portador del Aura de Batalla plateada.
-2. **Edad de Yami Sukehiro:** Tiene **16 años**, exactamente igual que los demás cadetes de primer año. No se recalca ni se trata como un hombre mayor en edad, sino como un joven con presencia física pesada y actitud de pocas palabras.
-3. **Los Hijos de Calydon:** Son **estudiantes oficiales y miembros de pleno derecho de la Clase F-2** de la Academia (conservando su identidad grupal y origen del páramo).
-4. **Captura de Lortelle:** Ocurrió en el **Capítulo 43**, perpetrada por **ratas subterráneas que emergieron aprovechando el caos y el humo cuando atacaron el ala médica y los almacenes subterráneos**.
+   - **Hoshina** (*Subaru Hoshina*): Cadete femenina de ojos verdes, analista táctica, francotiradora mágica y pareja romántica consolidada de **Lighter**.
+   - **Natsuki** (*Subaru Natsuki*): Cadete masculino, estratega de apoyo, combate cuerpo a cuerpo con Aura de Batalla plateada e índigo, y pareja sentimental consolidada de **Lucy** (primer beso y confesión en Caps. 58 y 60).
+2. **Evolución Temporal y Edad Oficial:**
+   - Al inicio del segundo semestre y apertura formal del **Segundo Año (Capítulos 63 al 81)**, todos los cadetes principales han cumplido **17 años** de edad, asumiendo veteranía militar y mayor madurez física y psicológica.
+3. **Identidad Canónica de Ken:**
+   - Su nombre es estrictamente **Ken** (sin apellido alguno). Inspirado en Ken de *Epic Seven* (artista marcial de fuego solar, bandana roja, pupilo de la maestra Hwa Young y novio de **Burnice White**). Queda prohibido asignarle apellidos erróneos.
+4. **Pertenencia de los Hijos de Calydon:**
+   - **Caesar King, Lighter, Piper Wheel, Lucy, Burnice White y Pulchra** son **estudiantes oficiales y miembros de pleno derecho de la Clase F-2** dentro de la Academia, conservando con orgullo su hermandad forjada en el páramo.
+5. **Identidad de Caesar King:**
+   - Es una **mujer guerrera imponente**, rubia, de ojos dorados, escudo colosal de titanio y gladius pesado. Mantiene una relación íntima y apasionada con **Yami Sukehiro** (Cap. 62).
+6. **Nueva Estructura del Segundo Año (Capítulo 80):**
+   - El Instructor Jefe Gerald abolió la separación entre magos y guerreros implementando el **Sistema de Formación Integral y Sinergia Táctica**:
+     - **División Táctica Beta:** Seier Silva, Erza Scarlet, Natsuki Subaru, Agnes Tachyon, Dante Vance, Kenichi Shirahama.
+     - **División Táctica Alfa:** Miu Fūrinji, Kaoruko Waguri, Ken, Caesar King, Vlad, Piper Wheel.
+     - Resto de miembros distribuidos en divisiones complementarias con enlace directo.
+7. **Ritmo Narrativo Diferenciado:**
+   - Escenas cotidianas, diálogos de pasillo, romance y comedia: ritmo ágil, diálogos vivos, frescos y picantes con mínima sobreexplicación.
+   - Escenas de combate, entrenamiento marcial y magia: rigor técnico, anatomía neuromuscular, desvíos, clinch, impacto cinético y descripciones viscerales.
 
 ---
 
 ## ÍNDICE RÁPIDO DE FACCIONES
 1. [Protagonista Principal](#1-protagonista-principal)
-2. [La Clase F-2 (Núcleo y Hijos de Calydon)](#2-la-clase-f-2-núcleo-y-hijos-de-calydon)
-3. [Escuadrón Mixto 7 y Aliados de Otras Clases](#3-escuadrón-mixto-7-y-aliados-de-otras-clases)
-4. [Autoridades de la Academia y Expedición](#4-autoridades-de-la-academia-y-expedición)
-5. [Rivales del Torneo Imperial (Clases A-1 y A-2)](#5-rivales-del-torneo-imperial)
-6. [Nobles Menores y Adversarios Anteriores](#6-nobles-menores-y-adversarios-anteriores)
-7. [Familia, Mentores Externos y Corona](#7-familia-mentores-externos-y-corona)
-8. [Fuerzas Enemigas: La Horda Skaven](#8-fuerzas-enemigas-la-horda-skaven)
+2. [La Antigua Clase F-2: Núcleo Heroico (Generación Dorada)](#2-la-antigua-clase-f-2-núcleo-heroico-generación-dorada)
+3. [Los Hijos de Calydon (Miembros F-2)](#3-los-hijos-de-calydon-miembros-f-2)
+4. [Aliados de la Academia y de la Corte](#4-aliados-de-la-academia-y-de-la-corte)
+5. [Nuevos Hermanos de Armas: Veteranos de la Sección Uno (Morvath)](#5-nuevos-hermanos-de-armas-veteranos-de-la-sección-uno-morvath)
+6. [Nuevos Estudiantes de Intercambio: Imperio de Hinomoto](#6-nuevos-estudiantes-de-intercambio-imperio-de-hinomoto)
+7. [Tercer Año y Autoridades Militares de Astraea](#7-tercer-año-y-autoridades-militares-de-astraea)
+8. [El Feudo Restaurado de Morvath](#8-el-feudo-restaurado-de-morvath)
+9. [Amenazas Oscuras y Estado de Hostilidades](#9-amenazas-oscuras-y-estado-de-hostilidades)
 
 ---
 
 ## 1. Protagonista Principal
 
 ### **Seier Silva**
-- **Título / Apodos:** El Heredero de las Cenizas, El Bruto de la F-2, El Monstruo del Clinch, **Caballero Defensor de la Frontera**.
-- **Condecoraciones y Posesiones:** Condecorado con la **Gran Medalla del León de Oro con Hojas de Roble** por la Corona tras abatir al Señor de la Guerra Skaven. Restitución formal de las canteras de hierro de la Casa Silva, asignación perpetua de 10.000 monedas de plata anuales y línea de crédito ilimitada con la Compañía Mercantil Elte.
-- **Origen:** Reencarnado de la Tierra (murió a los 26 años en accidente aéreo). Heredero único de la caída Casa Baronal Silva (frontera sur del Reino de Oakhaven).
-- **Edad / Físico:** 16 años | 1,75 m | 90 kg de masa muscular densa y compacta, cuello ancho, nudillos calcificados, porte intimidante.
-- **Estilo de Combate:** Híbrido pragmático de **Muay Thai** y **Jeet Kune Do**, potenciado con compresión interna de **maná telúrico (Tierra)** y deflagraciones cortas de **Fuego**. Maestría en clinch, rodillazos demoledores, codazos cortantes, Fa Jin e interceptación de trayectoria sin círculos mágicos.
-- **Personalidad:** Observador, de pocas palabras, sarcástico ante la arrogancia noble, leal a muerte con sus compañeros, hiperprotector con sus seres queridos, implacable y despiadado con sus enemigos.
-- **Relaciones Clave:**
-  - *Kaoruko Waguri:* Su primer ancla emocional en la Academia; ternura, protección mutua y romance sagrado consumado en la caleta de Costa Esmeralda con la misma magnitud trascendental que con Lortelle (Cap. 55).
-  - *Elysea de Vane:* Tensión inicial de clases que evolucionó a un respeto militar mutuo y ardiente deseo; amor noble y entrega íntima apasionada consumada en su suite bajo la luna de Costa Esmeralda, consagrando la armonía de su corazón (Cap. 56).
-  - *Lortelle Kecheln:* Rescate en el abismo, supervivencia compartida desnudos en la gruta, complicidad financiera y pasión clandestina. Rescatada de nuevo tras su captura por ratas en el hospital. Noche y amanecer de entrega íntima y apasionada en Costa Esmeralda (Caps. 53 y 54).
-  - *Ken:* Su hermano de armas, rival predilecto de sparring y contraparte solar.
-  - *Caesar King & Lighter:* Respeto absoluto entre líderes de vanguardia.
-- **Estado:** Vivo / Héroe de Solaria, líder de la Clase F-2, en plenitud absoluta en la madrugada del segundo día de vacaciones en la Costa Esmeralda, cobijado por el amor indestructible de sus tres compañeras (Lortelle, Kaoruko y Elysea).
-
-
+- **Título / Apodos:** El Heredero de las Cenizas, El Bruto de la F-2, El Monstruo del Clinch, **Caballero Defensor de la Frontera**, **Caballero Protector de Morvath**.
+- **Condecoraciones y Posesiones:**
+  - **Gran Medalla del León de Oro con Hojas de Roble** (por abatir al Señor de la Guerra Skaven en el asedio fronterizo).
+  - **Gran Cruz de Plata de la Corona** y título de **Caballero Protector de Morvath** (por liberar Morvath y sellar el Altar de Khorne).
+  - Canteras de hierro de la Casa Silva restituidas, asignación perpetua de 10.000 monedas de plata anuales y línea de crédito ilimitada con la Compañía Mercantil Elte.
+  - Colgante de madera y colmillo con león rugiente obsequiado por el pequeño Leo de Morvath.
+  - Pergamino clasificado de la Cancillería Real entregado por Lortelle sobre las **Ruinas Negras del Sur**.
+- **Edad / Físico:** **17 años** | 1,75 m | 92 kg de masa muscular densa y rocosa, cuello taurino, nudillos calcificados, mirada penetrante y templada.
+- **Armas y Equipamiento:**
+  - Combate a puño y cuerpo limpio.
+  - **Nuevos brazaletes y grebas de hierro negro y cobre** forjados a medida por Borgar Yunque-Férreo y Garret el Herrero en Morvath, especialmente diseñados para amortiguar y canalizar deflagraciones de maná telúrico sin disipación.
+- **Estilo de Combate:** Fusión pragmática letal de **Muay Thai** (clinch tailandés demoledor, rodillazos ascendentes a las costillas, codazos descendentes cortantes, patadas bajas destructoras de tendones) y **Jeet Kune Do** (interceptación del centro, economía de movimientos, lectura de trayectorias, *Fa Jin* explosivo sin telegrafiar). Todo potenciado por densa compresión interna de **maná telúrico (Tierra)** y explosiones cortas de **Fuego**.
+- **Asignación Académica:** **División Táctica Beta** (junto a Erza Scarlet, Natsuki Subaru, Agnes Tachyon, Dante Vance y Kenichi Shirahama).
+- **Vínculos Sentimentales (Trinidad Amorosa Consolidada):**
+  - *Kaoruko Waguri:* Su primer ancla de paz, amor puro y lealtad incondicional. Consagrada en ternura y pasión íntima en Costa Esmeralda (Cap. 55); reencuentro apasionado en Solaria (Cap. 77).
+  - *Lortelle Kecheln:* Supervivencia en el abismo, fuego desinhibido y complicidad financiera total. Consolidada en noches apasionadas en Costa Esmeralda (Caps. 53-54) y en su despacho consular privado en Astraea (Cap. 81).
+  - *Lady Elysea de Vane:* Admiración militar mutua, entrega aristocrática sin ataduras ni máscaras de frialdad, consumada bajo la luna en Costa Esmeralda (Cap. 56).
+- **Estado Actual:** Vivo / En Astraea, líder moral indiscutido de la Generación Dorada, al frente de la División Beta, analizando la inteligencia de las Ruinas Negras del Sur.
 
 ---
 
-## 2. La Clase F-2 (Núcleo y Hijos de Calydon)
+## 2. La Antigua Clase F-2: Núcleo Heroico (Generación Dorada)
 
 ### **Kaoruko Waguri**
-- **Clase / Rol:** Clase F-2 / Espadachina Ligera y Repostera del Aula.
-- **Físico / Rasgos:** Cabello azabache brillante, ojos expresivos y cálidos, figura esbelta y curvilínea. 16 años.
-- **Estilo de Combate:** Esgrima fluido y de alta velocidad con estoque/espada ligera, complementado con barreras purificadoras de maná acuático.
-- **Dinámica con Seier:** Pareja romántica primordial. Calidez doméstica y lealtad mutua a toda prueba. En Costa Esmeralda, consumó su amor y entrega íntima con Seier en el pabellón del acantilado al atardecer en una unión de ternura y pasión devota (Cap. 55).
-- **Estado:** Viva / Radiante, colmada de felicidad y unida a Seier en Costa Esmeralda.
-
+- **Edad / Físico:** **17 años** | Cabello azabache brillante, ojos expresivos y cálidos, figura curvilínea y elegante.
+- **Clase / Rol:** Antigua F-2 / Espadachina Ligera, Maga Protectora y Repostera del Aula.
+- **Estilo de Combate:** Esgrima veloz con estoque fino, barreras defensivas de agua sagrada y raíces florales purificadoras no letales.
+- **Asignación Académica:** **División Táctica Alfa** (junto a Miu Fūrinji, Ken, Caesar King, Vlad y Piper Wheel).
+- **Vínculos:** Pareja primordial de Seier. Abrazo y beso apasionado en el retorno a Solaria; forja una amistad compasiva inmediata con Miu Fūrinji.
+- **Estado:** Viva / Feliz, radiante y lista para coordinar defensas en la División Alfa.
 
 ### **Ken (Ken Fénix)**
-- **Clase / Rol:** Clase F-2 / Artista Marcial de Fuego Solar.
-- **Físico / Rasgos:** Cabello castaño rojizo alborotado, bandana roja en la frente, sonrisa franca y descarada, complexión atlética y fibrosa. 16 años.
-- **Estilo de Combate:** Arte marcial acrobático de patadas y puñetazos imbuido en llamas de fénix. Capaz de desplegar alas de fuego solar para vuelo y propulsión aérea. Discípulo directo de la maestra Hwa Young.
-- **Dinámica con Seier:** El mejor amigo y eterno rival. Siempre compitiendo sanamente.
-- **Vínculo Sentimental:** Pareja romántica consolidada con **Burnice White**; juró protegerla a ella y a los Hijos de Calydon tras compartir confidencias bajo las estrellas en Costa Esmeralda (Cap. 51).
-- **Estado:** Vivo / De vacaciones en la Costa Esmeralda junto a Burnice y la F-2.
+- **Edad / Físico:** **17 años** | Cabello castaño rojizo alborotado, bandana roja, complexión atlética y fibrosa, aura cálida.
+- **Clase / Rol:** Antigua F-2 / Artista Marcial de Fuego Solar. Discípulo directo de la maestra **Hwa Young**.
+- **Estilo de Combate:** Patadas acrobáticas y puñetazos imbuidos en fuego solar de fénix. Capaz de desplegar alas ígneas para propulsión y remates aéreos devastadores.
+- **Asignación Académica:** Originalmente División Alfa; **asignado de emergencia a la División Táctica Beta** por orden del Estado Mayor para calcinar capullos Skaven y biomasa parasitaria con fuego solar puro sin generar esporas tóxicas (Cap. 84).
+- **Vínculos:** Hermano de sparring de Seier; pareja sentimental consolidada de **Burnice White** (despedida fogosa con café especiado y beso apasionado en el portón sur, Cap. 84).
+- **Estado:** Vivo / En marcha hacia el sur en la División Beta con su fuego solar encendido.
 
 ### **Yami Sukehiro**
-- **Clase / Rol:** Clase F-2 / Espadachín de Magia Oscura.
-- **Edad / Rasgos:** **16 años** (igual que todos los cadetes). Torso atlético, camiseta blanca, mirada seria, cigarrillo habitual y postura pesada e intimidante de forma natural.
-- **Estilo de Combate:** Katana pesada de filo único, imbuida en **Magia de Oscuridad** y gravedad. Cortes de penumbra devastadores que anulan magia enemiga.
-- **Dinámica con Seier:** Respeta el estilo directo y pragmático de Seier. Compañero de confianza en la vanguardia.
-- **Estado:** Vivo / En Costa Esmeralda aconsejando a Natsuki y disfrutando de la brisa marina.
+- **Edad / Físico:** **17 años** | Torso ancho, camiseta blanca, postura pesada habitual, puro en comisura y presencia intimidante natural.
+- **Clase / Rol:** Antigua F-2 / Espadachín de Magia Oscura.
+- **Estilo de Combate:** Katana pesada de filo negro imbuida en Magia de Oscuridad y Gravedad. Tajo dimensional y absorción de maná hostil.
+- **Vínculos:** Respeto militar absoluto por Seier; pareja íntima y apasionada de **Caesar King** tras su duelo de licor y noche de entrega salvaje en Costa Esmeralda (Cap. 62).
+- **Estado:** Vivo / Relajado, socarrón y letal en el Segundo Año.
 
 ### **Akame**
-- **Clase / Rol:** Clase F-2 / Asesina de Élite y Especialista en Infiltración.
-- **Físico / Rasgos:** Melena negra lacia, ojos rojos carmesí penetrantes, uniforme oscuro y corbata roja. 16 años. Gran apetito por carne.
-- **Estilo de Combate:** Velocidad supersónica con su katana *Murasame*. Cortes limpios, sigilo absoluto y ejecución letal sin emitir sonido ("*Eliminar*").
-- **Dinámica con Seier:** Entendimiento silencioso y lealtad total ante el combate pragmático.
-- **Estado:** Viva / Disfrutando de los banquetes de mariscos en la playa junto a Pulchra.
+- **Edad / Físico:** **17 años** | Melena negra lacia, ojos carmesí penetrantes, apetito insaciable por carne asada.
+- **Clase / Rol:** Antigua F-2 / Asesina de Élite y Especialista en Infiltración. Condecorada con **Mérito Militar de Clase S** por la purga de Morvath.
+- **Armamento:** Katana maldita *Murasame* y cota de malla ligera personalizada confeccionada por Borgar.
+- **Estilo de Combate:** Velocidad supersónica, cortes limpios, sigilo mortal ("*Eliminar*") e inmunidad al pánico.
+- **Vínculos:** Guardaespaldas táctica y compañera silenciosa de Seier en la vanguardia.
+- **Estado:** Viva / Plena, alerta y en sintonía total con la hermandad.
 
 ### **Erza Scarlet (Titania)**
-- **Clase / Rol:** Clase F-2 / Maga de Rearme y Baluarte Acorazado.
-- **Físico / Rasgos:** Larga cabellera escarlata brillante, porte noble, armadura de placas plateadas pulidas. 16 años.
-- **Estilo de Combate:** Magia espacial de *Rearme (The Knight)*. Cambio instantáneo de armaduras (Rueda del Cielo, Emperatriz del Fuego, etc.) y control telequinético de espadas.
-- **Dinámica con Seier:** Considera a Seier el estandarte marcial del aula. Forman una vanguardia infranqueable.
-- **Estado:** Viva / En la pérgola de la villa degustando pasteles de fruta en paz.
+- **Edad / Físico:** **17 años** | Melena escarlata brillante, porte noble, armadura plateada de vanguardia.
+- **Clase / Rol:** Antigua F-2 / Baluarte Acorazado y Maga de Rearme.
+- **Estilo de Combate:** Magia espacial de *Rearme (The Knight)*. Despliegue instantáneo de armaduras elementales (Rueda del Cielo, Emperatriz del Agua, Emperatriz del Fuego) y control telequinético de espadas.
+- **Asignación Académica:** **División Táctica Beta** (líder disciplinaria junto a Seier).
+- **Dinámica:** Admiradora del temple de Seier; impone una mirada marcial estricta que provoca pánico cómico en Kenichi Shirahama.
+- **Estado:** Viva / Firme y disciplinada en la División Beta.
 
 ### **Hoshina (Subaru Hoshina)**
-- **Clase / Rol:** Clase F-2 / Estratega, Francotiradora Mágica y Analista Táctica.
-- **Físico / Rasgos:** Cabello corto, ojos verdes intensos, mirada analítica, voz calmada. 16 años.
-- **Estilo de Combate:** Disparos mágicos a larga distancia, balística rúnica y coordinación de posiciones de tiro en altura.
-- **Dinámica con Seier:** Amiga cercana de Kaoruko desde los dormitorios. Confía plenamente en las decisiones de Seier.
-- **Vínculo Sentimental:** Pareja romántica consolidada con **Lighter**; unieron sus manos a la orilla del mar compartiendo su abrigo y entendimiento mutuo (Cap. 51).
-- **Estado:** Viva / En la playa de Costa Esmeralda junto a Lighter.
+- **Edad / Físico:** **17 años** | Cabello corto, ojos verdes intensos, mirada serena y analítica.
+- **Clase / Rol:** Antigua F-2 / Analista Táctica y Francotiradora Rúnica.
+- **Estilo de Combate:** Balística mágica a larga distancia, disparos rúnicos perforantes y triangulación de posiciones de tiro.
+- **Vínculos:** Amiga íntima de Kaoruko; pareja sentimental consolidada de **Lighter**.
+- **Estado:** Viva / Concentrada en logística táctica.
 
 ### **Natsuki (Subaru Natsuki)**
-- **Clase / Rol:** Clase F-2 / Logista, Explorador y Combatiente de Aura Plateada.
-- **Físico / Rasgos:** Cabello negro peinado hacia atrás, complexión templada por el entrenamiento duro con Seier y Yami. 16 años.
-- **Estilo de Combate:** Dagas cortas, patadas reforzadas con **Aura de Batalla plateada con destellos índigo**. Gran instinto de lectura de trayectorias y resistencia física.
-- **Dinámica con Seier:** Seier lo entrenó para convertirlo en un guerrero seguro de sí mismo. Natsuki lo respeta como su líder.
-- **Vínculos y Personalidad:** Posee una empatía y paciencia legendarias para tratar con personalidades difíciles y orgullosas, fruto de haber cuidado a alguien de temperamento idéntico en su vida pasada. Amigo íntimo y protector de **Lucy** (a quien desarma con comprensión, sandía fresca y dulzura, consolidando una ternura mutua y complicidad profunda en la playa) y de **Piper Wheel** (a quien trata con afecto filial de abuela y ayuda en la mecánica).
-- **Estado:** Vivo / En Costa Esmeralda, compartiendo risas, confidencias y un vínculo entrañable con Lucy bajo el sol estival (Cap. 57).
-
+- **Edad / Físico:** **17 años** | Cabello negro peinado hacia atrás, complexión templada y fibrosa.
+- **Clase / Rol:** Antigua F-2 / Estratega de Apoyo, Logista y Combatiente de Vanguardia.
+- **Estilo de Combate:** Dagas tácticas cortas, combate cuerpo a cuerpo y desvíos potenciados con **Aura de Batalla plateada e índigo**. Gran lectura de situaciones límite.
+- **Asignación Académica:** **División Táctica Beta**.
+- **Vínculos:** Hermano de armas de Seier; pareja romántica consolidada de **Lucy** tras confesar su amor y besarse en Costa Esmeralda (Caps. 58 y 60). Amigo entrañable de Kenichi.
+- **Estado:** Vivo / Maduro, alegre y confidente táctico en la División Beta.
 
 ### **Rukia Kuchiki**
-- **Clase / Rol:** Clase F-2 / Noble Espadachina de Hielo Sagrado.
-- **Físico / Rasgos:** Menuda, cabello negro azabache con mechón frontal característico, ojos violetas, porte aristocrático, elegante y sereno. 16 años.
-- **Estilo de Combate:** Katana *Sode no Shirayuki*. Danzas glaciales (*Luna Blanca*, *Onda Blanca*) que congelan el miasma y enemigos a cero absoluto.
-- **Dinámica con la F-2 y Renji:** Hermana de armas leal y respetada. Pareja sentimental de **Renji Abarai**; conserva su caracola marina como un tesoro y reposa a su lado bajo la luna (Cap. 51).
-- **Estado:** Viva / De vacaciones con toda la F-2 en la Costa Esmeralda junto a Renji.
+- **Edad / Físico:** **17 años** | Menuda, cabello negro azabache con mechón frontal, ojos violetas, porte aristocrático sereno.
+- **Clase / Rol:** Antigua F-2 / Espadachina de Hielo Sagrado.
+- **Estilo de Combate:** Katana *Sode no Shirayuki*. Danzas glaciales purificadoras a cero absoluto.
+- **Vínculos:** Pareja consolidada y dulce de **Renji Abarai**.
+- **Estado:** Viva / En paz y serena en la academia.
 
 ### **Renji Abarai**
-- **Clase / Rol:** Clase F-2 / Espadachín de Asalto e Impacto.
-- **Físico / Rasgos:** Alto, atlético y musculoso, cabello rojo encendido en coleta alta, tatuajes tribales por hombros y cuello, carácter fogoso pero leal. 16 años.
-- **Estilo de Combate:** Espada serpiente articulada *Zabimaru*, que se extiende como látigo dentado para barrer hordas.
-- **Dinámica con la F-2 y Rukia:** Compañero leal de primera línea en la F-2. Pareja sentimental de **Rukia Kuchiki**; juró ante la luna que su espada siempre la defenderá (Cap. 51).
-- **Estado:** Vivo / De vacaciones con toda la F-2 en la Costa Esmeralda junto a Rukia.
+- **Edad / Físico:** **17 años** | Musculoso, cabello rojo encendido en coleta alta, tatuajes tribales en cuello y hombros.
+- **Clase / Rol:** Antigua F-2 / Espadachín de Asalto.
+- **Estilo de Combate:** Espada serpiente articulada *Zabimaru*, azote extensible de cuchillas para barrido de hordas.
+- **Vínculos:** Pareja devota de **Rukia Kuchiki**.
+- **Estado:** Vivo / Fuerte y listo para el combate en Segundo Año.
 
 ---
 
-### Miembros de la Clase F-2: Los Hijos de Calydon
-*(Estudiantes oficiales de la Clase F-2 con identidad y hermandad forjada en el páramo).*
+## 3. Los Hijos de Calydon (Miembros F-2)
 
 ### **Caesar King**
-- **Clase / Rol:** Clase F-2 / Líder de los Hijos de Calydon ("La Reina").
-- **Físico / Armamento:** Rubia imponente, ojos firmes y protectores. Porta un **escudo de torre de titanio** y un **gladius pesado**. 16 años.
-- **Estilo de Combate:** Choque de primera línea, resistencia colosal y tajos demoledores de gladius.
-- **Dinámica con Seier:** Respeto mutuo entre líderes de fuerza bruta y honor; considera a la F-2 su verdadera familia.
-- **Estado:** Viva / Brindando con sidra y celebrando en Costa Esmeralda.
+- **Edad / Físico:** **17 años** | Mujer imponente, melena rubia ceniza, ojos dorados fieros y cálidos, físico atlético y curvilíneo.
+- **Clase / Rol:** Antigua F-2 / Líder de los Hijos de Calydon ("La Reina").
+- **Armamento / Estilo:** **Escudo colosal de torre de titanio** y **gladius pesado**. Choque brutal de infantería y contención inquebrantable de bestias.
+- **Asignación Académica:** **División Táctica Alfa**.
+- **Vínculos:** Romance apasionado con **Yami Sukehiro** (Cap. 62); protectora entusiasta de Miu Fūrinji y Kaoruko.
+- **Estado:** Viva / Eufórica y líder de la primera línea en la División Alfa.
 
 ### **Lighter**
-- **Clase / Rol:** Clase F-2 (Hijos de Calydon) / Campeón Boxeador.
-- **Físico / Armamento:** Cabello castaño con pañuelo/gafas, guanteletes mecánicos de vapor sobrecalentado. 16 años.
-- **Estilo de Combate:** Boxeo puro combinado con deflagraciones de combustión directa a corta distancia.
-- **Dinámica con Seier:** Hermanos de combate cuerpo a cuerpo y sparring constante.
-- **Vínculo Sentimental:** Pareja romántica consolidada con **Hoshina**; protector y dulce con ella en la playa (Cap. 51).
-- **Estado:** Vivo / En Costa Esmeralda junto a Hoshina.
+- **Edad / Físico:** **17 años** | Cabello castaño, pañuelo/gafas, porte de boxeador ágil.
+- **Clase / Rol:** Antigua F-2 / Campeón Boxeador de Combustión / **Líder de la División Táctica de Lighter**.
+- **Estilo de Combate:** Combinaciones veloces de jabs y ganchos reforzados con detonaciones térmicas directas a corta distancia mediante guanteletes a vapor.
+- **Vínculos:** Pareja sentimental consolidada de **Hoshina**.
+- **Rol en la Trama (Cap. 82):** Convocado formalmente por el Lord Comandante Valerick junto a la división de Seier para encabezar la expedición de choque a las Ruinas Negras del Sur.
+- **Estado:** Vivo / Carismático, intrépido y líder de choque de su división (17 años).
 
 ### **Piper Wheel**
-- **Clase / Rol:** Clase F-2 (Hijos de Calydon) / Mecánica de Combate.
-- **Físico / Armamento:** Joven menuda pero de fuerza descomunal. Empuña una **rueda-hacha dentada gigante con motor de combustión**. 16 años.
-- **Estilo de Combate:** Cortes giratorios a miles de RPM capaces de pulverizar acero y corazas Skaven.
-- **Dinámica y Personalidad:** Actitud bonachona y entrañable de abuelita campesina; reparte galletas, se queja de sus lumbares y adopta a Natsuki como aprendiz y nieto honorífico tras su interés por los motores (Cap. 52).
-- **Estado:** Viva / En la villa de Costa Esmeralda compartiendo confidencias con Natsuki y Lucy.
+- **Edad / Físico:** **17 años** | Menuda, cabello claro en coletas, fuerza sobrehumana engañosa y temperamento dulce de abuelita bonachona.
+- **Clase / Rol:** Antigua F-2 / Ingeniera Mecánica y Artillera Pesada.
+- **Armamento:** **Rueda-hacha dentada colosal con motor a vapor de alta presión**.
+- **Asignación Académica:** **División Táctica Alfa**.
+- **Vínculos:** Trata a Natsuki como a un nieto; provee galletas y reparaciones mecánicas.
+- **Estado:** Viva / En la División Alfa con sus motores a punto.
 
 ### **Lucy**
-- **Clase / Rol:** Clase F-2 (Hijos de Calydon) / Artillera de Apoyo.
-- **Físico / Armamento:** Rubia con coletas altas, conjunto de playa rojo y negro en Costa Esmeralda, actitud de matona consentida y leal. Porta un **bate de béisbol envuelto en llamas** y proyectiles explosivos. (Ilustración oficial con Natsuki: [natsuki_lucy_playa.png](file:///c:/Users/fsilv/OneDrive/Documentos/GitHub/Novela/imagenes/natsuki_lucy_playa.png)). 16 años.
-- **Estilo de Combate:** Bateo de bombas a distancia, cortinas de fuego y saturación.
-- **Dinámica y Vínculos:** Orgullosa y exigente; oculta su soledad y lealtad tras berrinches de niña consentida. Desarmada por la paciencia, dulzura y empatía de **Natsuki**, con quien consolida un lazo profundo de confianza, sonrojos compartidos y complicidad afectiva en la orilla de la playa (Cap. 57).
-- **Estado:** Viva / En Costa Esmeralda, sonrojada, feliz y profundamente encariñada con Natsuki.
-
+- **Edad / Físico:** **17 años** | Rubia con coletas altas, ojos dorados, actitud de matona consentida que esconde un corazón hipersensible y dulce.
+- **Clase / Rol:** Antigua F-2 / Artillera de Choque y Acróbata con Dagas.
+- **Armamento:** **Bate de béisbol envuelto en llamas**, proyectiles ígneos y dagas flamígeras gemelas.
+- **Vínculos:** Pareja romántica consolidada de **Natsuki Subaru** (confesión y primer beso en Costa Esmeralda); tierna y celosa con él.
+- **Estado:** Viva / Enamorada, feliz y ágil combatiente.
 
 ### **Burnice White**
-- **Clase / Rol:** Clase F-2 (Hijos de Calydon) / Especialista en Fuego y Nafta.
-- **Físico / Armamento:** Rubia, sonrisa alegre y enérgica. Usa lanzallamas gemelos a la espalda y mezclas químicas volátiles. 16 años.
-- **Estilo de Combate:** Fuego continuo, trampas de ignición y defensa de fosos perimetrales.
-- **Vínculo Sentimental:** Pareja romántica consolidada con **Ken**; acurrucada junto a él junto a las brasas en Costa Esmeralda (Cap. 51).
-- **Estado:** Viva / Enamorada y feliz en Costa Esmeralda junto a Ken.
+- **Edad / Físico:** **17 años** | Rubia de sonrisa chispeante y desbordante energía festiva.
+- **Clase / Rol:** Antigua F-2 / Especialista en Nafta y Fuego Químico.
+- **Armamento:** Lanzallamas gemelos a la espalda y cócteles químicos de pimienta y combustible ardiente.
+- **Vínculos:** Pareja romántica consolidada de **Ken**.
+- **Estado:** Viva / Feliz y enamorada junto a Ken.
 
 ### **Pulchra**
-- **Clase / Rol:** Clase F-2 (Hijos de Calydon) / Exploradora y Asesina Felina.
-- **Físico / Armamento:** Chica semi-humana felina, orejas y cola ágiles, ojos ámbar rasgados. Porta **dos dagas curvas gemelas invertidas**. 16 años.
-- **Estilo de Combate:** Sigilo acrobático, degollamientos silenciosos y desarticulación de guardias.
-- **Estado:** Viva / Reconocimiento en las almenas.
+- **Edad / Físico:** **17 años** | Semihumana felina, orejas y cola ágiles, ojos ámbar. Dagas curvas gemelas invertidas.
+- **Clase / Rol:** Antigua F-2 / Exploradora y Asesina Sigilosa.
+- **Estado:** Viva / Patrullando aleros y sombras con Akame.
 
 ---
 
-## 3. Escuadrón Mixto 7 y Aliados de Otras Clases
+## 4. Aliados de la Academia y de la Corte
 
 ### **Lady Elysea de Vane**
-- **Clase / Rol:** Clase A-2 / Escuadrón 7. Noble élfica de la Casa de Vane.
-- **Físico / Armas:** Cabello plateado como luz de luna, ojos zafiro gélidos, figura esbelta y distinguida, camisón de seda con encaje plateado en el resort, estoque *Escarcha Silenciosa*. (Ilustración oficial: [elysea_de_vane.png](file:///c:/Users/fsilv/OneDrive/Documentos/GitHub/Novela/imagenes/elysea_de_vane.png)). 16 años.
-- **Dinámica con Seier:** De la rivalidad aristocrática inicial al respeto marcial y admiración devota tras el abismo y el asedio Skaven. En Costa Esmeralda, despojó su máscara de frialdad y consumó su entrega íntima y apasionada con Seier en su suite bajo la luna en un éxtasis compartido (Cap. 56).
-- **Estado:** Viva / Radiante, en paz y colmada de plenitud amorosa acurrucada junto a Seier en la Costa Esmeralda.
-
+- **Edad / Físico:** **17 años** | Noble élfica de la Casa de Vane, cabello plateado como luz de luna, ojos zafiro gélidos, figura esbelta aristocrática.
+- **Clase / Rol:** Antigua Clase A-2 / Escuadrón 7.
+- **Armamento / Estilo:** Estoque rúnico *Escarcha Silenciosa*. Esgrima aristocrática de choque térmico y estocadas de hielo puro.
+- **Vínculos:** Integrante de la trinidad romántica de Seier; entrega íntima desinhibida consumada bajo la luna en Costa Esmeralda (Cap. 56).
+- **Rol en la Trama (Cap. 84):** Acude solemnemente al portón sur para despedir a Seier; le entrega un broche de plata con flor de escarcha y lágrima de hielo eterno para amortiguar el miasma y regular su temperatura corporal; sella su despedida con un beso apasionado y posesivo en los labios ante la corte y el ejército, exigiéndole volver victorioso.
+- **Estado:** Viva / Radiante, distinguida y devota de Seier.
 
 ### **Lortelle Kecheln**
-- **Clase / Rol:** Clase C / Heredera de la **Compañía Mercantil Elte**.
-- **Físico / Rasgos:** Cabello castaño claro con reflejos dorados, ojos verdes felinos, belleza sofisticada y pícara. 16 años.
-- **Dinámica con Seier:** Sobrevivieron desnudos en el abismo compartiendo calor; amante apasionada, cómplice y aliada financiera clave. En Costa Esmeralda, selló su entrega íntima con Seier en su habitación sellada mágicamente tras una noche de pasión desinhibida (Cap. 53) y una entrega matutina sensual antes de unirse al desayuno de la F-2 en la terraza (Cap. 54).
-- **Incidente del Asedio:** **Capturada por ratas subterráneas que aprovecharon el caos y el humo cuando atacaron el ala médica en el Cap. 43**; rescatada con vida en el Cap. 46 por Seier y los Hijos de Calydon.
-- **Estado:** Viva / Radiante, satisfecha y en complicidad secreta con Seier, compartiendo el desayuno de la F-2 en la terraza de Costa Esmeralda.
-
-
-### **Dante Vance**
-- **Clase / Rol:** Clase B-1 / Escuadrón 7. Explorador y trampero. 16 años.
-- **Armamento:** **Mosquete rúnico / ballesta de repetición** y **espada corta militar de cazador**.
-- **Estado:** Vivo / Patrullando túneles perimetrales de escape.
-
-### **Freya Skuld**
-- **Clase / Rol:** Clase C-1 / Escuadrón 7. Guerrera bárbara de la Costa Helada. 16 años.
-- **Armamento:** **Lanza pesada de colmillo de morsa** y **escudo redondo de roble y hierro**.
-- **Estado:** Viva / Apoyando a los heridos en la enfermería.
+- **Edad / Físico:** **17 años** | Heredera de la **Compañía Mercantil Elte**. **Cabello rojo encendido (melena rojiza y sedosa con reflejos bermellón)**, ojos verdes felinos deslumbrantes y belleza aristocrática y pícara. (Ilustración oficial: [lortelle_kecheln.png](file:///c:/Users/fabian.silvat/Documents/GitHub/Novela-main/imagenes/lortelle_kecheln.png)).
+- **Clase / Rol:** Clase C / Titán Logístico y Financiero de Astraea.
+- **Poder Estratégico en Segundo Año (Cap. 81):**
+  - Controla cincuenta becas completas de cadetes novatos de Primer Año asegurando su lealtad futura a la compañía.
+  - Vende cargamentos de oricalco y matrices de mithril a los egresados de Tercer Año a cambio de informes clasificados del Estado Mayor.
+  - Financia y abastece con pertrechos de élite a Seier y a la Generación Dorada.
+  - Entregó a Seier el informe secreto de la Corona sobre las **Ruinas Negras del Sur**.
+- **Vínculos:** Amante apasionada, confidente y aliada suprema de Seier. Beso voraz y reafirmación de su pacto íntimo en su despacho sellado mágicamente (Cap. 81).
+- **Estado:** Viva / En la cumbre de su influencia política, financiera y amorosa.
 
 ### **Vlad**
-- **Clase / Rol:** Clase B / Mando militar de infantería. Noble de linaje ducal. 16 años.
-- **Armamento:** Espada bastarda y escudo de asedio. Dirección táctica de formaciones defensivas.
-- **Dinámica con Seier y la F-2:** Respeto mutuo y profunda hermandad marcial forjada en el asedio. Invitado formal a las vacaciones de verano en la Costa Esmeralda.
-- **Vínculo Sentimental:** Pareja y amante oficial de Zemina tras entregarse mutuamente en cuerpo y alma en la noche de la Costa Esmeralda (Cap. 50). Ha jurado anteponer su amor a cualquier imposición de su ducado.
-- **Estado:** Vivo / Enamorado, pleno y disfrutando las vacaciones en la Costa Esmeralda junto a Zemina y la F-2.
+- **Edad / Físico:** **17 años** | Noble de linaje ducal, alto, marcial, hombros anchos y mirada serena de estratega.
+- **Clase / Rol:** Antigua Clase B / Mando Militar de Infantería.
+- **Condecoraciones:** Condecorado con el **Laurel Dorado Real** por la Corona tras la liberación de Morvath.
+- **Armamento:** Espada bastarda ancestral y escudo de asedio reforzado con el nuevo blasón de Morvath forjado por Borgar.
+- **Asignación Académica:** **División Táctica Alfa** (vanguardia defensiva pesada).
+- **Vínculos:** Hermano de mando de Seier; pareja oficial, apasionada y comprometida de **Zemina**.
+- **Estado:** Vivo / Héroe condecorado, feliz y en perfecta coordinación táctica.
 
 ### **Zemina**
-- **Rol / Vínculo:** Mejor amiga de la infancia y amante oficial de Vlad. Invitada especial en las vacaciones de la Costa Esmeralda.
-- **Físico / Rasgos:** Cabello cobrizo ondulado recogido con gracia, rostro salpicado de delicadas pecas, mirada ambarina cálida y sincera, complexión femenina voluptuosa y elegante. (Ilustración oficial: [zemina.png](file:///c:/Users/fsilv/OneDrive/Documentos/GitHub/Novela/imagenes/zemina.png)). 16 años.
-- **Personalidad:** Dulce, apasionada, perceptiva, comprensiva y decidida; rompió las dudas de Vlad con su beso audaz y su entrega apasionada.
-- **Estado:** Viva / Amante oficial de Vlad, plenamente integrada con calidez por la Clase F-2 en la Costa Esmeralda.
+- **Edad / Físico:** **17 años** | Nobleza de Solaria, cabello cobrizo ondulado, pecas adorables, ojos ámbar y figura voluptuosa.
+- **Rol / Vínculos:** Amante oficial y pareja consagrada de **Vlad**; bienvenida apasionada y besos en el patio de Solaria (Cap. 77).
+- **Estado:** Viva / Radiante al lado de su caballero.
 
 ### **Agnes Tachyon**
-- **Rol:** Alquimista Investigadora de la Academia.
-- **Armas / Equipo:** Minas químicas de fósforo blanco, viales volátiles y sueros neutralizadores.
-- **Estado:** Viva / Laboratorios alquímicos de la Academia.
+- **Edad / Físico:** **17 años** | Alquimista investigadora genial y excéntrica de bata blanca manchada de reactivos.
+- **Armamento / Estilo:** Termodinámica hiperbárica, viales de fósforo blanco, sueros criogénicos y matrices inestables.
+- **Asignación Académica:** **División Táctica Beta** (intrigada por la resistencia neuromuscular de Kenichi).
+- **Estado:** Viva / En la División Beta lista para experimentar.
+
+### **Dante Vance**
+- **Edad / Físico:** **17 años** | Explorador y tirador certero de la academia.
+- **Armamento:** Mosquete rúnico de precisión a 400 metros y espada corta militar.
+- **Asignación Académica:** **División Táctica Beta**.
+- **Estado:** Vivo / En la División Beta cubriendo líneas de tiro.
+
+### **Freya Skuld**
+- **Edad / Físico:** **17 años** | Bárbara nórdica de la Costa Helada, lanza de colmillo de morsa marina y escudo de roble con hierro.
+- **Estado:** Viva / Integrada a las divisiones tácticas avanzadas.
 
 ---
 
-## 4. Autoridades de la Academia y Expedición
-- **Instructor Principal Gerald:** Comandante militar en jefe de la fortaleza; veterano con rostro de granito.
-- **Mariscal de Campo / Maestro Vaneck:** Instructor jefe en la capital; rostro marcado por ácido de bestia.
-
----
-
-## 5. Rivales del Torneo Imperial (Clases A-1 y A-2)
-*(En Solaria o en sus feudos).*
-- Sir Leon de Valois (A-2, paladín solar).
-- Selene (A-2, duelista de hielo).
-- Morpheus (A-2, arcanista ilusorio).
-- Lord Malakar von Ravenscroft (A-1, piromante negro).
-- Lady Seraphina de Valois (A-1, maga espacial).
-- Gideon (A-1, berserker gigante).
-
----
-
-## 6. Nobles Menores y Adversarios Anteriores
-- Cedric de Montfort (Cap. 1).
-- Lord Percival de Beaumont (Cap. 2).
-- Hermanos Valenwood (Cap. 27).
-- Casa Eisenhardt (Cap. 24).
-
----
-
-## 7. Familia, Mentores Externos y Corona
-- Ronald y Elena Silva (padres difuntos de Seier).
-- Marqués Delacroix (noble traidor de la corte).
-- Rey de Oakhaven (monarca del reino).
-- Hwa Young (maestra de Ken).
-- 400 Caballeros de la Orden del León (caballería pesada de acero enviada por la Corona, Cap. 47).
-
----
-
-## 8. Fuerzas Enemigas: La Horda Skaven
-- **Señor de la Guerra Skaven (Warlord):** **Muerto y decapitado en el Cap. 47.**
-- **Sacerdote de la Plaga:** **Ejecutado por Akame en el Cap. 44.**
-- **Ratas Ogro (4 bestias):** **Muertas en los Caps. 42 y 43.**
-- **Alimañas de la Tormenta & Monjes de la Plaga:** **Masacrados en los Caps. 45-47.**
-- **Esclavos Skaven:** En desbandada y dispersos.
-
-
----
-
-## 9. Nuevos Cadetes y Compañeros de Sección (Segundo Semestre)
+## 5. Nuevos Hermanos de Armas: Veteranos de la Sección Uno (Morvath)
 
 ### **Borgar Yunque-Férreo**
-- **Raza / Clase:** Enano / Sección Uno (Segundo Semestre).
-- **Físico / Rasgos:** Hombros descomunales, barba trenzada cobriza, piel curtida de forja, tosco y ruidoso pero de risa franca y lealtad inquebrantable. 16 años (camino a los 17).
-- **Armamento / Combate:** Martillo rúnico pesado de guerra y coraza enana de acero negro. Combate de choque brutal y resistencia física descomunal.
-- **Dinámica con la Sección Uno:** Desafió a Vlad en el primer día; tras ser derribado limpiamente por el caballero, reconoció el valor del grupo con orgullo y ofreció forjar y reparar las cotas de malla de la escuadra.
+- **Raza / Edad:** Enano / **17 años**. Barba cobriza trenzada, complexión maciza como una roca.
+- **Armamento:** Martillo rúnico colosal de acero negro y herramientas maestras de forja.
+- **Hazañas:** Forjó junto a Garret el nuevo blindaje de Seier (brazaletes y grebas de absorción de maná) y cotas para Akame y Kaelan.
+- **Estado:** Vivo / Integrado plenamente a la hermandad de la F-2, festejando en La Jarra Plateada y condecorado con Mérito de Clase S.
 
 ### **Faelar Vaelen**
-- **Raza / Clase:** Elfo Silvano / Sección Uno (Segundo Semestre).
-- **Físico / Rasgos:** Cabello castaño lacio, orejas largas y puntiagudas, ojos almendrados verdes, túnica verde musgo de cazador. 16 años.
-- **Armamento / Combate:** Arco largo de tejo reforzado con magia rúnica de viento y dagas gemelas de caza. Tiro balístico de alta precisión y cobertura a distancia.
-- **Dinámica con la Sección Uno:** Inicialmente distante y fastidiado por el ruido de Borgar; impresionado por el pragmatismo de Seier y Akame, comprometió su puntería para cubrir la retaguardia de la vanguardia.
+- **Raza / Edad:** Elfo Silvano / **17 años**. Túnica verde musgo, orejas largas puntiagudas, mirada serena y analítica.
+- **Armamento:** Arco largo rúnico de viento y saetas helicoidales de cobre fabricadas por Garret y Borgar.
+- **Hazañas:** Desvió el montante de Valerius salvando al pequeño Leo; invocó el Espíritu de Ave Mensajera que trajo a los Cien Caballeros de la Corona.
+- **Estado:** Vivo / Condecorado con Mérito de Clase S, hermano leal de armas de Seier y Vlad.
 
 ### **Kaelan Garra-Pardo**
-- **Raza / Clase:** Semihumano (Felino / Lince Gris) / Sección Uno (Segundo Semestre).
-- **Físico / Rasgos:** Orejas de lince erguidas con mechones negros, cola grisácea ágil, ojos ámbar rasgados con pupilas verticales, complexión atlética y movimientos felinos silenciosos. 16 años.
-- **Armamento / Combate:** Guanteletes de cuero reforzado con cuchillas curvas retráctiles de aleación ligera. Sigilo depredador, combate a cuatro apoyos y rastreo instintivo por olfato.
-- **Dinámica con la Sección Uno:** Solitario y desconfiado. Intentó medir la velocidad de Akame y fue neutralizado en un parpadeo; reconoció la superioridad del grupo y asumió el rol de explorador y rastreador de emboscadas.
+- **Raza / Edad:** Semihumano (Felino / Lince Gris) / **17 años**. Orejas con mechones negros, cola ágil, garras retráctiles ligeras.
+- **Hazañas:** Rastreo y aniquilación de centinelas cultistas en Sauceda y Morvath; cota ligera de Borgar.
+- **Estado:** Vivo / Condecorado con Mérito de Clase S, plenamente adaptado a la vida comunitaria.
 
 ### **Vance von Holst**
-- **Raza / Clase:** Humano (Noble Menor, Casa Baronal Holst) / Sección Uno (Segundo Semestre, ex-Clase A-2).
-- **Físico / Rasgos:** Cabello rubio engominado, capa carmesí con broche de oro, complexión esbelta de duelista cortesano. 16 años.
-- **Armamento / Combate:** Estoque dorado de esgrima de precisión. Estilo lineal y rápido de salón noble.
-- **Dinámica con la Sección Uno:** Inició con soberbia aristocrática; fue humillado y sometido en dos segundos por Seier mediante barrido y clinch letal de Muay Thai. Tras el pánico inicial, aprendió a respetar la jerarquía del aula por pura supervivencia.
-
+- **Raza / Edad:** Humano (Noble Menor) / **17 años**. Rubio engominado, porte esbelto de duelista noble.
+- **Condecoraciones:** Condecorado con la **Orden de la Espada Justa** de la Corona; redimió su honor familiar protegiendo aldeanos y batiéndose con estoque y daga de parada.
+- **Estado:** Vivo / Caballero noble humilde, respetado y hermano inseparable de la Sección Uno.
 
 ---
 
-## 10. La Casa Condal de Morvath y Habitantes del Feudo (Segundo Semestre)
+## 6. Nuevos Estudiantes de Intercambio: Imperio de Hinomoto
 
-### **Conde Raymond de Morvath**
-- **Rol:** Señor Feudal del Condado de Morvath.
-- **Físico / Rasgos:** Hombre gordo y rubicundo, de mejillas fofas, ojos acuosos e indolentes, manos enjoyadas y aliento pesado a vino dulce.
-- **Personalidad / Estado:** Decadente, negligente y corrupto; gasta los impuestos en banquetes rancios mientras sus caminos se desmoronan y los campesinos mueren de hambre. Desprecia a los cadetes considerándolos niños.
+### **Kenichi Shirahama**
+- **Origen:** Imperio de Hinomoto / Discípulo del legendario **Dojo Fūrinji** (entrenado en el temible dojo de maestros Ryōzanpaku).
+- **Edad / Físico:** **17 años** | Joven de aspecto modesto y cabello castaño corto, que carga un petate escolar lleno de libros. Aparenta timidez extrema y pánico cómico, pero su musculatura oculta un acondicionamiento físico de grado sobrehumano, con tendones de acero y reflejos medulares automáticos.
+- **Estilo de Combate:** Híbrido marcial supremo sin armas que combina **Jujitsu tradicional** (proyecciones circulares perfectas, desvíos de masa), **Karate**, **Muay Thai** y **Kenpo**. Posee el dominio absoluto del ***Seikūken*** (esfera defensiva esférica donde anticipa y neutraliza cualquier proyectil o ataque que invada el radio de sus extremidades sin esfuerzo aparente).
+- **Asignación Académica:** **División Táctica Beta** (junto a Seier Silva, Erza Scarlet, Natsuki Subaru, Agnes Tachyon y Dante Vance).
+- **Dinámica:** Entra en pánico cómico al ver la severidad marcial de Erza y los reactivos de Agnes (recordándole a sus sádicos maestros en Hinomoto), pero responde al instante ante la amenaza física derribando agresores sin dañarlos. Respetado profundamente por Seier y Ken.
+- **Estado:** Vivo / Sorpresa mayúscula de la arena rúnica, recién integrado a la División Beta.
 
-### **Valerius de Morvath**
-- **Rol:** Primogénito y Heredero de la Casa Morvath.
-- **Físico / Rasgos:** Joven de unos 18 años, mirada altiva, labios finos, sonrisa desdeñosa, capa de armiño sobre terciopelo y espada de empuñadura dorada.
-- **Personalidad / Combate:** Arrogante, clasista y cobarde en el fondo; desprecia abiertamente a plebeyos, enanos y semihumanos. Provocó a Seier pero retrocedió al escuchar sobre el Señor de la Guerra Skaven.
+### **Miu Fūrinji**
+- **Origen:** Imperio de Hinomoto / Nieta del patriarca y maestro supremo del Dojo Fūrinji (Hayato Fūrinji).
+- **Edad / Físico:** **17 años** | Hermosa joven de larga melena rubia dorada, ojos azul violáceo brillantes y una figura atlética y curvilínea de porte felino ingrávido.
+- **Estilo de Combate:** Artes marciales de agilidad aérea, velocidad supersónica, equilibrio perfecto y gracia ingrávida. Capaz de desarmar y someter a gigantes con elegancia absoluta sin recurrir a la fuerza bruta.
+- **Asignación Académica:** **División Táctica Alfa** (junto a Kaoruko Waguri, Ken, Caesar King, Vlad y Piper Wheel).
+- **Dinámica:** Dulce, educada y gentil; reprende cariñosamente a Kenichi por no contener sus reflejos. Entabla una amistad inmediata con Kaoruko Waguri basada en la compasión y el valor de proteger sin matar.
+- **Estado:** Viva / Destacada prodigio marcial en la División Alfa.
+
+---
+
+## 7. Tercer Año y Autoridades Militares de Astraea
+
+### **Lord Comandante Valerick**
+- **Rango / Facción:** Alto Mando de la Corona / **Comandante de la Legión Real del León Blanco**.
+- **Físico / Rasgos:** Veterano de guerra de hombros anchos, barba canosa recortada con precisión militar, cicatrices de frontera, armadura completa de acero imperial pulido con grabados dorados del grifo de la corte y capa carmesí forrada de armiño.
+- **Rol en la Trama (Cap. 82):** Arriba al foso de entrenamiento escoltado por alabarderos de la guardia real tras toque de clarín; porta un decreto del Rey y del Estado Mayor convocando a las divisiones de Seier y Lighter para marchar hacia las **Ruinas Negras del Sur** ante la erupción de miasma, asignando como apoyo a las divisiones de élite de Tercer Año (Bawden y Thorne); expone con crudeza el Alto Riesgo de la misión y los enormes beneficios para la Corona (salvar tres provincias, recuperar vetas de mithril negro y matrices arcanas, otorgando despachos de oficiales e indultos).
+- **Estado:** Vivo / Máxima autoridad militar imperial en la academia.
+
+### **Capitán Bawden**
+- **Promoción:** **Tercer Año (Guardia Plateada)** / Líder de la **División Colmillo Plateado**.
+- **Físico / Rasgos:** Duelista de casi metro noventa, rostro severo con cicatriz en la mandíbula, doble charretera dorada y capa oscura ribeteada de terciopelo.
+- **Rol en la Trama (Caps. 81 y 82):** Mejor duelista de tercer año. Reconoció formalmente a Seier como su relevo militar; seleccionado por el Estado Mayor y Lord Valerick para liderar la División Colmillo Plateado junto a Seier y Lighter en la misión expedicionaria de las Ruinas Negras del Sur.
+- **Estado:** Vivo / Próximo a egresar hacia los frentes exteriores.
+
+### **Capitán Kaelen Thorne**
+- **Promoción:** **Tercer Año** / Líder de la **División Bastión de Hierro**.
+- **Rol en la Trama (Cap. 82):** Oficial de élite de tercer año especializado en tácticas de asedio y defensa pesada de vanguardia; asignado por el Estado Mayor y el Lord Comandante Valerick como cobertura táctica en la expedición a las Ruinas Negras del Sur.
+- **Estado:** Vivo / Veterano acorazado listo para el despliegue.
+
+### **Instructor Jefe Gerald**
+- **Rango:** Comandante militar en jefe de la Gran Academia de Astraea.
+- **Visión:** Abolió la segregación clasista; diseñó el Sistema de Formación Integral y coordina con la Corona los **Escuadrones de Despliegue de Alto Riesgo**.
+- **Estado:** Firme, respetado y con autoridad absoluta.
+
+### **General Alden**
+- **Rango / Facción:** **General de Campaña del Ejército Real de Solaria** / Comandante Supremo del Frente Sur en el **Campamento de los Cien Leones**.
+- **Físico / Rasgos:** Veterano de guerra de rostro curtido como el cuero viejo, coraza de hierro mellada en cien batallas y capa marrón ribeteada en piel de oso.
+- **Rol en la Trama (Cap. 85):** Comanda el atrincheramiento en la Garganta del Cuervo; inicialmente escéptico ante cadetes de 17 años, queda atónito y lleno de reverencia al verlos aniquilar a un Engendro de Miasma y a dos docenas de Skavens en 40 segundos; ordena el bombardeo continuo de seis baterías de cañones de vapor para atraer a la horda a la superficie y cubrir el descenso de los cadetes.
+- **Estado:** Vivo / Firme al mando del contingente exterior del ejército.
+
+### **Cadetes Novatos de Primer Año (15-16 años)**
+- Jóvenes campesinos, semihumanos y magas plebeyas recién ingresados bajo becas de la Compañía Elte; ven a Seier y a la Generación Dorada como leyendas vivientes.
+
+---
+
+## 8. El Feudo Restaurado de Morvath
 
 ### **Julian de Morvath**
-- **Rol:** Segundo Hijo de la Casa Morvath.
-- **Físico / Rasgos:** Joven de 16-17 años, cota de cuero reforzada, botas de jinete embarradas, cabello castaño despeinado y ojeras profundas de insomnio y vigilia.
-- **Personalidad / Dinámica:** El único miembro sensato, honorable y despierto de la familia condal. Reveló a Seier la sospecha de un pacto demoníaco y la desaparición sistemática de mujeres y niños para rituales en las minas. Entregó su anillo de sello de plata para autorizar el mando sobre los treinta milicianos veteranos de Sauceda y se unió a la escuadra de incógnito arriesgando su vida.
+- **Título:** **Lord Regente del Condado de Morvath**.
+- **Estado:** Vivo y gobernando con honradez. Suscribió el tratado comercial del Río Sol y garantizó la paz en Sauceda y Fresnedas. Aliado incondicional de Seier y Vlad.
 
 ### **Leo de Morvath**
-- **Rol:** Tercer Hijo (Menor) de la Casa Morvath.
-- **Físico / Rasgos:** Niño de unos 8 años, menudo, ojos oscuros asustadizos, ropas sencillas; se aferra con temor a la mano de su hermano Julian.
-- **Estado:** Inocente y desprotegido en medio de un feudo decadente y hostil.
+- **Edad / Rasgos:** Niño de **8 años**, salvado heroicamente por Seier en las almenas del castillo. Instruido en postura marcial por Seier; obsequió al protagonista su colgante protector del león rugiente.
+- **Estado:** Seguro y feliz bajo la tutela de su hermano Julian.
 
+### **Conde Raymond de Morvath**
+- **Estado:** **Fallecido** por degeneración y gangrena física provocada por sus pactos oscuros, despojado de honores póstumos.
 
----
+### **Valerius de Morvath**
+- **Estado:** **Condenado a cadena perpetua** en los calabozos de alta seguridad de la fortaleza de Roca-Negra por alta traición y tráfico humano con demonios de Khorne.
 
-
-### **Sargento Roderick**
-- **Rol / Facción:** Comandante de la Milicia Cívica de Sauceda (Condado de Morvath).
-- **Físico / Rasgos:** Veterano de barba canosa, coraza de cuero remendada, cuenca ocular vacía con cicatriz y mirada de lealtad férrea.
-- **Dinámica con la F-2:** Reconoció el sello de plata de Julian; organizó junto a Vlad la evacuación de civiles al granero y lideró a los 30 milicianos en la emboscada contra los cultistas de Khorne.
-
-### **Capitán Malrik**
-- **Rol / Facción:** Comandante de los Mercenarios de Valerius de Morvath (Traidor a la Corona).
-- **Físico / Equipo:** Tuerto, boca desdentada, jubón tachonado con cota de malla y espada ancha.
-- **Estado:** Derrotado, desarmado y quebrado por Seier en la plaza de Sauceda; transportaba el cofre de hierro con el decreto sellado de cera negra de Raymond y Valerius entregando campesinos a Khorne.
-
----
-
-
-### **Espíritu de Ave Mensajera**
-- **Naturaleza / Origen:** Manifestación espiritual de viento y sauce sagrado invocada por Faelar Vaelen.
-- **Función:** Portador etéreo del cilindro de latón con el decreto sellado de cera negra del Conde Raymond, las firmas de Seier y Vlad, y el aval heráldico de Julian, volando a velocidad sónica rumbo al palacio real de Solaria para solicitar el despliegue de 100 caballeros nobles de la Corona.
-
----
-
-
-### **Garret el Herrero**
-- **Raza / Ocupación:** Humano / Herrero veterano de Fresnedas.
-- **Rol en la Trama:** Perdió a su sobrina por los abusos del conde; es el primero en unirse al juramento de Julian arrojando su delantal y ofreciendo su mazo. Colabora estrechamente con Borgar en la fragua para convertir herramientas agrícolas en lanzas, alabardas y blindajes de carretas.
+### **Sargento Roderick & Garret el Herrero**
+- Comandantes cívicos y maestros de armas del nuevo feudo de Morvath.
 
 ### **Tarek el Minero**
-- **Raza / Ocupación:** Humano / Minero fugitivo de las fundiciones del sector sur de Morvath.
-- **Rol en la Trama:** Escapó por los antiguos canales de drenaje subterráneos; entrega a Seier y Julian un mapa táctico dibujado en carbón que revela los altares de bronce negro de Khorne y el conducto secreto que conecta directamente con la retaguardia del cuartel de la guardia baja para abrir los portones de la ciudad amurallada.
-
-### **La Guardia Popular de Julian**
-- **Naturaleza:** Milicia civil insurgente compuesta por más de 80 campesinos, leñadores, herreros y cazadores de Sauceda y Fresnedas.
-- **Liderazgo y Entrenamiento:** Comandada moral y legalmente por Julian de Morvath (bajo el blasón familiar de plata), con adiestramiento táctico en falange de escudos por Vance, tiro perimetral y emboscada por Faelar, rastreo por Kaelan, armas templadas por Borgar y disciplina marcial de la Sección Uno dirigida por Seier y Vlad.
+- Inspector jefe de las fundiciones del sur de Morvath, asegurando la extracción de cobre limpio con ventilación enana.
 
 ---
 
+## 9. Amenazas Oscuras y Estado de Hostilidades
 
-### **Lord Paladín de la Corona & Cien Caballeros Nobles**
-- **Facción / Origen:** Orden Real del Palacio de Solaria / Ejército Regular de la Corona.
-- **Armamento y Rango:** Comandante montado con armadura ceremonial blanca y dorada; 100 caballeros nobles de caballería pesada con bardas de acero y pendones del Sol Radiante.
-- **Rol en la Trama:** Arriban a Morvath tras recibir el despacho transportado por el Espíritu de Ave Mensajera de Faelar; son recibidos por Julian como Regente y por la Sección Uno victoriosa, asumiendo la custodia de los prisioneros (Valerius y Raymond) y formalizando el tribunal real de justicia.
+### **1. Amenazas Purgadas y Neutralizadas:**
+- **Horda Skaven de la Frontera:** Señor de la Guerra Skaven muerto y decapitado por Seier (Cap. 47); Ratas Ogro, Sacerdote de la Plaga y horda aniquilados en la Batalla de la Roca Carmesí.
+- **Culto del Caos a Khorne en Morvath:** Juggernaut demoníaco pulverizado por Seier y Vlad; Sumo Sacerdote de la Sangre ejecutado por Julian; Altar de Bronce colapsado en el lago de magma; brecha dimensional sellada definitivamente (Cap. 74).
+- **Primera Cámara Nodriza de las Ruinas Negras (Cap. 86):** Saco Embrionario primario vaporizado por la combinación del Fuego Solar del Fénix de Ken y la magia flamígera de Erza; Ogro Rata Acorazado pulverizado por Seier y Ken; caída del 45% del miasma en el cuadrante y rescate del acueducto freático de Valdemar.
 
----
-
-## 11. Fuerzas Enemigas y Amenazas Oscuras (Segundo Semestre)
-
-### **Culto del Caos a Khorne (El Dios de la Sangre)**
-- **Naturaleza / Facción:** Herejes y fanáticos adoradores del Caos y de la deidad sanguinaria Khorne.
-- **Base de Operaciones:** Minas abandonadas de Pedregal Alto, Condado de Morvath.
-- **Rasgos / Combate:** Torsos escarificados con runas de ocho puntas y cráneos, corazas herrumbrosas con púas, hachas de carnicero ennegrecidas y sed insaciable de masacre. No negocian ni retroceden.
-- **Pacto con Morvath:** Aliados clandestinos del Conde Raymond y de su primogénito Valerius; reciben oro campesino y lotes de personas (mujeres y niños) para degollarlos en sacrificios rituales destinados a abrir un portal demoníaco.
-
-### **Sacerdote Guerrero de la Máscara de Hierro**
-- **Rol:** Cabecilla y heraldo de Khorne en las minas de Morvath.
-- **Físico / Equipo:** Coloso de más de dos metros, máscara de hierro sin rendijas oculares, coraza de calaveras de bronce y hacha ceremonial de doble filo.
-- **Estado:** Activo en las bocaminas de Pedregal Alto exigiendo sesenta sacrificios de Sauceda.
-
-### **Capitán Mercenario de Valerius**
-- **Rol:** Perro de presa de Valerius de Morvath; nexo entre el castillo y el culto de sangre.
-- **Equipo:** Jubón de cuero tachonado, cofre de hierro con el oro confiscado y cartas de entrega con el sello de cera negra del Conde Raymond.
-- **Estado:** Encargado de coordinar la redada nocturna contra el pueblo de Sauceda.
+### **2. Amenazas Activas en el Horizonte (Segundo Año):**
+- **Las Ruinas Negras del Sur (Círculos Inferiores):** Tras la caída de la primera nodriza, queda al descubierto el portón ciclópeo de Solaria que conduce hacia la Segunda Cámara Nodriza y el Vértice Profundo, custodiado por maquinarias de disformidad de los Ingenieros Brujos Skaven.
+- **Escuadrones de Despliegue de Alto Riesgo:** Misiones encomendadas por la Corona a los cadetes más sobresalientes de Segundo Año (División Beta y División Alfa) antes del invierno. Inteligencia clasificada asegurada en manos de Seier gracias a Lortelle Kecheln.

@@ -642,7 +642,7 @@
 | **Hoshina** | Clase F-2 | Asignada a la **Sección Tres con Rukia y Burnice**; cabello corto, ojos verdes, tranquila y analítica. | Concentrada, estratega y francotiradora. |
 | **Pulchra** | Clase F-2 (Hijos de Calydon) | Asignada a la **Sección Tres**; semi-humana felina de ojos ámbar, acurrucada en el alféizar de la ventana atenta a su grupo. | Ágil, sigilosa, letal y leal. |
 | **Renji Abarai** | Clase F-2 | Asignado a la **Sección Siete con Lortelle, Freya y Zemina**; se tira de su coleta roja encendida protestando ruidosamente por no estar con Rukia. | Fuerte, apasionado, quejumbroso y leal. |
-| **Lortelle Kecheln** | Clase C / Compañía Elte | Asignada a la **Sección Siete con Renji**; **cabello castaño claro con reflejos dorados y ojos verdes felinos**, celebra con astucia mercantil la red de espías en todas las aulas. | Astuta, sofisticada, millonaria y cómplice de Seier. |
+| **Lortelle Kecheln** | Clase C / Compañía Elte | Asignada a la **Sección Siete con Renji**; **cabello rojo encendido (melena rojiza brillante con reflejos bermellón) y ojos verdes felinos**, celebra con astucia mercantil la red de espías en todas las aulas. | Astuta, sofisticada, millonaria y cómplice de Seier. |
 | **Freya Skuld** | Aliada F-2 (Escuadrón 7) | Asignada a la **Sección Siete**; guerrera bárbara de la Costa Helada con lanza de morsa marina, lista para la disciplina. | Fuerte, nórdica y leal. |
 | **Zemina** | Aliada F-2 | Asignada a la **Sección Siete con Renji y Lortelle**; cabello cobrizo ondulado, pecas y mirada cálida, sonriendo con madurez ante la separación de Vlad. | Dulce, elegante y enamorada de Vlad. |
 
@@ -1145,7 +1145,7 @@
 | Personaje | Facción / Rol | Rol / Acción en el Capítulo | Estado al Cierre |
 | :--- | :--- | :--- | :--- |
 | **Seier Silva** | Segundo Año / Líder | Asiste con humildad a un cadete novato; intercambia saludos de honor con Bawden; comparte pasión, vino e inteligencia con Lortelle. | Capitán respetado, pleno y respaldado (17 años). |
-| **Lortelle Kecheln** | Segundo Año / Compañía Elte | Conduce a Seier a su despacho privado con barrera de silencio; lo besa apasionadamente; revela su monopolio económico y le entrega informes clasificados de la Corona. | Seductora, triunfante, enamorada y cerebro financiero. |
+| **Lortelle Kecheln** | Segundo Año / Compañía Elte | Melena rojo encendido con reflejos bermellón y ojos verdes felinos; conduce a Seier a su despacho privado con barrera de silencio; lo besa apasionadamente; revela su monopolio económico y le entrega el pergamino clasificado de las Ruinas Negras del Sur. | Seductora, triunfante, enamorada y cerebro financiero. |
 | **Capitán Bawden** | Tercer Año (Guardia Plateada) | Líder de la promoción de egresados; espadachín de metro noventa con cicatriz; saluda a Seier como a un igual militar reconociendo su victoria en Morvath. | Respetuoso, veterano y listo para marchar al frente exterior. |
 | **Cadete Novato** | Primer Año (Plebeyo) | Carga piedras rúnicas y tropieza; Seier lo ayuda a levantarse y le da consejos de equilibrio; emocionado y agradecido. | Inspirado y motivado para entrenar. |
 | **Vlad** | Segundo Año (Mando Militar) | Acompaña a Seier en el paseo; sonríe ante la admiración de los novatos y celebra el florecimiento de la academia. | Sereno, noble y orgulloso. |
@@ -1157,3 +1157,166 @@
 | **Instructor Gerald** | Mencionado como el artífice del nuevo sistema y de las futuras misiones de la Corona. |
 | **Kaoruko Waguri & Lady Elysea** | Mencionadas en la complicidad amorosa y pícaro celo de Lortelle. |
 | **Kenichi, Miu, Ken, Erza, Subaru** | En sus respectivos pabellones tras la inauguración de las divisiones tácticas. |
+
+
+# Censo de Personajes: Capítulo 82
+**Capítulo:** *Ecos de la Falla: Alianzas en la Arena y el Susurro del Miasma*  
+**Ubicación Principal:** Foso de Maniobras Rúnicas de la División Beta, mirador acristalado contiguo (División Alfa) y sala de cartografía del pabellón táctico, Gran Academia Militar y Mágica de Astraea.  
+**Contexto Operativo:** Primera práctica de integración táctica de la División Beta; pavor cómico de Kenichi Shirahama ante la disciplina acorazada de Erza y la curiosidad alquímica de Agnes, apaciguado por Natsuki Subaru; demostración magistral del *Seikūken* y proyecciones de Jujitsu de Kenichi; sparring técnico entre Seier y Kenichi con los nuevos brazaletes de hierro negro y cobre de Morvath; vistazo paralelo a la División Alfa (Kaoruko, Miu, Caesar, Ken, Vlad, Piper); llegada imponente del Lord Comandante Valerick de la Legión Real del León Blanco para proclamar un decreto del Estado Mayor convocando a la División de Seier y la División de Lighter, junto a dos divisiones de élite de Tercer Año (Bawden y Thorne), a una expedición de Alto Riesgo a las Ruinas Negras del Sur por el brote de miasma, detallando peligros y colosales beneficios futuros para el reino; consejo táctico nocturno en la sala de cartografía analizando el pergamino confidencial de Lortelle y la reactivación de nidos nodriza Skaven.
+
+### 1. Personajes que APARECEN en Escena
+
+| Personaje | Facción / Rol | Rol / Acción en el Capítulo | Estado al Cierre |
+| :--- | :--- | :--- | :--- |
+| **Seier Silva** | Segundo Año / División Beta | Llega al foso con el pergamino de Elte; realiza sparring técnico con Kenichi probando sus nuevos brazaletes de Morvath; contempla con ternura a Kaoruko; recibe al Lord Comandante Valerick y acepta la vanguardia de choque a las Ruinas Negras; preside el consejo nocturno analizando el mapa de fallas. | Capitán indiscutido, marcialmente pleno y estratega líder (17 años). |
+| **Kenichi Shirahama** | Segundo Año / División Beta | Discípulo de Hinomoto; sufre pánico cómico ante Erza y Agnes; deslumbra en el centro rúnico con su *Seikūken* y proyecciones limpias de Jujitsu; resiste la presión del clinch de Seier y sella un lazo de hermandad marcial; jura defender a los inocentes en el consejo táctico. | Tímido, agradecido y comprometido a proteger a los inocentes (17 años). |
+| **Erza Scarlet** | Segundo Año / División Beta | Dirige la evaluación rúnica con armadura plateada y espadas telequinéticas; evalúa y elogia la técnica defensiva de Kenichi; se cuadra ante Valerick; analiza las rutas del mapa en el consejo táctico. | Severa, marcial, satisfecha con su división y capitana de vanguardia (17 años). |
+| **Natsuki Subaru** | Segundo Año / División Beta | Calma a Kenichi compartiendo galletas de Piper y anécdotas de Lucy y Caesar; se cuadra ante Valerick; participa en el consejo táctico prometiendo abrir la brecha contra el miasma en el sur. | Maduro, alegre, leal e indispensable enlace moral (17 años). |
+| **Agnes Tachyon** | Segundo Año / División Beta | Se desliza con matraz violáceo intrigada por la elasticidad neuromuscular de Kenichi; toma notas científicas fascinada por su economía de movimiento. | Excéntrica, científica genial y risueña (17 años). |
+| **Dante Vance** | Segundo Año / División Beta | Limpia su mosquete rúnico en las gradas; elogia la falta de desperdicio balístico de Kenichi; analiza las condiciones ácidas y el terreno hostil de las ruinas en el consejo táctico. | Sereno, analítico y tirador de élite (17 años). |
+| **Lord Comandante Valerick** | Legión Real del León Blanco / Alto Mando de la Corona | Arriba al foso con clarín militar de bronce y escolta de alabarderos reales; porta decreto sellado por el Rey y el Estado Mayor; convoca a la División de Seier y la División de Lighter a la expedición de Alto Riesgo a las Ruinas Negras del Sur junto a veteranos de Tercer Año; explica la letalidad de la misión y los enormes beneficios para el reino (salvación de tres provincias, derechos sobre mithril negro y matrices arcanas, despachos de oficiales, indultos y honores vitalicios). | Veterano imponente, severo, justo y máxima autoridad militar presente. |
+| **Lighter** | Segundo Año / División de Lighter (Hijos de Calydon) | Llega trotando al foso con sudor de entrenamiento y guanteletes de vapor humeantes; bromea con su habitual desparpajo pero se cuadra respetuosamente ante Valerick; acepta con entusiasmo y sed de gloria la misión de choque en las Ruinas Negras. | Audaz, fogoso, confiado y líder de su propia división (17 años). |
+| **Kaoruko Waguri** | Segundo Año / División Alfa | En el sector contiguo: alza cúpulas sagradas y raíces florales; coordina maniobras no letales con Miu; intercambia sonrisas y un beso aéreo con Seier a través del cristal. | Radiante, protectora y en perfecta sintonía con su pareja (17 años). |
+| **Miu Fūrinji** | Segundo Año / División Alfa | Deslumbra en la arena vecina con acrobacias aéreas felinas y desarmes quirúrgicos ingrávidos sobre las plataformas de agua de Kaoruko. | Grácil, prodigio marcial supremo y fraterna con Kaoruko (17 años). |
+| **Caesar King** | Segundo Año / División Alfa | Ruge de risa frenando a tres golems con su colosal escudo de torre de titanio. | Fuerte, protectora e imponente líder de choque (17 años). |
+| **Ken** | Segundo Año / División Alfa | Salta sobre el escudo de Caesar rematando un golem con una patada aérea de fuego solar de fénix. | Enérgico, combativo y con bandana roja encendida (17 años). |
+| **Piper Wheel** | Segundo Año / División Alfa | Ciega a los maniquíes con cortinas de vapor a alta presión de su rueda-hacha colosal. | Alegre, ingeniosa y enérgica en su maquinaria (17 años). |
+| **Vlad** | Segundo Año / División Alfa | Supervisa la formación de la División Alfa; acude al consejo táctico nocturno identificando el peligro de las madrigueras nodriza Skaven en el sur. | Condecorado con el Laurel Dorado, noble y estratega militar (17 años). |
+| **Akame** | Segundo Año | Come cecina en el consejo nocturno; señala con la vaina de *Murasame* las venas de miasma conectadas a las galerías profundas en el mapa rúnico. | Letal, perceptiva y silenciosa guardiana (17 años). |
+
+### 2. Personajes Mencionados pero Fuera de Escena
+| Personaje | Ubicación / Estado |
+| :--- | :--- |
+| **Capitán Bawden & Capitán Kaelen Thorne** | Tercer Año / Oficiales al mando de la División Colmillo Plateado y la División Bastión de Hierro, convocados por Valerick como cobertura táctica y veteranía de asedio para marchar junto a Seier y Lighter. |
+| **Lortelle Kecheln** | En su despacho consular de la Compañía Elte tras entregar el pergamino confidencial a Seier. |
+| **Instructor Jefe Gerald** | Diseñando en el cuartel general la coordinación académica con el Alto Mando de la Corona. |
+| **Lucy** | Evocada con afecto y humor por Natsuki al relatar sus berrinches y carácter fuerte. |
+| **Subaru Hoshina** | En sus tareas logísticas y de francotiradora en la división de Lighter. |
+| **Maestros de Ryōzanpaku (Shigure Kosaka, Sakaki Shio)** | Evocados en el pánico cómico de Kenichi al recordar sus entrenamientos extremos. |
+| **Yami, Burnice, Rukia, Renji, Pulchra** | En las restantes divisiones tácticas avanzadas y dormitorios de Segundo Año. |
+
+
+# Censo de Personajes: Capítulo 83
+**Capítulo:** *El Consejo de los Cuatro Estandartes: Acero de Solaria y Vientos del Sur*  
+**Ubicación Principal:** Sala de Estado Mayor del Cuartel General de Astraea, Patio de Maniobras del Ala Sur y Gran Portón Rastrillo de Salida, Gran Academia Militar y Mágica de Astraea.  
+**Contexto Operativo:** Reunión del Consejo de los Cuatro Estandartes (Seier Silva, Lighter, Capitán Bawden y Capitán Kaelen Thorne) presidida por Lord Valerick y Gerald para sincronizar la estrategia de penetración, asedio y flanqueo hacia las Ruinas Negras del Sur; abastecimiento militar por parte de Lortelle Kecheln (respiradores rúnicos de loto de invierno, munición perforante de mithril) y frascos de cristalización química de Agnes Tachyon; multitudinaria despedida de la academia y emotivos reencuentros románticos y fraternos (beso y amuleto de agua sagrada de Kaoruko a Seier; consejo de Miu a Kenichi; camaradería ardiente de Ken, Caesar, Lucy y Subaru); partida formal del convoy expedicionario hacia el sur.
+
+### 1. Personajes que APARECEN en Escena
+
+| Personaje | Facción / Rol | Rol / Acción en el Capítulo | Estado al Cierre |
+| :--- | :--- | :--- | :--- |
+| **Seier Silva** | Segundo Año / Capitán División Beta | Encabeza la punta de lanza de penetración primaria a las cámaras nodriza; coordina con Thorne y Bawden; recibe el suministro de Lortelle reafirmando su pacto; recibe el amuleto consagrado y el beso de Kaoruko frente a la academia; lidera la marcha a caballo. | Capitán supremo de choque, confiado y amado (17 años). |
+| **Erza Scarlet** | Segundo Año / División Beta | Integra el consejo táctico; detalla el blindaje telequinético de espadas para cubrir el descenso a las fallas. | Disciplinada, severa y vanguardia acorazada (17 años). |
+| **Lighter** | Segundo Año / Capitán División de Lighter | Presenta el plan de purga media y reconocimiento con combustión térmica; bromea con Ken; listo para el combate en el sur. | Audaz, fogoso y líder de choque (17 años). |
+| **Subaru Hoshina** | Segundo Año / División de Lighter | Vicecomandante y analista táctica; presenta las cartas de dispersión balística y de gas en el consejo de oficiales. | Inteligente, serena y precisa (17 años). |
+| **Capitán Bawden** | Tercer Año / Líder División Colmillo Plateado | Asume la cobertura de las cornisas medias y la aniquilación de acechadores para proteger las líneas de suministro; reconoce la valía de Seier y Lighter. | Veterano, respetuoso y duelista de élite. |
+| **Capitán Kaelen Thorne** | Tercer Año / Líder División Bastión de Hierro | Asume el cerrojo de la Garganta del Cuervo con empalizadas de piedra y barreras telúricas para evitar colapsos y mantener la retirada abierta. | Coloso acorazado, leal y baluarte de asedio. |
+| **Lord Comandante Valerick** | Legión Real del León Blanco / Alto Mando | Preside el consejo de los estandartes; autoriza la partida y da la orden de marcha con el clarín mayor a lomos de su corcel. | Solemne, marcial y máxima autoridad militar. |
+| **Instructor Jefe Gerald** | Comandante Militar en Jefe de Astraea | Supervisa la coordinación táctica exigiendo excelencia; aprueba la autonomía operativa del contingente. | Severo, visionario y satisfecho. |
+| **Lortelle Kecheln** | Compañía Mercantil Elte | Llega en carromatos blindados con abrigo de montar esmeralda y melena roja brillante; provee 200 respiradores rúnicos de loto de invierno y munición perforante de mithril; coquetea con Seier y le exige volver entero para cobrar su velada en la villa. | Hermosa, pragmática, enamorada y cerebro logístico. |
+| **Agnes Tachyon** | Segundo Año / División Beta | Reparte ampollas de deflagración endotérmica para cristalizar el miasma, advirtiendo alegremente sobre sus efectos secundarios. | Excéntrica, risueña y científica genial (17 años). |
+| **Natsuki Subaru** | Segundo Año / División Beta | Calma a Kenichi ante la química de Agnes; recibe caramelos de menta y advertencias cariñosas de Lucy; marcha motivado a la vanguardia. | Maduro, alegre, leal y confidente (17 años). |
+| **Dante Vance** | Segundo Año / División Beta | Recibe la munición especial de mithril de Elte; listo para cazar a los sacerdotes de plaga en las ruinas. | Sereno y tirador de élite (17 años). |
+| **Kenichi Shirahama** | Segundo Año / División Beta | Asiste al consejo y al reparto logístico con temores cómicos; recibe las palabras de aliento de Miu Fūrinji y jura defender a sus camaradas. | Valiente, honorable y disciplinado en el *Seikūken* (17 años). |
+| **Kaoruko Waguri** | Segundo Año / División Alfa | Acude al patio con su túnica de sacerdotisa; entrega a Seier un amuleto con jazmín preservado en rocío sagrado; lo besa apasionadamente ante toda la academia haciéndole prometer que volverá. | Devota, dulce, protectora y prometida de Seier (17 años). |
+| **Miu Fūrinji** | Segundo Año / División Alfa | Acomoda con ternura el petate de Kenichi recordándole las enseñanzas del abuelo Hayato sobre proteger sin destruir. | Grácil, elegante y hermana marcial entrañable (17 años). |
+| **Ken** | Segundo Año / División Alfa | Enciende sus puños de fuego solar chocando antebrazos con Lighter y bromeando sobre no gastar toda la pólvora. | Combativo, leal y de espíritu indomable (17 años). |
+| **Caesar King** | Segundo Año / División Alfa | Golpea su escudo de titanio contra el suelo y le da una palmada rotunda a Seier prometiendo pagar el licor al regreso. | Imponente, fraternal y líder de choque (17 años). |
+| **Lucy** | Segundo Año | Desliza discretamente una bolsita de caramelos de menta a Natsuki con una advertencia protectora y adorable. | Pícara, protectora y tierna con su pareja (17 años). |
+
+### 2. Personajes Mencionados pero Fuera de Escena
+| Personaje | Ubicación / Estado |
+| :--- | :--- |
+| **Vlad, Akame, Piper Wheel, Yami, Burnice, Rukia, Renji, Pulchra** | En Astraea, custodiando las defensas del campus y sus respectivas divisiones durante la expedición. |
+| **Maestro Hayato Fūrinji** | Evocado por Miu al aconsejar a Kenichi sobre la filosofía del dojo. |
+
+
+# Censo de Personajes: Capítulo 84
+**Capítulo:** *Ecos en la Puerta Sur: El Llamado de Ken, la Bendición de Escarcha y las Legiones del Rey*  
+**Ubicación Principal:** Umbral del Portón Sur de Astraea, Patio de Armas y Calzada Militar hacia las Provincias del Sur.  
+**Contexto Operativo:** Despacho urgente de exploradores arcanos advirtiendo de biomasa parasitaria y capullos Skaven en las Ruinas Negras que solo pueden calcinarse con fuego solar puro; convocatoria de último momento de Ken a la División Beta; carrera cómica de Ken y emotiva despedida con beso apasionado de Burnice White; aparición majestuosa de Lady Elysea de Vane despidiendo a Seier con un broche gélido de escarcha y un beso noble y posesivo frente a la corte; inicio definitivo de la marcha de los Cuatro Estandartes; instrucción táctica del Lord Comandante Valerick en camino, aclarando que el Ejército Real sostendrá el choque frontal a gran escala en la superficie, mientras que las divisiones de la academia penetrarán quirúrgicamente desde adentro para destruir los núcleos nodriza.
+
+### 1. Personajes que APARECEN en Escena
+
+| Personaje | Facción / Rol | Rol / Acción en el Capítulo | Estado al Cierre |
+| :--- | :--- | :--- | :--- |
+| **Seier Silva** | Segundo Año / Capitán División Beta | Asume la incorporación de Ken como 5.º eslabón; recibe el broche gélido y el beso de Lady Elysea de Vane; asimila la estrategia de infiltración interior explicada por Valerick; encabeza la columna a caballo. | Capitán supremo, sereno, pleno y resuelto a arrancar el corazón del miasma (17 años). |
+| **Ken** | Segundo Año / División Beta (Asignado de emergencia) | Sufre shock cómico al ser convocado en el muro; corre a toda prisa por sus bártulos; recibe café picante y un beso apasionado de Burnice; se integra a caballo con su fuego solar de fénix para purgar biomasa sin generar esporas. | Enérgico, motivado, bandana roja encendida y feliz de marchar (17 años). |
+| **Lady Elysea de Vane** | Nobleza de Solaria / Casa Ducal de Vane | Hace una majestuosa aparición en el portón sur; entrega a Seier un broche de flor de escarcha con lágrima gélida eterna para regular su temperatura y absorber el miasma; lo besa apasionadamente en los labios ante la corte exigiéndole volver victorioso. | Aristócrata altiva, hermosa, devota y orgullosa de su guerrero (17 años). |
+| **Burnice White** | Segundo Año / Hijos de Calydon | Intercepta a Ken en su carrera; le entrega café especiado, le ajusta la bandana y lo besa apasionadamente frente a Calydon exigiéndole calcinar hasta la última rata del sur. | Radiante, pícara, afectuosa y artillera fogosa (17 años). |
+| **Lord Comandante Valerick** | Legión Real del León Blanco / Alto Mando | Recibe el mensaje de emergencia y solicita fuego solar; ordena la partida definitiva; instruye a los capitanes en marcha revelando que el Ejército Real librará la batalla frontal masiva en la superficie mientras la academia actúa quirúrgicamente adentro. | Comandante supremo en campaña, experimentado y clarividente. |
+| **Instructor Jefe Gerald** | Comandante en Jefe de Astraea | Ordena a Ken presentarse al frente y le da tres minutos para pertrecharse bajo amenaza de marchar descalzo. | Severo, implacable y con ojo táctico infalible. |
+| **Erza Scarlet** | Segundo Año / División Beta | Analiza con Valerick la naturaleza de la horda exterior y lidera la vanguardia de caballería. | Firme, acorazada y capitana de choque (17 años). |
+| **Lighter** | Segundo Año / Capitán División de Lighter | Bromea con Ken por su llamada de emergencia; comprende el rol de choque exterior del ejército regular. | Audaz, fogoso y líder de avanzada (17 años). |
+| **Capitán Bawden** | Tercer Año / Líder División Colmillo Plateado | Cabalga junto a Valerick y Seier, coordinando la protección de los accesos a las cavernas. | Veterano, respetuoso y duelista de élite. |
+| **Capitán Kaelen Thorne** | Tercer Año / Líder División Bastión de Hierro | Asimila la metáfora táctica: el ejército real será el yunque afuera, y la academia el martillo que quiebre los nidos por dentro. | Imponente fortaleza andante y maestro de asedio. |
+| **Caesar King & Piper Wheel** | Segundo Año / División Alfa | Aplauden y vitorean desde el muro la fogosa despedida entre Burnice y Ken. | Orgullosas de su camarada de Calydon (17 años). |
+| **Dante Vance, Agnes Tachyon, Natsuki Subaru, Kenichi Shirahama, Subaru Hoshina** | Segundo Año / Contingente Expedicionario | Marchan en las columnas de vanguardia preparados con sus armas, pertrechos de Elte y reactivos. | Listos para el descenso a las ruinas (17 años). |
+
+### 2. Personajes Mencionados pero Fuera de Escena
+| Personaje | Ubicación / Estado |
+| :--- | :--- |
+| **Kaoruko Waguri & Lortelle Kecheln** | Evocadas por Seier al llevar sus respectivos talismanes (el amuleto de agua sagrada y el pergamino consular de Elte) junto al broche de Elysea. |
+| **Regimientos y Legiones del Ejército Real de Solaria** | Desplegados en campamentos exteriores en las llanuras del sur, preparándose para absorber el choque frontal masivo contra las hordas Skaven. |
+
+
+# Censo de Personajes: Capítulo 85
+**Capítulo:** *El Campamento de los Cien Leones: Frente de Guerra y el Abismo Purpúreo*  
+**Ubicación Principal:** Tierras Yermas del Sur, Campamento de los Cien Leones (Gran Bastión del Frente Sur del Ejército Real) y Umbral de la Garganta del Cuervo.  
+**Contexto Operativo:** Travesía por las planicies cenicientas y avistamiento de la bruma violácea sobre la Garganta del Cuervo; llegada al colosal bastión fortificado del Ejército Real de Solaria; reunión táctica con el escéptico General Alden, quien es informado por Valerick sobre las hazañas de la F-2 y la Generación Dorada; distribución y prueba de los 200 respiradores rúnicos de loto de invierno de Lortelle, comprobados científicamente por Agnes Tachyon en Kenichi; estallido de una brecha hostil en el flanco oeste de las trincheras con acechadores Skaven y un Engendro de Miasma; magistral lección de violencia táctica en cuarenta segundos donde Thorne frena la mole, Bawden secciona tendones, Kenichi desvía proyectiles con *Seikūken*, Ken calcina los capullos de esporas con su *Fuego Solar del Fénix*, y Seier destroza el cráneo de la bestia con un codazo de Muay Thai potenciado por sus brazaletes de Morvath; conmoción y respeto absoluto del General Alden; inicio del estruendoso bombardeo nocturno de las seis baterías de cañones de vapor para atraer a la masa exterior mientras los Cuatro Estandartes inician el descenso hacia las profundidades de las Ruinas Negras.
+
+### 1. Personajes que APARECEN en Escena
+
+| Personaje | Facción / Rol | Rol / Acción en el Capítulo | Estado al Cierre |
+| :--- | :--- | :--- | :--- |
+| **Seier Silva** | Segundo Año / Capitán División Beta | Lidera la llegada al campamento; prueba su respirador de loto y siente el alivio del broche de escarcha de Elysea; ingresa al ángulo ciego del Engendro de Miasma y le quiebra el cráneo con un codazo descendente de Muay Thai y compresión telúrica; encabeza el descenso al abismo. | Capitán supremo, marcialmente letal, imperturbable y líder de la penetración (17 años). |
+| **Kenichi Shirahama** | Segundo Año / División Beta | Percibe el hedor Skaven evocando sus castigos en Ryōzanpaku; sometido a la prueba de respirador de Agnes notando alivio inmediato; interpone su *Seikūken* para desviar proyectiles ácidos y desarmar a dos Skavens sin derramar sangre; listo para descender a las ruinas. | Disciplinado, protector, intocable en su esfera defensiva (17 años). |
+| **Ken** | Segundo Año / División Beta | Debuta con gloria en la vanguardia: salta seis metros sobre el escudo de Thorne y ejecuta su *Fuego Solar del Fénix*, calcinando los capullos fúngicos del Engendro a nivel molecular antes de que liberen esporas; eufórico y motivado. | Radiante, combativo, puños solares encendidos (17 años). |
+| **Erza Scarlet** | Segundo Año / División Beta | Supervisa el reparto de los respiradores de Lortelle; mantiene en alto sus espadas flotantes coordinando la vanguardia para el descenso. | Implacable, acorazada y capitana de hierro (17 años). |
+| **Dante Vance** | Segundo Año / División Beta | Prepara su mosquete rúnico con munición perforante de mithril; identifica el miasma profundo de las excavaciones Skaven. | Sereno, analítico y tirador de élite (17 años). |
+| **Agnes Tachyon** | Segundo Año / División Beta | Se abalanza sobre los cofres de Elte deslumbrada por la ingeniería hidrostática; ajusta la máscara de Kenichi bromeando sobre la sangre espumosa; feliz con la efectividad del filtro. | Científica genial, risueña y volátil (17 años). |
+| **Natsuki Subaru** | Segundo Año / División Beta | Ajusta su máscara con calma; apoya a los cadetes en la trinchera y marcha firme tras Seier y Erza hacia la falla. | Maduro, alegre, leal y resuelto (17 años). |
+| **Lighter** | Segundo Año / Capitán División de Lighter | Remata acechadores Skaven con ráfagas de combustión en la escaramuza; listo con sus guanteletes de vapor para purgar la cuenca. | Audaz, fogoso y líder de avanzada (17 años). |
+| **Subaru Hoshina** | Segundo Año / División de Lighter | Apoya con fuego balístico rúnico perforante neutralizando a las alimañas en retirada en el lecho seco. | Inteligente, precisa y francotiradora de élite (17 años). |
+| **Capitán Bawden** | Tercer Año / Líder División Colmillo Plateado | Respalda a los cadetes ante Alden; ejecuta estocadas quirúrgicas seccionando los tendones del Engendro de Miasma. | Veterano, respetuoso y duelista supremo. |
+| **Capitán Kaelen Thorne** | Tercer Año / Líder División Bastión de Hierro | Planta su escudo colosal de acero enano frenando en seco la embestida del Engendro con impacto sísmico. | Coloso acorazado, inamovible y baluarte de asedio. |
+| **Lord Comandante Valerick** | Legión Real del León Blanco / Alto Mando | Presenta a los Cuatro Estandartes; pone en su sitio al General Alden recordando Morvath; ordena el bombardeo de artillería pesada. | Máxima autoridad militar, imponente y satisfecho con sus cadetes. |
+| **General Alden** | Ejército Real de Solaria / Comandante Frente Sur | Veterano de guerra con coraza mellada y capa de oso; escéptico ante cadetes de 17 años al inicio, pero queda boquiabierto al verlos liquidar la brecha en 40 segundos; ordena fuego masivo de artillería para cubrir su descenso. | Conmovido, respetuoso y comandante del yunque exterior. |
+
+### 2. Personajes Mencionados pero Fuera de Escena
+| Personaje | Ubicación / Estado |
+| :--- | :--- |
+| **Lortelle Kecheln** | Evocada por el éxito vital de los 200 respiradores rúnicos de loto de invierno de la Compañía Elte. |
+| **Lady Elysea de Vane** | Evocada por el broche gélido de flor de escarcha que emite pulsos refrescantes contra el miasma en el pecho de Seier. |
+| **Maestro Hayato Fūrinji & Sakaki Shio** | Evocados en las comparaciones de entrenamiento de Kenichi Shirahama. |
+
+
+# Censo de Personajes: Capítulo 86
+**Capítulo:** *Las Galerías de Ónix: El Laberinto de Miasma y la Primera Cámara Nodriza*  
+**Ubicación Principal:** Galerías de Basalto y Ónix de las Ruinas Negras del Sur, Gran Falla de Ónix (Puente Subterráneo) y Primera Cámara Nodriza (Antiguo Acueducto de Valdemar).  
+**Contexto Operativo:** Descenso al abismo subterráneo bajo el ensordecedor trueno de la artillería de campaña del General Alden en la superficie; ingreso a las calzadas imperiales de basalto y ónix con protección total de los respiradores de loto de invierno de Lortelle, el broche de escarcha de Elysea y el jazmín sagrado de Kaoruko; diálogo de marcha donde Natsuki Subaru y Dante Vance reconfortan con afecto los nervios cómicos de Kenichi Shirahama; sellado del cuello de evacuación por Kaelen Thorne con empalizadas de acero enano y runas de tierra; purga silenciosa de centinelas por los duelistas de Bawden en cornisas altas; alerta química de Agnes Tachyon al detectar que el miasma converge hacia el acueducto freático de Valdemar; emboscada en el puente de basalto por Alimañas de Choque y Acechadores Nocturnos Skaven; magistral despliegue del *Seikūken* de Kenichi Shirahama al neutralizar a dos acechadores que atacaban por la espalda a Agnes Tachyon, desviando filos con *Tenchi In'yō* y arrojándolos al vacío con proyecciones de Jujitsu (*Tomoe Nage* y *Uchimata*) dejando extasiada a la alquimista; penetración en la Primera Cámara Nodriza y enfrentamiento contra un descomunal Ogro Rata Acorazado con sierra mecánica de piedra de disformidad; Erza desata su *Armadura de la Emperatriz del Fuego* aniquilando a la escolta y neutralizando el ácido; Thorne absorbe el impacto de sierra con su pavés; Bawden corta los tendones de Aquiles; Seier destroza el esternón de la bestia con un rodillazo en lanza (*Khao Dui*) de Muay Thai y compresión telúrica de sus brazaletes de Morvath; Ken desciende en picado y remata el núcleo con su *Puño Solar del Fénix: Ignición Purificadora*, reduciendo la bestia a cenizas y purificando junto a Erza el gigantesco Saco Embrionario Nodriza a nivel molecular sin emitir humo tóxico; caída del 45% del miasma del cuadrante y purificación de las aguas subterráneas; descubrimiento de un portón ciclópeo ancestral de la antigua Solaria que conduce hacia la Segunda Cámara Nodriza y las profundidades de las ruinas.
+
+### 1. Personajes que APARECEN en Escena
+
+| Personaje | Facción / Rol | Rol / Acción en el Capítulo | Estado al Cierre |
+| :--- | :--- | :--- | :--- |
+| **Seier Silva** | Segundo Año / Capitán División Beta | Lidera la penetración subterránea; siente la fuerza del broche gélido de Elysea y el jazmín de Kaoruko; penetra con juego de pies de Jeet Kune Do y destroza el esternón acorazado del Ogro Rata con un demoledor rodillazo *Khao Dui* de Muay Thai y maná telúrico de Morvath; descubre el portón ciclópeo imperial y ordena el avance al segundo nivel. | Capitán supremo, marcialmente insuperable, sereno e implacable (17 años). |
+| **Ken** | Segundo Año / División Beta | Muestra fervor marcial apretando su bandana roja; ejecuta el salto culminante sobre el Ogro Rata descargando el *Puño Solar del Fénix: Ignición Purificadora* que destruye el reactor de disformidad e incinera la biomasa; sincroniza su aura con Erza para calcinar el gigantesco Saco Embrionario Nodriza a cenizas inofensivas. | Héroe solar, radiante, bandana al viento y orgulloso discípulo de Hwa Young (17 años). |
+| **Erza Scarlet** | Segundo Año / División Beta | Mantiene la vanguardia con espadas flotantes; reequipa a la *Armadura de la Emperatriz del Fuego* luciendo alas carmesíes y cimitarras flamígeras que desintegran la escolta Skaven y el ácido corrosivo; combina su fuego con Ken para purgar el saco nodriza. | Dama de hierro, majestuosa, letal y protectora incondicional (17 años). |
+| **Kenichi Shirahama** | Segundo Año / División Beta | Sufre pánico cómico recordando los entrenamientos infernales del Anciano Hayato y Sakaki; reconfortado por Natsuki y Dante; activa involuntariamente su *Seikūken* cuando Agnes es flanqueada, desviando ataques con *Tenchi In'yō* y arrojando a dos acechadores al abismo con *Tomoe Nage* y *Uchimata* mientras se disculpa frenéticamente. | Genio marcial involuntario, intocable en defensa y leal protector (17 años). |
+| **Agnes Tachyon** | Segundo Año / División Beta | Extrae y analiza muestras de condensación ácida con tubos de ensayo de cuarzo alertando del envenenamiento del acueducto; queda fascinada analizando la biomecánica de Kenichi tras ser salvada; certifica la caída del 45% en la toxicidad ambiental tras la ignición solar. | Alquimista extasiada, brillante e incansable investigadora (17 años). |
+| **Natsuki Subaru** | Segundo Año / División Beta | Calma con calidez y humor fraternal los temores cómicos de Kenichi recordándole que los Cuatro Estandartes cuidan su espalda; mantiene la formación cerrada con la ballesta y apoyo táctico. | Hermano mayor de la clase, maduro, risueño y sereno (17 años). |
+| **Dante Vance** | Segundo Año / División Beta | Acompaña con su rifle de cerrojo de mithril; elimina con un tiro certero al líder de escuadra de los emboscadores en el puente de basalto. | Francotirador implacable, cínico y certero (17 años). |
+| **Lighter** | Segundo Año / Capitán División de Lighter | Desata chorros concentrados de vapor a 200 grados con sus guanteletes de combate barriendo a los piqueros Skaven en el puente; celebra el éxito de la purga y alerta del portón ciclópeo oculto. | Audaz, carismático, fogoso y líder de avanzada (17 años). |
+| **Subaru Hoshina** | Segundo Año / División de Lighter | Cubre el avance por el flanco derecho con fuego rúnico preciso, impidiendo reagrupamientos enemigos. | Analítica, veloz y francotiradora de élite (17 años). |
+| **Capitán Bawden** | Tercer Año / Líder División Colmillo Plateado | Lidera a sus duelistas por las cornisas de basalto con estoque sónico eliminando centinelas silenciosamente; en el choque del ogro secciona quirúrgicamente ambos tendones de Aquiles desbalanceando al monstruo. | Duelista virtuoso, respetuoso y veterano de guerra de 3.er año. |
+| **Capitán Kaelen Thorne** | Tercer Año / Líder División Bastión de Hierro | Asegura la retirada en el desfiladero con empalizadas de acero enano y runas de tierra; en el nido absorbe el impacto de sierra de disformidad con su escudo de torre de granito sin retroceder un milímetro. | Muralla humana inquebrantable, estratega de asedio de 3.er año. |
+
+### 2. Personajes Mencionados pero Fuera de Escena
+| Personaje | Ubicación / Estado |
+| :--- | :--- |
+| **Lortelle Kecheln** | Evocada y bendecida por el rendimiento perfecto de los respiradores rúnicos de loto de invierno de Elte y su mapa confidencial de la falla. |
+| **Lady Elysea de Vane** | Evocada por el broche gélido de flor de escarcha que late en el pecho de Seier blindándolo de la letargia ponzoñosa. |
+| **Kaoruko Waguri** | Evocada por el amuleto sagrado de jazmín que perfuma el pecho de Seier y le brinda calidez espiritual. |
+| **General Alden y el Ejército Real de Solaria** | Manteniendo el bombardeo incesante con seis baterías de cañones de vapor en la superficie, fijando a la horda exterior. |
+| **Maestro Hayato Fūrinji, Sakaki Shio y Maestra Hwa Young** | Evocados en los diálogos marciales y la filosofía de combate de Kenichi Shirahama y Ken. |

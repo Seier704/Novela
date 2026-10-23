@@ -6,7 +6,7 @@ Compila todos los capítulos presentes en la carpeta 'capitulos/*.txt'.
 import os
 import sys
 
-NOVELA_DIR = r"C:\Users\fsilv\OneDrive\Documentos\GitHub\Novela"
+NOVELA_DIR = os.path.dirname(os.path.abspath(__file__))
 if NOVELA_DIR not in sys.path:
     sys.path.insert(0, NOVELA_DIR)
 

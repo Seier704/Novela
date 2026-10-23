@@ -1,66 +1,96 @@
 # INFORME DE AUDITORÍA Y CORRECCIÓN DE ERRORES NARRATIVOS
 ## *El Camino del Reencarnado: Crónicas de Sangre, Acero y Deseo*
 **Autor:** Seier Silva  
-**Fecha de Revisión:** Cierre del Capítulo 47  
-**Estado:** Correcciones aprobadas y aplicadas en scripts, textos (.txt), documentos individuales (.docx) y Libro Maestro (.docx)  
+**Versión de Revisión:** Cierre del Capítulo 81 (Inicio del Segundo Año, 17 años)  
+**Estado:** Directrices canónicas sincronizadas en documentación maestra, censos, auditorías y compilador.
 
 ---
 
-## 1. Resumen Ejecutivo de Correcciones Aplicadas
-En atención a las directrices canónicas del autor, se han corregido y armonizado los siguientes puntos tanto en la documentación maestra como en los archivos de capítulos y documentos `.docx` compilados:
+## 1. Resumen de Reglas Canónicas y Correcciones Maestras
 
-1. **Estandarización de los "Subaru":**
-   - La cadete femenina pasa a ser llamada unívocamente **Hoshina** (o *Subaru Hoshina*).
-   - El cadete masculino pasa a ser llamado **Natsuki** (o *Subaru Natsuki*).
-   - Eliminada la ambigüedad en los capítulos 35, 42, 45, 46 y 47.
-2. **Edad y Presencia de Yami Sukehiro:**
-   - **Yami tiene 16 años**, al igual que todos los demás cadetes de primer año de la Academia.
-   - Se eliminaron las recalcaduras o menciones redundantes sobre su edad en el texto (ej. en el Capítulo 35), conservando su personalidad áspera, pesada y dominante de forma natural sin contrastes forzados de veteranía.
-3. **Pertenencia de los Hijos de Calydon a la Clase F-2:**
-   - **Caesar King, Lighter, Piper Wheel, Lucy, Burnice White y Pulchra son estudiantes oficiales y miembros de pleno derecho de la Clase F-2.**
-   - Su banda y origen del páramo representan su identidad grupal, pero dentro del sistema de la Academia forman parte del aula F-2 junto a Seier, Kaoruko, Ken, Erza, Akame, Yami, Hoshina y Natsuki.
-4. **Circunstancia y Causa de la Captura de Lortelle Kecheln:**
-   - Queda canónicamente establecido en los Capítulos 43 y 46 que **Lortelle fue capturada por ratas subterráneas que emergieron aprovechando el humo y el caos cuando atacaron el ala médica y los almacenes subterráneos de suministros**.
-5. **Armamento Canónico de Dante Vance:**
-   - Se reemplazó la mención de "mandoble" en el Capítulo 40 por **"su espada corta"**. Su kit oficial se consolida como explorador: **mosquete rúnico / ballesta de repetición** y **espada corta militar de cazador**.
-6. **Rol y Equipo de Freya Skuld:**
-   - En el Capítulo 43 se corrigió la mención errónea de que usaba "báculos", reafirmando que Freya combate con su **lanza de colmillo de morsa marina** y su **escudo de roble y hierro**, mientras que la barrera de viento corresponde a **Elysea de Vane** con su estoque.
-7. **Membresía de Renji Abarai y Rukia Kuchiki en la Clase F-2:**
-   - **Renji Abarai** y **Rukia Kuchiki** son estudiantes oficiales de la **Clase F-2**, compartiendo la vida académica, el frente de batalla y las vacaciones junto al resto del grupo y los Hijos de Calydon.
-   - En dinámicas grupales y de pareja, Renji mantiene un respeto profundo y devoto hacia Rukia, sonrojándose y cuidando únicamente de ella, mientras Rukia responde con afecto, serenidad y sonrisas cómplices.
+### 1. Estandarización de Nombres: "Hoshina" vs "Natsuki"
+- **Hoshina** (*Subaru Hoshina*): Cadete femenina, ojos verdes, de los dormitorios de chicas, estratega y francotiradora a distancia en almenas. Pareja de Lighter.
+- **Natsuki** (*Subaru Natsuki*): Cadete masculino, logística, combate con Aura de Batalla plateada e índigo, pareja consolidada de Lucy.
+- Queda eliminada cualquier ambigüedad en diálogos o narraciones donde se mencione solo "Subaru".
+
+### 2. Edad Oficial y Madurez de los Personajes
+- **Edad de Primer Año (Capítulos 1 al 62):** 16 años para todos los cadetes (incluyendo a Yami Sukehiro, a quien no se debe tratar como un hombre mayor en edad, sino como un joven con presencia física pesada).
+- **Edad de Segundo Año (Capítulos 63 al 81 en adelante):** Al celebrar la fogata final en Costa Esmeralda (Cap. 63) y comenzar el segundo curso, los cadetes principales alcanzan los **17 años** de edad, asumiendo veteranía militar y mayor madurez.
+
+### 3. Estandarización de Ken (Ken de Epic Seven)
+- Su nombre es estrictamente **Ken** (sin apellido alguno).
+- Inspirado y referenciado directamente en Ken de *Epic Seven*: artista marcial de fuego solar, bandana roja en la frente, discípulo directo de la maestra **Hwa Young**, capaz de propulsarse con alas de fénix.
+- Pareja sentimental de **Burnice White**. Prohibido asignarle apellidos erróneos.
+
+### 4. Pertenencia de los Hijos de Calydon a la Clase F-2
+- **Caesar King, Lighter, Piper Wheel, Lucy, Burnice White y Pulchra** son estudiantes oficiales y miembros de pleno derecho de la Clase F-2 dentro de la Academia de Astraea. Conservan su identidad grupal del páramo, pero comparten vida académica y rango con Seier y los demás.
+
+### 5. Coherencia de Caesar King
+- Caesar King es una **mujer guerrera imponente**, rubia, de ojos dorados, escudo colosal de titanio y gladius pesado.
+- Mantiene una relación íntima y apasionada con **Yami Sukehiro**, consolidada en la noche salvaje de Costa Esmeralda (Cap. 62). En descripciones y pronombres debe mantenerse siempre en femenino.
+
+### 6. Circunstancia de la Captura de Lortelle Kecheln
+- Queda canónicamente fijado que en el **Capítulo 43**, Lortelle fue capturada por ratas subterráneas que emergieron aprovechando el caos y el humo cuando asaltaron el ala médica y los almacenes subterráneos de la fortaleza. Fue rescatada con vida en el Capítulo 46.
+
+### 7. Armamento Canónico de Dante Vance y Freya Skuld
+- **Dante Vance:** Explorador y francotirador; empuña **mosquete rúnico de precisión** a larga distancia y **espada corta militar** de cazador (eliminada la mención de mandoble).
+- **Freya Skuld:** Guerrera bárbara; combate con **lanza de colmillo de morsa marina** y **escudo de roble y hierro** (eliminada la mención de báculos).
+
+### 8. Parejas Románticas Consolidadas en la Obra
+- **Seier Silva:** Trinidad amorosa equilibrada y consumada íntimamente con devoción:
+  - **Kaoruko Waguri** (ternura sagrada y devoción mutua, Cap. 55 y Cap. 77).
+  - **Lortelle Kecheln** (pasión clandestina desinhibida y monopolio financiero-estratégico, Caps. 53, 54 y 81).
+  - **Lady Elysea de Vane** (entrega noble bajo la luna sin máscaras de frialdad, Cap. 56).
+- **Natsuki Subaru & Lucy:** Romance consolidado con confesión profunda y primer beso en Costa Esmeralda (Caps. 58 y 60).
+- **Ken & Burnice White:** Unión bajo las estrellas y complicidad fogosa (Cap. 51).
+- **Vlad & Zemina:** Amor y entrega apasionada formalizada en Costa Esmeralda (Cap. 50); reencuentro devoto en Solaria (Cap. 77).
+- **Yami Sukehiro & Caesar King:** Duelo de licor y entrega salvaje mutua (Cap. 62).
+- **Lighter & Hoshina:** Entendimiento tácito y calidez compartida (Cap. 51).
+- **Renji Abarai & Rukia Kuchiki:** Pareja consolidada de devoción mutua (Cap. 51).
+
+### 9. Asignaciones de Divisiones Tácticas en Segundo Año (Capítulo 80)
+- **División Táctica Beta:**
+  - Integrantes clave: **Seier Silva**, **Erza Scarlet**, **Natsuki Subaru**, **Agnes Tachyon**, **Dante Vance**, **Kenichi Shirahama**.
+  - Enfoque: Vanguardia de choque pesado, combate neuromuscular, alquimia termodinámica, balística de precisión y defensas circulares de Jujitsu/Seikūken.
+- **División Táctica Alfa:**
+  - Integrantes clave: **Miu Fūrinji**, **Kaoruko Waguri**, **Ken**, **Caesar King**, **Vlad**, **Piper Wheel**.
+  - Enfoque: Vanguardia defensiva acorazada de asedio, barreras de agua sagrada, agilidad marcial acrobática felina, fuego solar y maquinaria pesada a vapor.
+
+### 10. Incorporación Canónica de los Discípulos de Hinomoto (Capítulos 79 y 80)
+- **Kenichi Shirahama:** Personaje de *Shijō Saikyō no Deshi Kenichi*. Tímido y torpe en apariencia social, pero con reflejos condicionados de Jujitsu automáticos ante cualquier ataque y dominio de la técnica esférica ***Seikūken***. Sufre alivio y pavor cómico al asociar la severidad de Erza o los matraces de Agnes con sus maestros de Ryōzanpaku.
+- **Miu Fūrinji:** Nieta de Hayato Fūrinji. Rubia atlética y grácil de velocidad sobrehumana, compasiva y protectora sin necesidad de letalidad.
+
+### 11. Nuevo Equipamiento de Seier (Capítulo 76)
+- Seier porta **brazaletes y grebas de hierro negro y cobre** forjados artesanalmente por Borgar Yunque-Férreo y Garret el Herrero en Morvath, optimizados para absorber el retroceso de sus descargas de maná telúrico y Fa Jin.
+
+### 12. Regla de Estilo Narrativo (Diálogo vs Exposición)
+- **Escenas cotidianas, diálogos, romance y comedia:** Dinamismo puro, réplicas rápidas, picardía y naturalidad; se reduce la carga expositiva al mínimo indispensable.
+- **Combates y coreografías marciales:** Máxima minuciosidad técnica, precisión en palancas, clinch, distribución del centro de gravedad, desvíos articulares y flujo visceral de maná.
+
+### 13. Apariencia y Color de Cabello Canónico de Lortelle Kecheln (Capítulo 81)
+- Lortelle Kecheln tiene el **CABELLO ROJO ENCENDIDO** (melena rojiza brillante y sedosa con reflejos bermellón y cobrizos, no castaño), enmarcando sus ojos verdes esmeralda felinos y su expresión aristocrática y pícara, conforme a su ilustración oficial (`imagenes/lortelle_kecheln.png`).
+- Queda totalmente prohibido describirla con cabello castaño; en el Capítulo 81 y en la documentación del Censo se corrigió dicha confusión para preservar la fidelidad visual absoluta.
 
 ---
 
-8. **Identidad Canónica de Ken (Ken Fénix de Epic Seven):**
-   - El personaje se llama estrictamente **Ken** (sin apellido alguno). Está directamente referenciado e inspirado en Ken de *Epic Seven* (artista marcial de fuego solar, discípulo de la maestra Hwa Young, portador de bandana roja y puños flamígeros).
-   - Queda totalmente prohibido adjudicarle apellidos erróneos como "Kaneki" u otros ajenos a su obra de origen.
-9. **Directriz de Estilo Narrativo (Preferencia de Diálogos sobre Exposición):**
-   - En escenas de vida cotidiana, academia, comedia y romance, se prioriza el diálogo ágil, vivo, con ritmo picante y réplicas directas, reduciendo la explicación narrativa y descriptiva a lo esencial.
-   - Las descripciones exhaustivas, técnicas y meticulosas se reservan con todo su rigor para las secuencias de combate, táctica marcial, magia y batallas a gran escala.
+## 2. Matriz de Coherencia Cronológica y Estado de Arcos
 
----
-
-## 2. Detalle de Cambios Aplicados en los Capítulos y `.docx`
-
-| Capítulo | Elemento Corregido | Texto Anterior | Corrección Aplicada |
+| Arco Narrativo | Capítulos | Estado | Puntos Críticos Verificados |
 | :--- | :--- | :--- | :--- |
-| **Cap. 35** | Descripción de Yami | *"A pesar de tener la misma edad que todos los presentes, el chico del Reino del Trébol irradiaba una presencia dominante y pesada."* | *"Al frente, Yami Sukehiro mantenía la línea con su postura pesada habitual, irradiando una presencia dominante."* (Edad canónica: 16 años, sin recalcar). |
-| **Cap. 40** | Arma secundaria de Dante | *"Dante envainaba su mandoble"* | *"Dante envainaba su espada corta"* (coherente con su rol de explorador ágil). |
-| **Cap. 42** | Nombres de Natsuki | *"Subaru ya no era el chico tembloroso... Subaru leyó el movimiento..."* | *"Natsuki ya no era el chico tembloroso... Natsuki leyó el movimiento..."* |
-| **Cap. 43** | Equipo de Freya y captura de Lortelle | *"Ambas chicas estaban atrapadas en el ala médica, intentando levantar barreras de viento purificador con sus báculos..."* | *"Elysea intentaba levantar una barrera de viento con su estoque mientras Freya interponía su escudo de roble e incrustaba su lanza tribal... una horda de ratas subterráneas emergió del sótano aprovechando el caos y el humo para asaltar suministros, atrapando a Lortelle Kecheln..."* |
-| **Cap. 45** | Nombres de Natsuki | *"Subaru no intentó bloquear... Lighter y Subaru chocaron los puños..."* | *"Natsuki no intentó bloquear... Lighter y Natsuki chocaron los puños..."* |
-| **Cap. 46** | Captura de Lortelle, membresía de Calydon y Natsuki | *"Eran cadetes capturados durante el colapso del ala médica..."* / *"aliada incondicional de los Hijos de Calydon y de la Clase F-2"* / *"Subaru ajustaba su guardia"* | *"capturados cuando las ratas subterráneas aprovecharon el caos y el humo del ataque interior..."* / *"los Hijos de Calydon —ahora integrados plenamente como estudiantes y combatientes de la Clase F-2—"* / *"Natsuki ajustaba su guardia"*. |
-| **Cap. 47** | Nombres de Natsuki y Hijos de Calydon | *"gracias al audaz asalto de los Hijos de Calydon"* / *"mientras Subaru Natsuki, con su aura plateada al límite..."* | *"gracias al audaz asalto de los combatientes de Calydon de la Clase F-2"* / *"mientras Natsuki, con su aura plateada al límite..."* |
+| **Arco 1: Academia y Torneo Imperial** | 0 al 30 | Concluido | Derrota de nobles arrogantes, consagración de la F-2, despertar telúrico. |
+| **Arco 2: Calabozos Carmesí y Abismo** | 31 al 40 | Concluido | Caída al abismo con Lortelle, supervivencia desnudos en la gruta, retorno a la superficie. |
+| **Arco 3: Invasión Skaven y Roca Carmesí** | 41 al 48 | Concluido | Captura y rescate de Lortelle, muerte del Señor de la Guerra, Gran Medalla del León de Oro. |
+| **Arco 4: Vacaciones en Costa Esmeralda** | 49 al 63 | Concluido | Consolidación amorosa de las parejas, romance de Seier con Kaoruko, Elysea y Lortelle; paso a los 17 años. |
+| **Arco 5: Campaña de Morvath (Sección Uno)** | 64 al 76 | Concluido | Aulas mixtas, traición del Conde Raymond y Valerius, culto a Khorne purgado, rescate de Leo, 100 Caballeros de la Corona, Julian proclamado Regente, condecoración de Seier como Caballero Protector de Morvath. |
+| **Arco 6: Retorno y Crónicas Antológicas** | 77 al 78 | Concluido | Reencuentro en La Jarra Plateada, crónicas de despliegue de las Secciones 2 a 7, integración de nuevos reclutas. |
+| **Arco 7: Albor del Segundo Año y Sistema Integral** | 79 al 81 | En desarrollo activo | Apertura universal, llegada de Kenichi y Miu, asignación a Divisiones Alfa y Beta, convivencia de tres promociones, pacto e inteligencia de Lortelle sobre las Ruinas Negras del Sur. |
 
 ---
 
-## 3. Estado de los Documentos y Compilaciones
-- [x] **`agregar_capitulo_35.py`** modificado y re茂ndice compilado.
-- [x] **`agregar_capitulo_40.py`** modificado y re茂ndice compilado.
-- [x] **`agregar_capitulo_42.py`** modificado y re茂ndice compilado.
-- [x] **`agregar_capitulo_43.py`** modificado y re茂ndice compilado.
-- [x] **`agregar_capitulo_45.py`** modificado y re茂ndice compilado.
-- [x] **`agregar_capitulo_46.py`** modificado y re茂ndice compilado.
-- [x] **`agregar_capitulo_47.py`** modificado y re茂ndice compilado.
-- [x] Documentos individuales `.docx` y `.txt` en `capitulos/` regenerados.
-- [x] Libro Maestro `compilado/El_Camino_del_Reencarnado.docx` (Prólogo + Capítulos 1 al 47) totalmente sincronizado.
+## 3. Lista de Verificación para Nuevos Capítulos (Capítulo 82 en adelante)
+- [ ] ¿Los cadetes de segundo año son tratados con 17 años y rango de veteranos?
+- [ ] ¿Se respeta la asignación de la División Beta (Seier, Erza, Subaru, Agnes, Dante, Kenichi)?
+- [ ] ¿Se respeta la asignación de la División Alfa (Miu, Kaoruko, Ken, Caesar, Vlad, Piper)?
+- [ ] ¿Ken es llamado estrictamente "Ken" sin apellido alguno?
+- [ ] ¿Se mantiene el equilibrio entre diálogo ágil en slice-of-life y detalle marcial neuromuscular en combate?
+- [ ] ¿Se exploran las pistas sobre el miasma de las Ruinas Negras del Sur y los nidos Skaven provistas por Lortelle?
