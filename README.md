@@ -14,7 +14,7 @@ Asignado a la despreciada Clase F-2, Seier desafía el orden establecido no a tr
 
 ## Estructura del Repositorio
 
-- **`capitulos/`**: Contiene los documentos individuales formateados (`.docx`) de cada capítulo (Prólogo al Capítulo 86).
+- **`capitulos/`**: Contiene los documentos individuales formateados (`.docx`) de cada capítulo (Prólogo al Capítulo 87).
 - **`compilado/`**: Libro maestro completo (`El_Camino_del_Reencarnado.docx`) con formato editorial, páginas preliminares, fichas de personaje e ilustraciones integradas.
 - **`agregar_capitulo.py`**: Script unificado y general para registrar o sobrescribir capítulos; genera el documento `.docx` individual y recompila automáticamente el libro maestro completo.
 - **`compilar_novela.py`**: Compilador general dinámico que lee directamente todos los capítulos en `capitulos/` y genera el libro maestro sin requerir scripts redundantes.
@@ -66,12 +66,13 @@ Asignado a la despreciada Clase F-2, Seier desafía el orden establecido no a tr
 - **Capítulo 84**: Ecos en la Puerta Sur: El Llamado de Ken, la Bendición de Escarcha y las Legiones del Rey (Convocatoria de urgencia de Ken para incinerar biomasa Skaven con fuego solar; carrera de Ken y beso ardiente de Burnice; despedida distinguida de Lady Elysea de Vane con broche de escarcha y beso noble a Seier; inicio definitivo de la marcha; instrucción de Valerick sobre el choque masivo exterior del Ejército Real vs la infiltración interior quirúrgica de la academia)
 - **Capítulo 85**: El Campamento de los Cien Leones: Frente de Guerra y el Abismo Purpúreo (Llegada al atrincheramiento del Ejército Real en la Garganta del Cuervo; prueba de los 200 respiradores de loto de Lortelle por Agnes en Kenichi; escaramuza relámpago donde Thorne frena un Engendro de Miasma, Kenichi desvía proyectiles con Seikūken, Ken calcina los capullos con Fuego Solar del Fénix y Seier fractura el cráneo de la bestia con un codazo de Muay Thai; asombro del General Alden; inicio del bombardeo exterior y descenso al abismo)
 - **Capítulo 86**: Las Galerías de Ónix: El Laberinto de Miasma y la Primera Cámara Nodriza (Infiltración por las calzadas de basalto y ónix bajo el estruendo de la artillería de Alden; alivio de los respiradores de loto y el broche de escarcha de Elysea; Kenichi defiende la retaguardia de Agnes desplegando su Seikūken y proyecciones de Jujitsu arrojando acechadores al abismo; asalto a la Primera Cámara Nodriza donde Erza viste su Armadura de la Emperatriz del Fuego, Thorne y Bawden desbalancean al Ogro Rata Acorazado, Seier destroza su esternón con un rodillazo Khao Dui y Ken pulveriza el núcleo con el Puño Solar del Fénix calcinando el saco nodriza; purificación de las aguas subterráneas y hallazgo del portón ciclópeo de Solaria hacia el segundo nivel)
+- **Capítulo 87**: El Enigma del Portón Imperial: El Segundo Círculo y la Cripta de Disformidad (Bawden y Agnes descifran y abren el portón ciclópeo de la Tercera Dinastía; descenso al caluroso Segundo Círculo saturado de piedra bruja; asalto coordinado a la fundición Skaven donde Dante y Hoshina anulan a los francotiradores, Lighter y Kenichi desarticulan las picas con boxeo y Jujitsu, Seier destroza el generador maestro y Ken calcina la Segunda Cámara Nodriza con su fuego solar)
 
 ---
 
 ## Documentación Editorial y de Continuidad
 
-- **[`RESUMEN_HISTORIA.md`](file:///c:/Users/fabian.silvat/Documents/GitHub/Novela-main/RESUMEN_HISTORIA.md)**: Resumen histórico dinámico de todos los capítulos (Prólogo al 86) con sinopsis, arcos y guía de actualización para futuros capítulos.
+- **[`RESUMEN_HISTORIA.md`](file:///c:/Users/fabian.silvat/Documents/GitHub/Novela-main/RESUMEN_HISTORIA.md)**: Resumen histórico dinámico de todos los capítulos (Prólogo al 87) con sinopsis, arcos y guía de actualización para futuros capítulos.
 - **[`CENSO_PERSONAJES.md`](file:///c:/Users/fabian.silvat/Documents/GitHub/Novela-main/CENSO_PERSONAJES.md)**: Censo operativo de personajes por capítulo iniciado desde el Capítulo 47, clasificando quiénes aparecen en escena y qué hacen los personajes en el evento fuera de foco.
 - **[`AUDITORIA_PERSONAJES.md`](file:///c:/Users/fabian.silvat/Documents/GitHub/Novela-main/AUDITORIA_PERSONAJES.md)**: Registro exhaustivo de todos los personajes con nombre, facciones, estilos de combate, armas, estado y dinámica con el protagonista.
 - **[`CORRECCION_ERRORES.md`](file:///c:/Users/fabian.silvat/Documents/GitHub/Novela-main/CORRECCION_ERRORES.md)**: Auditoría de continuidad y posibles inconsistencias narrativas detectadas en la obra, con soluciones canónicas y reglas de estilo.

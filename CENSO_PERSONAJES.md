@@ -1320,3 +1320,35 @@
 | **Kaoruko Waguri** | Evocada por el amuleto sagrado de jazmín que perfuma el pecho de Seier y le brinda calidez espiritual. |
 | **General Alden y el Ejército Real de Solaria** | Manteniendo el bombardeo incesante con seis baterías de cañones de vapor en la superficie, fijando a la horda exterior. |
 | **Maestro Hayato Fūrinji, Sakaki Shio y Maestra Hwa Young** | Evocados en los diálogos marciales y la filosofía de combate de Kenichi Shirahama y Ken. |
+
+
+# Censo de Personajes: Capítulo 87
+**Capítulo:** *El Enigma del Portón Imperial: El Segundo Círculo y la Cripta de Disformidad*  
+**Ubicación Principal:** Umbral del portón ciclópeo y Cripta de Disformidad (Segunda Cámara Nodriza), Ruinas Negras del Sur.  
+**Contexto Operativo:** Apertura del portón ancestral con ingeniería de Bawden, Agnes y Seier; descenso al Segundo Círculo; combate táctico coordinado contra la guarnición del Clan Skryre; destrucción de la Segunda Cámara Nodriza por Ken y Seier.
+
+### 1. Personajes que APARECEN en Escena
+
+| Personaje | Facción / Rol | Rol / Acción en el Capítulo | Estado al Cierre |
+| :--- | :--- | :--- | :--- |
+| **Seier Silva** | Segundo Año / Líder Beta | Gira los ejes de la cerradura con maná telúrico; destruye la mochila del Ingeniero Brujo con un codazo *Sok Ti*; coordina el avance hacia el Tercer Círculo. | Imponente, ileso y líder absoluto de la vanguardia. |
+| **Ken** | Segundo Año / División Beta | Remata el segundo Saco Nodriza con una patada de hacha descendente envuelta en *Fuego Solar del Fénix*, calcinando la biomasa sin esporas. | Enérgico, victorioso y con fuego solar en alto. |
+| **Kenichi Shirahama** | Segundo Año / División Beta | Pánico cómico ante el líquido verde; despliega *Seikūken*, *Ippon Seoi Nage* y *Kote Gaeshi*, lanzando a un piquero contra el lanzallamas y salvando el flanco. | Sorprendido de sus propios reflejos y elogiado por veteranos. |
+| **Erza Scarlet** | Segundo Año / División Beta | Ordena el avance de choque; despliega espadas flotantes para neutralizar cables de alimentación del generador principal. | Severa, marcial e invencible. |
+| **Lighter** | Segundo Año (División Lighter) | Carga con propulsores térmicos y ráfagas de boxeo (*Flash Burst*), astillando picas y felicitando a Kenichi por su juego de cintura. | Confiado, risueño y demoledor en el cuerpo a cuerpo. |
+| **Dante Vance** | Segundo Año / División Beta | Apoya su rifle en el escudo de Thorne y abate a tres francotiradores Jezzails en las cornisas con tiros a la cabeza. | Francotirador implacable y sereno. |
+| **Subaru Hoshina** | Segundo Año (División Lighter) | Dispara en ráfagas de dos proyectiles perforantes, inutilizando armas de los tiradores Skaven en altura. | Letal, concentrada y analítica. |
+| **Natsuki Subaru** | Segundo Año / División Beta | Calma a Kenichi con humor sobre los brebajes verdes; coordina el apoyo logístico de la retaguardia. | Ingenioso, maduro y protector. |
+| **Agnes Tachyon** | Segundo Año / División Beta | Aplica solución endotérmica para disolver la corrosión del portón; recolecta cristales de piedra bruja purificados para investigación. | Fascinada por las reacciones y eufórica. |
+| **Capitán Bawden** | Tercer Año (Colmillo Plateado) | Descifra los engranajes de la cerradura ancestral de Solaria; elogia la velocidad quirúrgica de la F-2. | Respetuoso, veterano y espada en mano. |
+| **Capitán Kaelen Thorne** | Tercer Año (Bastión de Hierro) | Forma la muralla tortuga de granito y mithril dispersando rayos de disformidad; felicita con palmadas a Kenichi. | Firme, colosal y leal a la expedición. |
+| **Ingeniero Brujo Mayor** | Clan Skryre (Skaven) | Dirige la fundición de guerra con ojo biónico y cetro electrificado; neutralizado por el codazo de Seier. | Derrotado y aplastado. |
+
+### 2. Personajes Mencionados pero Fuera de Escena
+| Personaje | Ubicación / Estado |
+| :--- | :--- |
+| **General Alden** | Continúa el bombardeo sostenido de cañones de vapor en la superficie de la Garganta del Cuervo. |
+| **Lortelle Kecheln** | Sus respiradores rúnicos de loto de invierno filtran con éxito los gases cáusticos del Segundo Círculo. |
+| **Lady Elysea de Vane** | Su broche de escarcha amortigua la fiebre térmica y radiación de piedra bruja en Seier. |
+| **Kaoruko Waguri** | Su amuleto de jazmín sagrado reconforta espiritualmente a Seier en el descenso. |
+| **Maestros de Ryōzanpaku (Kensei Ma)** | Evocados en los pánicos cómicos de Kenichi al ver el líquido verde. |

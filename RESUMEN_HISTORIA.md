@@ -212,24 +212,28 @@ Diez años después, forjado en un condicionamiento físico y de maná telúrico
 
 ---
 
-## 4. Estado Actual de la Trama y del Mundo (Post-Capítulo 86)
-- **Escenario:** Fondo de la Primera Cámara Nodriza purificada, en el antiguo acueducto subterráneo de Valdemar, frente al portón ciclópeo ancestral de Solaria.
-- **Estatus Global de la Fuerza Expedicionaria de Astraea (17 años):**
-  - **Primera Cámara Nodriza Purgada:**
-    - Destrucción del primer Saco Embrionario y del Ogro Rata Acorazado mediante la sinergia de Seier, Ken, Erza, Thorne y Bawden.
-    - Caída del 45% en la concentración de miasma en el primer cuadrante subterráneo y rescate del acuífero freático de Valdemar.
-  - **División y Tareas Operativas:**
-    - *División Beta (Seier Silva, Erza Scarlet, Ken, Kenichi Shirahama, Natsuki Subaru, Dante Vance, Agnes Tachyon):* Punta de lanza intacta; Kenichi gana el respeto total de la retaguardia tras defender a Agnes con su *Seikūken*; Erza y Ken sincronizan fuego sagrado y fuego solar.
-    - *División de Lighter (Lighter & Subaru Hoshina):* Control de flancos y vigilancia perimetral con guanteletes de vapor y rifles balísticos.
-    - *División Colmillo Plateado (Capitán Bawden):* Reconocimiento de relieves y cerraduras rúnicas en el portón ciclópeo.
-    - *División Bastión de Hierro (Capitán Kaelen Thorne):* Asegura el puente de basalto y mantiene enlace seguro con la trinchera de extracción.
-  - **Frente Exterior (Superficie):**
-    - El **General Alden** continúa martilleando las crestas de la Garganta del Cuervo con cañones de vapor, conteniendo a las hordas en la meseta exterior.
-- **Periodo Activo:** Madrugada del tercer día del Segundo Año; umbral del descenso al Segundo Círculo de las Ruinas Negras.
+- **Capítulo 87: El Enigma del Portón Imperial: El Segundo Círculo y la Cripta de Disformidad**: La fuerza expedicionaria de los Cuatro Estandartes enfrenta el desafío del portón ciclópeo de la Tercera Dinastía que sella el descenso. El Capitán Bawden descifra las cerraduras rúnicas ancestrales, Agnes Tachyon disuelve la corrosión de piedra bruja con un solvente endotérmico de loto, y Seier Silva canaliza maná telúrico con sus brazaletes de Morvath para girar los ejes milenarios, abriendo el umbral hacia el **Segundo Círculo Subterráneo**. La temperatura asciende drásticamente y el aire se satura de azufre y radiación de disformidad. Kenichi Shirahama sufre un cómico ataque de pánico al comparar el brillo verde con las pócimas del maestro Kensei Ma en Ryōzanpaku. En una nave abovedada encuentran la **Segunda Cámara Nodriza**, suspendida sobre un foso de piedra bruja y defendida por Alimañas Acorazadas con picas electrificadas, tiradores Jezzails y un Ingeniero Brujo Mayor del Clan Skryre. La respuesta táctica es demoledora: la División Bastión de Hierro de Thorne resiste las descargas en formación tortuga; Dante Vance y Subaru Hoshina silencian a los francotiradores desde las alturas con disparos rúnicos a la cabeza; Lighter y Kenichi desarticulan la falange enemiga con jabs de combustión y proyecciones circulares de Jujitsu (*Ippon Seoi Nage*, *Kote Gaeshi*), inutilizando un lanzallamas de disformidad sin recibir un rasguño; Seier destroza el generador maestro con un codazo *Sok Ti* de Jeet Kune Do; y Ken remata el segundo Saco Nodriza con una patada de hacha descendente de *Fuego Solar del Fénix*, calcinando la biomasa y los reactores a nivel atómico. Con la toxicidad ambiental reducida al 80% y sin sufrir bajas, el grupo descubre una escalera helicoidal que desciende hacia el **Tercer Círculo y la Cámara del Soberano de Miasma**.
 
 ---
 
-## 5. Hoja de Roadmap y Preparación para el Capítulo 87
+## 4. Estado Actual de la Trama y del Mundo (Post-Capítulo 87)
+- **Escenario:** Fondo de la Cripta de Disformidad purificada, frente a la escalera helicoidal que desciende al Tercer Círculo Subterráneo de las Ruinas Negras del Sur.
+- **Estatus Global de la Fuerza Expedicionaria de Astraea (17 años):**
+  - **Segunda Cámara Nodriza Purgada:**
+    - Destrucción del segundo Saco Embrionario y de los generadores Skryre mediante el fuego solar de Ken y el asalto conjunto de Seier, Lighter y Erza.
+    - Toxicidad ambiental purificada en un 80% en todo el complejo subterráneo; acuíferos y galerías medias aseguradas.
+  - **División y Tareas Operativas:**
+    - *División Beta (Seier Silva, Erza Scarlet, Ken, Kenichi Shirahama, Natsuki Subaru, Dante Vance, Agnes Tachyon):* Coordinación impecable; Kenichi gana felicitaciones directas de Thorne y Lighter por neutralizar al lanzallamas sin letalidad; Dante y Hoshina consolidan su letalidad como francotiradores.
+    - *División de Lighter (Lighter & Subaru Hoshina):* Control de flancos y choque cuerpo a cuerpo térmico.
+    - *División Colmillo Plateado (Capitán Bawden):* Descifrado heráldico y vigilancia de cornisas.
+    - *División Bastión de Hierro (Capitán Kaelen Thorne):* Blindaje de la vanguardia con escudos de granito y mithril; aseguramiento de las líneas de evacuación.
+  - **Frente Exterior (Superficie):**
+    - El **General Alden** continúa martilleando las crestas de la Garganta del Cuervo con cañones de vapor, conteniendo a las hordas en la meseta exterior.
+- **Periodo Activo:** Madrugada avanzada del tercer día del Segundo Año; umbral del descenso al Tercer Círculo de las Ruinas Negras.
 
-### Propuesta de Título: *El Enigma del Portón Imperial: El Segundo Círculo y la Cripta de Disformidad*
-- **Eje Principal:** Descifrado y apertura del portón ciclópeo ancestral con los conocimientos heráldicos de Bawden y las disoluciones químicas de Agnes; descenso al Segundo Círculo subterráneo donde la temperatura asciende y el aire se satura de azufre y energía de disformidad; detección de la Segunda Cámara Nodriza protegida por Ingenieros Brujos Skaven con cañones de disformidad y mosquetes de chispa; asalto coordinado donde Dante y Hoshina anulan a los tiradores enemigos a distancia, Lighter y Kenichi desarticulan las líneas de picas, y Seier y Ken coordinan el choque contra la maquinaria corrupta.
+---
+
+## 5. Hoja de Roadmap y Preparación para el Capítulo 88
+
+### Propuesta de Título: *El Abismo del Soberano: La Tercera Cámara y el Ojo del Miasma*
+- **Eje Principal:** Descenso por la rampa helicoidal hacia el Tercer Círculo Subterráneo; ingreso a la Cámara del Soberano de Miasma donde yace la fuente raíz de la corrupción; confrontación contra el Patriarca de la Plaga / Señor de la Guerra Skaven mutado; despliegue conjunto de los Cuatro Estandartes para la purga final del nido y sellado definitivo de la falla arcana.
